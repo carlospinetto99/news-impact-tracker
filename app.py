@@ -25,7 +25,7 @@ c1, c2 = st.columns(2)
 mondo = c1.radio("w", ["General", "ESG"], horizontal=True, label_visibility="collapsed")
 tipo  = c2.radio("t", ["Stocks", "ETFs"], horizontal=True, label_visibility="collapsed")
 c3, c4 = st.columns([1.4, 1])
-ordine = c3.selectbox("s", ["Newest first", "Largest move", "Out of noise only"],
+ordine = c3.selectbox("s", ["Newest first", "Most significant", "Out of noise only"],
                       label_visibility="collapsed")
 banda = c4.checkbox("noise band", value=True)
 FONDO = BLU if mondo == "General" else VERDE
@@ -58,8 +58,9 @@ if not len(vis):
                 'the ETF\'s actual move. Coming next.</div>', unsafe_allow_html=True)
     st.stop()
 
-if ordine == "Largest move":
-    vis = vis.reindex(vis["car"].abs().sort_values(ascending=False).index)
+if ordine == "Most significant":
+    vis["sig"] = (vis["car"].abs() / vis["soglia"]).fillna(-1)
+    vis = vis.sort_values("sig", ascending=False)
 elif ordine == "Out of noise only":
     vis = vis[vis["rumore"] == False].sort_values("giorno0", ascending=False)
 else:
