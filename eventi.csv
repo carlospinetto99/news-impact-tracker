@@ -1,0 +1,108 @@
+evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore
+AAPL|2026-07-15,waiting,AAPL,General,,2026-07-15,,,,,,,Information Technology
+AMAT|2026-07-15,waiting,AMAT,General,,2026-07-15,,,,,,,Information Technology
+AMD|2026-07-15,waiting,AMD,General,,2026-07-15,,,,,,,Information Technology
+AMZN|2026-07-15,waiting,AMZN,General,,2026-07-15,,,,,,,Consumer Discretionary
+AVGO|2026-07-15,waiting,AVGO,General,,2026-07-15,,,,,,,Information Technology
+AXP|2026-07-15,waiting,AXP,General,,2026-07-15,,,,,,,Financials
+BAC|2026-07-15,waiting,BAC,General,,2026-07-15,,,,,,,Financials
+BA|2026-07-15,waiting,BA,General,,2026-07-15,,,,,,,Industrials
+BLK|2026-07-15,waiting,BLK,ESG,E,2026-07-15,,,,,,False,Financials
+BRK-B|2026-07-15,waiting,BRK-B,General,,2026-07-15,,,,,,,Financials
+CAT|2026-07-15,waiting,CAT,ESG,E,2026-07-15,,,,,,True,Industrials
+CMCSA|2026-07-15,waiting,CMCSA,General,,2026-07-15,,,,,,,Communication Services
+COP|2026-07-15,waiting,COP,General,,2026-07-15,,,,,,,Energy
+CSCO|2026-07-15,waiting,CSCO,General,,2026-07-15,,,,,,,Information Technology
+CVX|2026-07-15,waiting,CVX,ESG,E,2026-07-15,,,,,,True,Energy
+C|2026-07-15,waiting,C,General,,2026-07-15,,,,,,,Financials
+DIS|2026-07-15,waiting,DIS,General,,2026-07-15,,,,,,,Communication Services
+GEV|2026-07-15,waiting,GEV,General,,2026-07-15,,,,,,,Industrials
+GE|2026-07-15,waiting,GE,General,,2026-07-15,,,,,,,Industrials
+GOOGL|2026-07-15,waiting,GOOGL,ESG,G,2026-07-15,,,,,,True,Communication Services
+GOOG|2026-07-15,waiting,GOOG,ESG,G,2026-07-15,,,,,,True,Communication Services
+GS|2026-07-15,waiting,GS,ESG,E,2026-07-15,,,,,,False,Financials
+INTC|2026-07-15,waiting,INTC,General,,2026-07-15,,,,,,,Information Technology
+JPM|2026-07-15,waiting,JPM,General,,2026-07-15,,,,,,,Financials
+LRCX|2026-07-15,waiting,LRCX,General,,2026-07-15,,,,,,,Information Technology
+MA|2026-07-15,waiting,MA,General,,2026-07-15,,,,,,,Financials
+META|2026-07-15,waiting,META,ESG,S,2026-07-15,,,,,,True,Communication Services
+MPC|2026-07-15,waiting,MPC,General,,2026-07-15,,,,,,,Energy
+MSFT|2026-07-15,waiting,MSFT,General,,2026-07-15,,,,,,,Information Technology
+MS|2026-07-15,waiting,MS,ESG,E,2026-07-15,,,,,,False,Financials
+NEE|2026-07-15,waiting,NEE,General,,2026-07-15,,,,,,,
+NFLX|2026-07-15,waiting,NFLX,General,,2026-07-15,,,,,,,Communication Services
+NVDA|2026-07-15,waiting,NVDA,ESG,E,2026-07-15,,,,,,False,Information Technology
+QQQ|2026-07-15,no data,QQQ,General,,2026-07-15,,,,,,,
+RTX|2026-07-15,waiting,RTX,ESG,E,2026-07-15,,,,,,True,Industrials
+SLB|2026-07-15,waiting,SLB,General,,2026-07-15,,,,,,,Energy
+TMUS|2026-07-15,waiting,TMUS,General,,2026-07-15,,,,,,,Communication Services
+TSLA|2026-07-15,waiting,TSLA,General,,2026-07-15,,,,,,,Consumer Discretionary
+TTWO|2026-07-15,waiting,TTWO,General,,2026-07-15,,,,,,,Communication Services
+UBER|2026-07-15,waiting,UBER,General,,2026-07-15,,,,,,,Industrials
+VLO|2026-07-15,waiting,VLO,ESG,E,2026-07-15,,,,,,True,Energy
+V|2026-07-15,waiting,V,General,,2026-07-15,,,,,,,Financials
+WBD|2026-07-15,waiting,WBD,General,,2026-07-15,,,,,,,Communication Services
+WFC|2026-07-15,waiting,WFC,General,,2026-07-15,,,,,,,Financials
+XOM|2026-07-15,waiting,XOM,General,,2026-07-15,,,,,,,Energy
+AAPL|2026-07-14,consolidating,AAPL,General,,2026-07-14,,,,,,,
+AMAT|2026-07-14,consolidating,AMAT,General,,2026-07-14,,,,,,,Information Technology
+AXP|2026-07-14,consolidating,AXP,General,,2026-07-14,,,,,,,Financials
+BAC|2026-07-14,consolidating,BAC,General,,2026-07-14,,,,,,,Financials
+BA|2026-07-14,consolidating,BA,General,,2026-07-14,,,,,,,Industrials
+BLK|2026-07-14,consolidating,BLK,ESG,E,2026-07-14,,,,,,False,Financials
+CAT|2026-07-14,consolidating,CAT,ESG,E,2026-07-14,,,,,,True,Industrials
+CMCSA|2026-07-14,consolidating,CMCSA,General,,2026-07-14,,,,,,,Communication Services
+COP|2026-07-14,consolidating,COP,General,,2026-07-14,,,,,,,Energy
+CSCO|2026-07-14,consolidating,CSCO,General,,2026-07-14,,,,,,,Information Technology
+DE|2026-07-14,consolidating,DE,ESG,E,2026-07-14,,,,,,True,Industrials
+DIS|2026-07-14,consolidating,DIS,General,,2026-07-14,,,,,,,Communication Services
+ETN|2026-07-14,consolidating,ETN,ESG,E,2026-07-14,,,,,,True,Industrials
+GEV|2026-07-14,consolidating,GEV,General,,2026-07-14,,,,,,,Industrials
+GE|2026-07-14,consolidating,GE,ESG,E,2026-07-14,,,,,,True,Industrials
+JPM|2026-07-14,consolidating,JPM,General,,2026-07-14,,,,,,,Financials
+MA|2026-07-14,consolidating,MA,General,,2026-07-14,,,,,,,Financials
+MS|2026-07-14,consolidating,MS,General,,2026-07-14,,,,,,,Financials
+PEP|2026-07-14,consolidating,PEP,ESG,E,2026-07-14,,,,,,True,Consumer Staples
+PSX|2026-07-14,consolidating,PSX,General,,2026-07-14,,,,,,,Energy
+RTX|2026-07-14,consolidating,RTX,General,,2026-07-14,,,,,,,Industrials
+SLB|2026-07-14,consolidating,SLB,ESG,E,2026-07-14,,,,,,True,Energy
+TMUS|2026-07-14,consolidating,TMUS,General,,2026-07-14,,,,,,,Communication Services
+UBER|2026-07-14,consolidating,UBER,General,,2026-07-14,,,,,,,Industrials
+VRT|2026-07-14,consolidating,VRT,General,,2026-07-14,,,,,,,Industrials
+V|2026-07-14,consolidating,V,General,,2026-07-14,,,,,,,Financials
+XOM|2026-07-14,consolidating,XOM,ESG,E,2026-07-14,,,,,,True,Energy
+CAT|2026-07-13,consolidating,CAT,General,,2026-07-13,,,,,,,Industrials
+DE|2026-07-13,consolidating,DE,General,,2026-07-13,,,,,,,Industrials
+ETN|2026-07-13,consolidating,ETN,General,,2026-07-13,,,,,,,Industrials
+GEV|2026-07-13,consolidating,GEV,ESG,E,2026-07-13,,,,,,True,Industrials
+ICLN|2026-07-13,no data,ICLN,General,,2026-07-13,,,,,,,
+MSFT|2026-07-13,consolidating,MSFT,ESG,E,2026-07-13,,,,,,False,Information Technology
+NEE|2026-07-13,consolidating,NEE,General,,2026-07-13,,,,,,,
+RTX|2026-07-13,consolidating,RTX,General,,2026-07-13,,,,,,,Industrials
+UNP|2026-07-13,consolidating,UNP,ESG,S,2026-07-13,,,,,,True,Industrials
+VRT|2026-07-13,consolidating,VRT,General,,2026-07-13,,,,,,,Industrials
+WMB|2026-07-13,consolidating,WMB,ESG,E,2026-07-13,,,,,,True,Energy
+WMB|2026-07-12,consolidating,WMB,ESG,EG,2026-07-12,,,,,,True,Energy
+COP|2026-07-11,consolidating,COP,General,,2026-07-11,,,,,,,Energy
+DE|2026-07-11,consolidating,DE,General,,2026-07-11,,,,,,,Industrials
+UNP|2026-07-11,consolidating,UNP,ESG,S,2026-07-11,,,,,,True,Industrials
+ETN|2026-07-10,consolidating,ETN,General,,2026-07-10,,,,,,,Industrials
+ICLN|2026-07-10,no data,ICLN,General,,2026-07-10,,,,,,,
+PSX|2026-07-10,consolidating,PSX,General,,2026-07-10,,,,,,,Energy
+ICLN|2026-07-09,closed,ICLN,General,,2026-07-09,-2.71,6.61,True,1.62,1.51,,
+EA|2026-07-09,closed,EA,General,,2026-07-09,0.57,1.67,True,0.11,0.38,,Communication Services
+EOG|2026-07-09,closed,EOG,General,,2026-07-09,1.68,7.7,True,-0.78,1.76,,Energy
+TTWO|2026-07-09,closed,TTWO,General,,2026-07-09,-8.39,9.56,True,0.75,2.18,,Communication Services
+UNP|2026-07-09,closed,UNP,ESG,S,2026-07-09,1.24,7.04,True,0.32,1.61,True,Industrials
+KMI|2026-07-08,closed,KMI,General,,2026-07-08,0.82,5.82,True,-0.17,1.33,,Energy
+UNP|2026-07-08,closed,UNP,ESG,S,2026-07-08,1.95,7.05,True,0.32,1.61,True,Industrials
+EA|2026-07-06,closed,EA,General,,2026-07-06,0.5,1.64,True,0.12,0.37,,Communication Services
+KMI|2026-07-06,closed,KMI,General,,2026-07-06,1.55,5.76,True,-0.17,1.31,,Energy
+EA|2026-07-01,closed,EA,General,,2026-07-01,0.14,1.64,True,0.12,0.37,,Communication Services
+AMZN|2026-06-30,closed,AMZN,ESG,E,2026-06-30,1.95,6.61,True,1.27,1.51,False,Consumer Discretionary
+EA|2026-06-30,closed,EA,General,,2026-06-30,-0.28,1.64,True,0.13,0.37,,Communication Services
+EA|2026-06-28,closed,EA,General,,2026-06-28,0.07,1.64,True,0.13,0.37,,Communication Services
+MSFT|2026-06-26,closed,MSFT,ESG,E,2026-06-26,4.68,8.14,True,0.89,1.86,False,Information Technology
+TSLA|2026-06-26,closed,TSLA,ESG,E,2026-06-26,11.13,8.65,False,1.84,1.97,False,Consumer Discretionary
+WMT|2026-06-24,closed,WMT,ESG,E,2026-06-24,-2.3,7.3,True,0.08,1.67,True,Consumer Staples
+AAPL|2026-05-01,closed,AAPL,General,,2026-05-01,3.84,4.97,True,0.79,1.13,,Information Technology

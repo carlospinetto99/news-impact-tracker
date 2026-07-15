@@ -1,0 +1,847 @@
+ticker,nome,tipo,bench,settore,sost
+MMM,3M,stock,^GSPC,Industrials,False
+AOS,A. O. Smith,stock,^GSPC,Industrials,False
+ABT,Abbott Laboratories,stock,^GSPC,Health Care,False
+ABBV,AbbVie,stock,^GSPC,Health Care,False
+ACN,Accenture,stock,^GSPC,Information Technology,False
+ADBE,Adobe Inc.,stock,^GSPC,Information Technology,False
+AMD,Advanced Micro Devices,stock,^GSPC,Information Technology,False
+AES,AES Corporation,stock,^GSPC,Utilities,False
+AFL,Aflac,stock,^GSPC,Financials,False
+A,Agilent Technologies,stock,^GSPC,Health Care,False
+APD,Air Products,stock,^GSPC,Materials,False
+ABNB,Airbnb,stock,^GSPC,Consumer Discretionary,False
+AKAM,Akamai Technologies,stock,^GSPC,Information Technology,False
+ALB,Albemarle Corporation,stock,^GSPC,Materials,False
+ARE,Alexandria Real Estate Equities,stock,^GSPC,Real Estate,False
+ALGN,Align Technology,stock,^GSPC,Health Care,False
+ALLE,Allegion,stock,^GSPC,Industrials,False
+LNT,Alliant Energy,stock,^GSPC,Utilities,False
+ALL,Allstate,stock,^GSPC,Financials,False
+GOOGL,Alphabet Inc. (Class A),stock,^GSPC,Communication Services,False
+GOOG,Alphabet Inc. (Class C),stock,^GSPC,Communication Services,False
+MO,Altria,stock,^GSPC,Consumer Staples,False
+AMZN,Amazon,stock,^GSPC,Consumer Discretionary,False
+AMCR,Amcor,stock,^GSPC,Materials,False
+AEE,Ameren,stock,^GSPC,Utilities,False
+AEP,American Electric Power,stock,^GSPC,Utilities,False
+AXP,American Express,stock,^GSPC,Financials,False
+AIG,American International Group,stock,^GSPC,Financials,False
+AMT,American Tower,stock,^GSPC,Real Estate,False
+AWK,American Water Works,stock,^GSPC,Utilities,False
+AMP,Ameriprise Financial,stock,^GSPC,Financials,False
+AME,Ametek,stock,^GSPC,Industrials,False
+AMGN,Amgen,stock,^GSPC,Health Care,False
+APH,Amphenol,stock,^GSPC,Information Technology,False
+ADI,Analog Devices,stock,^GSPC,Information Technology,False
+AON,Aon plc,stock,^GSPC,Financials,False
+APA,APA Corporation,stock,^GSPC,Energy,False
+APO,Apollo Global Management,stock,^GSPC,Financials,False
+AAPL,Apple Inc.,stock,^GSPC,Information Technology,False
+AMAT,Applied Materials,stock,^GSPC,Information Technology,False
+APP,AppLovin,stock,^GSPC,Information Technology,False
+APTV,Aptiv,stock,^GSPC,Consumer Discretionary,False
+ACGL,Arch Capital Group,stock,^GSPC,Financials,False
+ADM,Archer Daniels Midland,stock,^GSPC,Consumer Staples,False
+ARES,Ares Management,stock,^GSPC,Financials,False
+ANET,Arista Networks,stock,^GSPC,Information Technology,False
+AJG,Arthur J. Gallagher & Co.,stock,^GSPC,Financials,False
+AIZ,Assurant,stock,^GSPC,Financials,False
+T,AT&T,stock,^GSPC,Communication Services,False
+ATO,Atmos Energy,stock,^GSPC,Utilities,False
+ADSK,Autodesk,stock,^GSPC,Information Technology,False
+ADP,Automatic Data Processing,stock,^GSPC,Industrials,False
+AZO,AutoZone,stock,^GSPC,Consumer Discretionary,False
+AVB,AvalonBay Communities,stock,^GSPC,Real Estate,False
+AVY,Avery Dennison,stock,^GSPC,Materials,False
+AXON,Axon Enterprise,stock,^GSPC,Industrials,False
+BKR,Baker Hughes,stock,^GSPC,Energy,False
+BALL,Ball Corporation,stock,^GSPC,Materials,False
+BAC,Bank of America,stock,^GSPC,Financials,False
+BAX,Baxter International,stock,^GSPC,Health Care,False
+BDX,Becton Dickinson,stock,^GSPC,Health Care,False
+BRK-B,Berkshire Hathaway,stock,^GSPC,Financials,False
+BBY,Best Buy,stock,^GSPC,Consumer Discretionary,False
+TECH,Bio-Techne,stock,^GSPC,Health Care,False
+BIIB,Biogen,stock,^GSPC,Health Care,False
+BLK,BlackRock,stock,^GSPC,Financials,False
+BX,Blackstone Inc.,stock,^GSPC,Financials,False
+XYZ,"Block, Inc.",stock,^GSPC,Financials,False
+BNY,BNY Mellon,stock,^GSPC,Financials,False
+BA,Boeing,stock,^GSPC,Industrials,False
+BKNG,Booking Holdings,stock,^GSPC,Consumer Discretionary,False
+BSX,Boston Scientific,stock,^GSPC,Health Care,False
+BMY,Bristol Myers Squibb,stock,^GSPC,Health Care,False
+AVGO,Broadcom,stock,^GSPC,Information Technology,False
+BR,Broadridge Financial Solutions,stock,^GSPC,Industrials,False
+BRO,Brown & Brown,stock,^GSPC,Financials,False
+BF-B,Brown–Forman,stock,^GSPC,Consumer Staples,False
+BLDR,Builders FirstSource,stock,^GSPC,Industrials,False
+BG,Bunge Global,stock,^GSPC,Consumer Staples,False
+BXP,"BXP, Inc.",stock,^GSPC,Real Estate,False
+CHRW,C.H. Robinson,stock,^GSPC,Industrials,False
+CDNS,Cadence Design Systems,stock,^GSPC,Information Technology,False
+CPT,Camden Property Trust,stock,^GSPC,Real Estate,False
+COF,Capital One,stock,^GSPC,Financials,False
+CAH,Cardinal Health,stock,^GSPC,Health Care,False
+CCL,Carnival Corporation,stock,^GSPC,Consumer Discretionary,False
+CARR,Carrier Global,stock,^GSPC,Industrials,False
+CVNA,Carvana,stock,^GSPC,Consumer Discretionary,False
+CASY,Casey's,stock,^GSPC,Consumer Staples,False
+CAT,Caterpillar Inc.,stock,^GSPC,Industrials,False
+CBOE,Cboe Global Markets,stock,^GSPC,Financials,False
+CBRE,CBRE Group,stock,^GSPC,Real Estate,False
+CDW,CDW Corporation,stock,^GSPC,Information Technology,False
+COR,Cencora,stock,^GSPC,Health Care,False
+CNC,Centene Corporation,stock,^GSPC,Health Care,False
+CNP,CenterPoint Energy,stock,^GSPC,Utilities,False
+CF,CF Industries,stock,^GSPC,Materials,False
+CRL,Charles River Laboratories,stock,^GSPC,Health Care,False
+SCHW,Charles Schwab Corporation,stock,^GSPC,Financials,False
+CHTR,Charter Communications,stock,^GSPC,Communication Services,False
+CVX,Chevron Corporation,stock,^GSPC,Energy,False
+CMG,Chipotle Mexican Grill,stock,^GSPC,Consumer Discretionary,False
+CB,Chubb Limited,stock,^GSPC,Financials,False
+CHD,Church & Dwight,stock,^GSPC,Consumer Staples,False
+CIEN,Ciena,stock,^GSPC,Information Technology,False
+CI,Cigna,stock,^GSPC,Health Care,False
+CINF,Cincinnati Financial,stock,^GSPC,Financials,False
+CTAS,Cintas,stock,^GSPC,Industrials,False
+CSCO,Cisco,stock,^GSPC,Information Technology,False
+C,Citigroup,stock,^GSPC,Financials,False
+CFG,Citizens Financial Group,stock,^GSPC,Financials,False
+CLX,Clorox,stock,^GSPC,Consumer Staples,False
+CME,CME Group,stock,^GSPC,Financials,False
+CMS,CMS Energy,stock,^GSPC,Utilities,False
+KO,Coca-Cola Company (The),stock,^GSPC,Consumer Staples,False
+CTSH,Cognizant,stock,^GSPC,Information Technology,False
+COHR,Coherent Corp.,stock,^GSPC,Information Technology,False
+COIN,Coinbase,stock,^GSPC,Financials,False
+CL,Colgate-Palmolive,stock,^GSPC,Consumer Staples,False
+CMCSA,Comcast,stock,^GSPC,Communication Services,False
+FIX,Comfort Systems USA,stock,^GSPC,Industrials,False
+COP,ConocoPhillips,stock,^GSPC,Energy,False
+ED,Consolidated Edison,stock,^GSPC,Utilities,False
+STZ,Constellation Brands,stock,^GSPC,Consumer Staples,False
+CEG,Constellation Energy,stock,^GSPC,Utilities,False
+COO,Cooper Companies (The),stock,^GSPC,Health Care,False
+CPRT,Copart,stock,^GSPC,Industrials,False
+GLW,Corning Inc.,stock,^GSPC,Information Technology,False
+CPAY,Corpay,stock,^GSPC,Financials,False
+CTVA,Corteva,stock,^GSPC,Materials,False
+CSGP,CoStar Group,stock,^GSPC,Real Estate,False
+COST,Costco,stock,^GSPC,Consumer Staples,False
+CRH,CRH plc,stock,^GSPC,Materials,False
+CRWD,CrowdStrike,stock,^GSPC,Information Technology,False
+CCI,Crown Castle,stock,^GSPC,Real Estate,False
+CSX,CSX Corporation,stock,^GSPC,Industrials,False
+CMI,Cummins,stock,^GSPC,Industrials,False
+CVS,CVS Health,stock,^GSPC,Health Care,False
+DHR,Danaher Corporation,stock,^GSPC,Health Care,False
+DRI,Darden Restaurants,stock,^GSPC,Consumer Discretionary,False
+DDOG,Datadog,stock,^GSPC,Information Technology,False
+DVA,DaVita,stock,^GSPC,Health Care,False
+DECK,Deckers Brands,stock,^GSPC,Consumer Discretionary,False
+DE,Deere & Company,stock,^GSPC,Industrials,False
+DELL,Dell Technologies,stock,^GSPC,Information Technology,False
+DAL,Delta Air Lines,stock,^GSPC,Industrials,False
+DVN,Devon Energy,stock,^GSPC,Energy,False
+DXCM,Dexcom,stock,^GSPC,Health Care,False
+FANG,Diamondback Energy,stock,^GSPC,Energy,False
+DLR,Digital Realty,stock,^GSPC,Real Estate,False
+DG,Dollar General,stock,^GSPC,Consumer Staples,False
+DLTR,Dollar Tree,stock,^GSPC,Consumer Staples,False
+D,Dominion Energy,stock,^GSPC,Utilities,False
+DPZ,Domino's,stock,^GSPC,Consumer Discretionary,False
+DASH,DoorDash,stock,^GSPC,Consumer Discretionary,False
+DOV,Dover Corporation,stock,^GSPC,Industrials,False
+DOW,Dow Inc.,stock,^GSPC,Materials,False
+DHI,D. R. Horton,stock,^GSPC,Consumer Discretionary,False
+DTE,DTE Energy,stock,^GSPC,Utilities,False
+DUK,Duke Energy,stock,^GSPC,Utilities,False
+DD,DuPont,stock,^GSPC,Materials,False
+ETN,Eaton Corporation,stock,^GSPC,Industrials,False
+EBAY,eBay Inc.,stock,^GSPC,Consumer Discretionary,False
+ECHO,EchoStar,stock,^GSPC,Communication Services,False
+ECL,Ecolab,stock,^GSPC,Materials,False
+EIX,Edison International,stock,^GSPC,Utilities,False
+EW,Edwards Lifesciences,stock,^GSPC,Health Care,False
+EA,Electronic Arts,stock,^GSPC,Communication Services,False
+ELV,Elevance Health,stock,^GSPC,Health Care,False
+EME,Emcor,stock,^GSPC,Industrials,False
+EMR,Emerson Electric,stock,^GSPC,Industrials,False
+ETR,Entergy,stock,^GSPC,Utilities,False
+EOG,EOG Resources,stock,^GSPC,Energy,False
+EQT,EQT Corporation,stock,^GSPC,Energy,False
+EFX,Equifax,stock,^GSPC,Industrials,False
+EQIX,Equinix,stock,^GSPC,Real Estate,False
+EQR,Equity Residential,stock,^GSPC,Real Estate,False
+ERIE,Erie Indemnity,stock,^GSPC,Financials,False
+ESS,Essex Property Trust,stock,^GSPC,Real Estate,False
+EL,Estée Lauder Companies (The),stock,^GSPC,Consumer Staples,False
+EG,Everest Group,stock,^GSPC,Financials,False
+EVRG,Evergy,stock,^GSPC,Utilities,False
+ES,Eversource Energy,stock,^GSPC,Utilities,False
+EXC,Exelon,stock,^GSPC,Utilities,False
+EXE,Expand Energy,stock,^GSPC,Energy,False
+EXPE,Expedia Group,stock,^GSPC,Consumer Discretionary,False
+EXPD,Expeditors International,stock,^GSPC,Industrials,False
+EXR,Extra Space Storage,stock,^GSPC,Real Estate,False
+XOM,ExxonMobil,stock,^GSPC,Energy,False
+FFIV,"F5, Inc.",stock,^GSPC,Information Technology,False
+FDS,FactSet,stock,^GSPC,Financials,False
+FICO,Fair Isaac,stock,^GSPC,Information Technology,False
+FAST,Fastenal,stock,^GSPC,Industrials,False
+FRT,Federal Realty Investment Trust,stock,^GSPC,Real Estate,False
+FDX,FedEx,stock,^GSPC,Industrials,False
+FDXF,FedEx Freight,stock,^GSPC,Industrials,False
+FIS,Fidelity National Information Services,stock,^GSPC,Financials,False
+FITB,Fifth Third Bancorp,stock,^GSPC,Financials,False
+FSLR,First Solar,stock,^GSPC,Information Technology,False
+FE,FirstEnergy,stock,^GSPC,Utilities,False
+FISV,Fiserv,stock,^GSPC,Financials,False
+FLEX,Flex Ltd.,stock,^GSPC,Information Technology,False
+F,Ford Motor Company,stock,^GSPC,Consumer Discretionary,False
+FTNT,Fortinet,stock,^GSPC,Information Technology,False
+FTV,Fortive,stock,^GSPC,Industrials,False
+FOXA,Fox Corporation (Class A),stock,^GSPC,Communication Services,False
+FOX,Fox Corporation (Class B),stock,^GSPC,Communication Services,False
+BEN,Franklin Resources,stock,^GSPC,Financials,False
+FCX,Freeport-McMoRan,stock,^GSPC,Materials,False
+GRMN,Garmin,stock,^GSPC,Consumer Discretionary,False
+IT,Gartner,stock,^GSPC,Information Technology,False
+GE,GE Aerospace,stock,^GSPC,Industrials,False
+GEHC,GE HealthCare,stock,^GSPC,Health Care,False
+GEV,GE Vernova,stock,^GSPC,Industrials,False
+GEN,Gen Digital,stock,^GSPC,Information Technology,False
+GNRC,Generac,stock,^GSPC,Industrials,False
+GD,General Dynamics,stock,^GSPC,Industrials,False
+GIS,General Mills,stock,^GSPC,Consumer Staples,False
+GM,General Motors,stock,^GSPC,Consumer Discretionary,False
+GPC,Genuine Parts Company,stock,^GSPC,Consumer Discretionary,False
+GILD,Gilead Sciences,stock,^GSPC,Health Care,False
+GPN,Global Payments,stock,^GSPC,Financials,False
+GL,Globe Life,stock,^GSPC,Financials,False
+GDDY,GoDaddy,stock,^GSPC,Information Technology,False
+GS,Goldman Sachs,stock,^GSPC,Financials,False
+HAL,Halliburton,stock,^GSPC,Energy,False
+HIG,Hartford (The),stock,^GSPC,Financials,False
+HAS,Hasbro,stock,^GSPC,Consumer Discretionary,False
+HCA,HCA Healthcare,stock,^GSPC,Health Care,False
+DOC,Healthpeak Properties,stock,^GSPC,Real Estate,False
+HSIC,Henry Schein,stock,^GSPC,Health Care,False
+HSY,Hershey Company (The),stock,^GSPC,Consumer Staples,False
+HPE,Hewlett Packard Enterprise,stock,^GSPC,Information Technology,False
+HLT,Hilton Worldwide,stock,^GSPC,Consumer Discretionary,False
+HD,Home Depot (The),stock,^GSPC,Consumer Discretionary,False
+HONA,Honeywell Aerospace,stock,^GSPC,Industrials,False
+HON,Honeywell Technologies,stock,^GSPC,Industrials,False
+HRL,Hormel Foods,stock,^GSPC,Consumer Staples,False
+HST,Host Hotels & Resorts,stock,^GSPC,Real Estate,False
+HWM,Howmet Aerospace,stock,^GSPC,Industrials,False
+HPQ,HP Inc.,stock,^GSPC,Information Technology,False
+HUBB,Hubbell Incorporated,stock,^GSPC,Industrials,False
+HUM,Humana,stock,^GSPC,Health Care,False
+HBAN,Huntington Bancshares,stock,^GSPC,Financials,False
+HII,Huntington Ingalls Industries,stock,^GSPC,Industrials,False
+IBM,IBM,stock,^GSPC,Information Technology,False
+IEX,IDEX Corporation,stock,^GSPC,Industrials,False
+IDXX,Idexx Laboratories,stock,^GSPC,Health Care,False
+ITW,Illinois Tool Works,stock,^GSPC,Industrials,False
+INCY,Incyte,stock,^GSPC,Health Care,False
+IR,Ingersoll Rand,stock,^GSPC,Industrials,False
+PODD,Insulet Corporation,stock,^GSPC,Health Care,False
+INTC,Intel,stock,^GSPC,Information Technology,False
+IBKR,Interactive Brokers,stock,^GSPC,Financials,False
+ICE,Intercontinental Exchange,stock,^GSPC,Financials,False
+IFF,International Flavors & Fragrances,stock,^GSPC,Materials,False
+IP,International Paper,stock,^GSPC,Materials,False
+INTU,Intuit,stock,^GSPC,Information Technology,False
+ISRG,Intuitive Surgical,stock,^GSPC,Health Care,False
+IVZ,Invesco,stock,^GSPC,Financials,False
+INVH,Invitation Homes,stock,^GSPC,Real Estate,False
+IQV,IQVIA,stock,^GSPC,Health Care,False
+IRM,Iron Mountain,stock,^GSPC,Real Estate,False
+JBHT,J.B. Hunt,stock,^GSPC,Industrials,False
+JBL,Jabil,stock,^GSPC,Information Technology,False
+JKHY,Jack Henry & Associates,stock,^GSPC,Financials,False
+J,Jacobs Solutions,stock,^GSPC,Industrials,False
+JNJ,Johnson & Johnson,stock,^GSPC,Health Care,False
+JCI,Johnson Controls,stock,^GSPC,Industrials,False
+JPM,JPMorgan Chase,stock,^GSPC,Financials,False
+KVUE,Kenvue,stock,^GSPC,Consumer Staples,False
+KDP,Keurig Dr Pepper,stock,^GSPC,Consumer Staples,False
+KEY,KeyCorp,stock,^GSPC,Financials,False
+KEYS,Keysight Technologies,stock,^GSPC,Information Technology,False
+KMB,Kimberly-Clark,stock,^GSPC,Consumer Staples,False
+KIM,Kimco Realty,stock,^GSPC,Real Estate,False
+KMI,Kinder Morgan,stock,^GSPC,Energy,False
+KKR,KKR & Co.,stock,^GSPC,Financials,False
+KLAC,KLA Corporation,stock,^GSPC,Information Technology,False
+KHC,Kraft Heinz,stock,^GSPC,Consumer Staples,False
+KR,Kroger,stock,^GSPC,Consumer Staples,False
+LHX,L3Harris,stock,^GSPC,Industrials,False
+LH,Labcorp,stock,^GSPC,Health Care,False
+LRCX,Lam Research,stock,^GSPC,Information Technology,False
+LVS,Las Vegas Sands,stock,^GSPC,Consumer Discretionary,False
+LDOS,Leidos,stock,^GSPC,Industrials,False
+LEN,Lennar,stock,^GSPC,Consumer Discretionary,False
+LII,Lennox International,stock,^GSPC,Industrials,False
+LLY,Lilly (Eli),stock,^GSPC,Health Care,False
+LIN,Linde plc,stock,^GSPC,Materials,False
+LYV,Live Nation Entertainment,stock,^GSPC,Communication Services,False
+LMT,Lockheed Martin,stock,^GSPC,Industrials,False
+L,Loews Corporation,stock,^GSPC,Financials,False
+LOW,Lowe's,stock,^GSPC,Consumer Discretionary,False
+LULU,Lululemon Athletica,stock,^GSPC,Consumer Discretionary,False
+LITE,Lumentum,stock,^GSPC,Information Technology,False
+LYB,LyondellBasell,stock,^GSPC,Materials,False
+MTB,M&T Bank,stock,^GSPC,Financials,False
+MPC,Marathon Petroleum,stock,^GSPC,Energy,False
+MAR,Marriott International,stock,^GSPC,Consumer Discretionary,False
+MRSH,Marsh McLennan,stock,^GSPC,Financials,False
+MLM,Martin Marietta Materials,stock,^GSPC,Materials,False
+MRVL,Marvell Technology,stock,^GSPC,Information Technology,False
+MAS,Masco,stock,^GSPC,Industrials,False
+MA,Mastercard,stock,^GSPC,Financials,False
+MKC,McCormick & Company,stock,^GSPC,Consumer Staples,False
+MCD,McDonald's,stock,^GSPC,Consumer Discretionary,False
+MCK,McKesson Corporation,stock,^GSPC,Health Care,False
+MDT,Medtronic,stock,^GSPC,Health Care,False
+MRK,Merck & Co.,stock,^GSPC,Health Care,False
+META,Meta Platforms,stock,^GSPC,Communication Services,False
+MET,MetLife,stock,^GSPC,Financials,False
+MTD,Mettler Toledo,stock,^GSPC,Health Care,False
+MGM,MGM Resorts,stock,^GSPC,Consumer Discretionary,False
+MCHP,Microchip Technology,stock,^GSPC,Information Technology,False
+MU,Micron Technology,stock,^GSPC,Information Technology,False
+MSFT,Microsoft,stock,^GSPC,Information Technology,False
+MAA,Mid-America Apartment Communities,stock,^GSPC,Real Estate,False
+MRNA,Moderna,stock,^GSPC,Health Care,False
+TAP,Molson Coors Beverage Company,stock,^GSPC,Consumer Staples,False
+MDLZ,Mondelez International,stock,^GSPC,Consumer Staples,False
+MPWR,Monolithic Power Systems,stock,^GSPC,Information Technology,False
+MNST,Monster Beverage,stock,^GSPC,Consumer Staples,False
+MCO,Moody's Corporation,stock,^GSPC,Financials,False
+MS,Morgan Stanley,stock,^GSPC,Financials,False
+MOS,Mosaic Company (The),stock,^GSPC,Materials,False
+MSI,Motorola Solutions,stock,^GSPC,Information Technology,False
+MSCI,MSCI Inc.,stock,^GSPC,Financials,False
+NDAQ,"Nasdaq, Inc.",stock,^GSPC,Financials,False
+NTAP,NetApp,stock,^GSPC,Information Technology,False
+NFLX,Netflix,stock,^GSPC,Communication Services,False
+NEM,Newmont,stock,^GSPC,Materials,False
+NWSA,News Corp (Class A),stock,^GSPC,Communication Services,False
+NWS,News Corp (Class B),stock,^GSPC,Communication Services,False
+NEE,NextEra Energy,stock,^GSPC,Utilities,False
+NKE,"Nike, Inc.",stock,^GSPC,Consumer Discretionary,False
+NI,NiSource,stock,^GSPC,Utilities,False
+NDSN,Nordson Corporation,stock,^GSPC,Industrials,False
+NSC,Norfolk Southern,stock,^GSPC,Industrials,False
+NTRS,Northern Trust,stock,^GSPC,Financials,False
+NOC,Northrop Grumman,stock,^GSPC,Industrials,False
+NCLH,Norwegian Cruise Line Holdings,stock,^GSPC,Consumer Discretionary,False
+NRG,NRG Energy,stock,^GSPC,Utilities,False
+NUE,Nucor,stock,^GSPC,Materials,False
+NVDA,Nvidia,stock,^GSPC,Information Technology,False
+NVR,"NVR, Inc.",stock,^GSPC,Consumer Discretionary,False
+NXPI,NXP Semiconductors,stock,^GSPC,Information Technology,False
+ORLY,O’Reilly Automotive,stock,^GSPC,Consumer Discretionary,False
+OXY,Occidental Petroleum,stock,^GSPC,Energy,False
+ODFL,Old Dominion,stock,^GSPC,Industrials,False
+OMC,Omnicom Group,stock,^GSPC,Communication Services,False
+ON,ON Semiconductor,stock,^GSPC,Information Technology,False
+OKE,Oneok,stock,^GSPC,Energy,False
+ORCL,Oracle Corporation,stock,^GSPC,Information Technology,False
+OTIS,Otis Worldwide,stock,^GSPC,Industrials,False
+PCAR,Paccar,stock,^GSPC,Industrials,False
+PKG,Packaging Corporation of America,stock,^GSPC,Materials,False
+PLTR,Palantir Technologies,stock,^GSPC,Information Technology,False
+PANW,Palo Alto Networks,stock,^GSPC,Information Technology,False
+PSKY,Paramount Skydance Corporation,stock,^GSPC,Communication Services,False
+PH,Parker Hannifin,stock,^GSPC,Industrials,False
+PAYX,Paychex,stock,^GSPC,Industrials,False
+PYPL,PayPal,stock,^GSPC,Financials,False
+PNR,Pentair,stock,^GSPC,Industrials,False
+PEP,PepsiCo,stock,^GSPC,Consumer Staples,False
+PFE,Pfizer,stock,^GSPC,Health Care,False
+PCG,PG&E Corporation,stock,^GSPC,Utilities,False
+PM,Philip Morris International,stock,^GSPC,Consumer Staples,False
+PSX,Phillips 66,stock,^GSPC,Energy,False
+PNW,Pinnacle West Capital,stock,^GSPC,Utilities,False
+PNC,PNC Financial Services,stock,^GSPC,Financials,False
+PPG,PPG Industries,stock,^GSPC,Materials,False
+PPL,PPL Corporation,stock,^GSPC,Utilities,False
+PFG,Principal Financial Group,stock,^GSPC,Financials,False
+PG,Procter & Gamble,stock,^GSPC,Consumer Staples,False
+PGR,Progressive Corporation,stock,^GSPC,Financials,False
+PLD,Prologis,stock,^GSPC,Real Estate,False
+PRU,Prudential Financial,stock,^GSPC,Financials,False
+PEG,Public Service Enterprise Group,stock,^GSPC,Utilities,False
+PTC,PTC Inc.,stock,^GSPC,Information Technology,False
+PSA,Public Storage,stock,^GSPC,Real Estate,False
+PHM,PulteGroup,stock,^GSPC,Consumer Discretionary,False
+PWR,Quanta Services,stock,^GSPC,Industrials,False
+QCOM,Qualcomm,stock,^GSPC,Information Technology,False
+DGX,Quest Diagnostics,stock,^GSPC,Health Care,False
+Q,Qnity Electronics,stock,^GSPC,Information Technology,False
+RL,Ralph Lauren Corporation,stock,^GSPC,Consumer Discretionary,False
+RJF,Raymond James Financial,stock,^GSPC,Financials,False
+RTX,RTX Corporation,stock,^GSPC,Industrials,False
+O,Realty Income,stock,^GSPC,Real Estate,False
+REG,Regency Centers,stock,^GSPC,Real Estate,False
+REGN,Regeneron Pharmaceuticals,stock,^GSPC,Health Care,False
+RF,Regions Financial Corporation,stock,^GSPC,Financials,False
+RSG,Republic Services,stock,^GSPC,Industrials,False
+RMD,ResMed,stock,^GSPC,Health Care,False
+RVTY,Revvity,stock,^GSPC,Health Care,False
+HOOD,Robinhood Markets,stock,^GSPC,Financials,False
+ROK,Rockwell Automation,stock,^GSPC,Industrials,False
+ROL,"Rollins, Inc.",stock,^GSPC,Industrials,False
+ROP,Roper Technologies,stock,^GSPC,Information Technology,False
+ROST,Ross Stores,stock,^GSPC,Consumer Discretionary,False
+RCL,Royal Caribbean Group,stock,^GSPC,Consumer Discretionary,False
+SPGI,S&P Global,stock,^GSPC,Financials,False
+CRM,Salesforce,stock,^GSPC,Information Technology,False
+SNDK,Sandisk,stock,^GSPC,Information Technology,False
+SBAC,SBA Communications,stock,^GSPC,Real Estate,False
+SLB,Schlumberger,stock,^GSPC,Energy,False
+STX,Seagate Technology,stock,^GSPC,Information Technology,False
+SRE,Sempra,stock,^GSPC,Utilities,False
+NOW,ServiceNow,stock,^GSPC,Information Technology,False
+SHW,Sherwin-Williams,stock,^GSPC,Materials,False
+SPG,Simon Property Group,stock,^GSPC,Real Estate,False
+SWKS,Skyworks Solutions,stock,^GSPC,Information Technology,False
+SJM,J.M. Smucker Company (The),stock,^GSPC,Consumer Staples,False
+SW,Smurfit Westrock,stock,^GSPC,Materials,False
+SNA,Snap-on,stock,^GSPC,Industrials,False
+SOLV,Solventum,stock,^GSPC,Health Care,False
+SO,Southern Company,stock,^GSPC,Utilities,False
+LUV,Southwest Airlines,stock,^GSPC,Industrials,False
+SWK,Stanley Black & Decker,stock,^GSPC,Industrials,False
+SBUX,Starbucks,stock,^GSPC,Consumer Discretionary,False
+STT,State Street Corporation,stock,^GSPC,Financials,False
+STLD,Steel Dynamics,stock,^GSPC,Materials,False
+STE,Steris,stock,^GSPC,Health Care,False
+SYK,Stryker Corporation,stock,^GSPC,Health Care,False
+SMCI,Supermicro,stock,^GSPC,Information Technology,False
+SYF,Synchrony Financial,stock,^GSPC,Financials,False
+SNPS,Synopsys,stock,^GSPC,Information Technology,False
+SYY,Sysco,stock,^GSPC,Consumer Staples,False
+TMUS,T-Mobile US,stock,^GSPC,Communication Services,False
+TROW,T. Rowe Price,stock,^GSPC,Financials,False
+TTWO,Take-Two Interactive,stock,^GSPC,Communication Services,False
+TPR,"Tapestry, Inc.",stock,^GSPC,Consumer Discretionary,False
+TRGP,Targa Resources,stock,^GSPC,Energy,False
+TGT,Target Corporation,stock,^GSPC,Consumer Staples,False
+TEL,TE Connectivity,stock,^GSPC,Information Technology,False
+TDY,Teledyne Technologies,stock,^GSPC,Information Technology,False
+TER,Teradyne,stock,^GSPC,Information Technology,False
+TSLA,"Tesla, Inc.",stock,^GSPC,Consumer Discretionary,False
+TXN,Texas Instruments,stock,^GSPC,Information Technology,False
+TPL,Texas Pacific Land Corporation,stock,^GSPC,Energy,False
+TXT,Textron,stock,^GSPC,Industrials,False
+TMO,Thermo Fisher Scientific,stock,^GSPC,Health Care,False
+TJX,TJX Companies,stock,^GSPC,Consumer Discretionary,False
+TKO,TKO Group Holdings,stock,^GSPC,Communication Services,False
+TTD,Trade Desk (The),stock,^GSPC,Communication Services,False
+TSCO,Tractor Supply,stock,^GSPC,Consumer Discretionary,False
+TT,Trane Technologies,stock,^GSPC,Industrials,False
+TDG,TransDigm Group,stock,^GSPC,Industrials,False
+TRV,Travelers Companies (The),stock,^GSPC,Financials,False
+TRMB,Trimble Inc.,stock,^GSPC,Information Technology,False
+TFC,Truist Financial,stock,^GSPC,Financials,False
+TYL,Tyler Technologies,stock,^GSPC,Information Technology,False
+TSN,Tyson Foods,stock,^GSPC,Consumer Staples,False
+USB,U.S. Bancorp,stock,^GSPC,Financials,False
+UBER,Uber,stock,^GSPC,Industrials,False
+UDR,"UDR, Inc.",stock,^GSPC,Real Estate,False
+ULTA,Ulta Beauty,stock,^GSPC,Consumer Discretionary,False
+UNP,Union Pacific Corporation,stock,^GSPC,Industrials,False
+UAL,United Airlines Holdings,stock,^GSPC,Industrials,False
+UPS,United Parcel Service,stock,^GSPC,Industrials,False
+URI,United Rentals,stock,^GSPC,Industrials,False
+UNH,UnitedHealth Group,stock,^GSPC,Health Care,False
+UHS,Universal Health Services,stock,^GSPC,Health Care,False
+VLO,Valero Energy,stock,^GSPC,Energy,False
+VEEV,Veeva Systems,stock,^GSPC,Health Care,False
+VTR,Ventas,stock,^GSPC,Real Estate,False
+VLTO,Veralto,stock,^GSPC,Industrials,False
+VRSN,Verisign,stock,^GSPC,Information Technology,False
+VRSK,Verisk Analytics,stock,^GSPC,Industrials,False
+VZ,Verizon,stock,^GSPC,Communication Services,False
+VRTX,Vertex Pharmaceuticals,stock,^GSPC,Health Care,False
+VRT,Vertiv,stock,^GSPC,Industrials,False
+VTRS,Viatris,stock,^GSPC,Health Care,False
+VICI,Vici Properties,stock,^GSPC,Real Estate,False
+V,Visa Inc.,stock,^GSPC,Financials,False
+VST,Vistra Corp.,stock,^GSPC,Utilities,False
+VMC,Vulcan Materials Company,stock,^GSPC,Materials,False
+WRB,W. R. Berkley Corporation,stock,^GSPC,Financials,False
+GWW,W. W. Grainger,stock,^GSPC,Industrials,False
+WAB,Wabtec,stock,^GSPC,Industrials,False
+WMT,Walmart,stock,^GSPC,Consumer Staples,False
+DIS,Walt Disney Company (The),stock,^GSPC,Communication Services,False
+WBD,Warner Bros. Discovery,stock,^GSPC,Communication Services,False
+WM,Waste Management,stock,^GSPC,Industrials,False
+WAT,Waters Corporation,stock,^GSPC,Health Care,False
+WEC,WEC Energy Group,stock,^GSPC,Utilities,False
+WFC,Wells Fargo,stock,^GSPC,Financials,False
+WELL,Welltower,stock,^GSPC,Real Estate,False
+WST,West Pharmaceutical Services,stock,^GSPC,Health Care,False
+WDC,Western Digital,stock,^GSPC,Information Technology,False
+WY,Weyerhaeuser,stock,^GSPC,Real Estate,False
+WSM,"Williams-Sonoma, Inc.",stock,^GSPC,Consumer Discretionary,False
+WMB,Williams Companies,stock,^GSPC,Energy,False
+WTW,Willis Towers Watson,stock,^GSPC,Financials,False
+WDAY,"Workday, Inc.",stock,^GSPC,Information Technology,False
+WYNN,Wynn Resorts,stock,^GSPC,Consumer Discretionary,False
+XEL,Xcel Energy,stock,^GSPC,Utilities,False
+XYL,Xylem Inc.,stock,^GSPC,Industrials,False
+YUM,Yum! Brands,stock,^GSPC,Consumer Discretionary,False
+ZBRA,Zebra Technologies,stock,^GSPC,Information Technology,False
+ZBH,Zimmer Biomet,stock,^GSPC,Health Care,False
+ZTS,Zoetis,stock,^GSPC,Health Care,False
+SXR8.DE,iShares Core S&P 500 UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+EUNL.DE,iShares Core MSCI World UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+VUSA.DE,Vanguard S&P 500 UCITS ETF (USD) Distributing,etf,^GSPC,ETF,False
+VWCE.DE,Vanguard FTSE All-World UCITS ETF (USD) Accumulating,etf,^GSPC,ETF,False
+IS3N.DE,iShares Core MSCI Emerging Markets IMI UCITS ETF (Acc),etf,^GSPC,ETF,False
+P500.DE,Invesco S&P 500 UCITS ETF ,etf,^GSPC,ETF,False
+PPFB.DE,iShares Physical Gold ETC,etf,^GSPC,ETF,False
+VUAA.DE,Vanguard S&P 500 UCITS ETF (USD) Accumulating,etf,^GSPC,ETF,False
+IUSQ.DE,iShares MSCI ACWI UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+SXRV.DE,iShares Nasdaq 100 UCITS ETF (Acc),etf,^GSPC,ETF,False
+8PSG.DE,Invesco Physical Gold ETC,etf,^GSPC,ETF,False
+VGWL.DE,Vanguard FTSE All-World UCITS ETF (USD) Distributing,etf,^GSPC,ETF,False
+XEON.DE,Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C,etf,^STOXX50E,ETF,False
+LYP6.DE,Amundi Core Stoxx Europe 600 UCITS ETF Acc,etf,^STOXX50E,ETF,False
+4GLD.DE,Xetra-Gold,etf,^STOXX50E,ETF,False
+XDWD.DE,Xtrackers MSCI World UCITS ETF 1C,etf,^GSPC,ETF,False
+IUSA.DE,iShares Core S&P 500 UCITS ETF USD (Dist),etf,^GSPC,ETF,False
+IUSZ.DE,iShares Core FTSE 100 UCITS ETF GBP (Dist),etf,^FTSE,ETF,False
+SPY5.DE,State Street SPDR S&P 500 UCITS ETF USD Unhedged (Dist),etf,^GSPC,ETF,False
+SPPW.DE,State Street SPDR MSCI World UCITS ETF USD Unhedged,etf,^GSPC,ETF,False
+QDVE.DE,iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+LYP5.DE,Amundi Core S&P 500 Swap UCITS ETF Acc,etf,^GSPC,ETF,False
+EUNK.DE,iShares Core MSCI Europe UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,False
+SPYL.DE,State Street SPDR S&P 500 UCITS ETF USD Unhedged (Acc),etf,^GSPC,ETF,False
+SPYY.DE,State Street SPDR MSCI All Country World UCITS ETF USD Unhedged (Acc),etf,^GSPC,ETF,False
+MWRE.DE,Amundi Core MSCI World UCITS ETF Acc,etf,^GSPC,ETF,False
+H4ZJ.DE,HSBC MSCI World UCITS ETF USD,etf,^GSPC,ETF,False
+I500.DE,iShares S&P 500 Swap UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+EQQQ.DE,Invesco EQQQ Nasdaq-100 UCITS ETF,etf,^GSPC,ETF,False
+XMME.DE,Xtrackers MSCI Emerging Markets UCITS ETF 1C,etf,^GSPC,ETF,False
+XD9U.DE,Xtrackers MSCI USA UCITS ETF 1C,etf,^GSPC,ETF,False
+IQQY.DE,iShares Core MSCI Europe UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,False
+XDEW.DE,Xtrackers S&P 500 Equal Weight UCITS ETF 1C,etf,^GSPC,ETF,False
+UETW.DE,UBS Core MSCI World UCITS ETF USD acc,etf,^GSPC,ETF,False
+EUN5.DE,iShares Core EUR Corporate Bond UCITS ETF (Dist),etf,^STOXX50E,ETF,False
+GLDA.DE,Amundi Physical Gold ETC (C),etf,^GSPC,ETF,False
+EXSA.DE,iShares STOXX Europe 600 UCITS ETF (DE),etf,^STOXX50E,ETF,False
+D500.DE,Invesco S&P 500 UCITS ETF Dist,etf,^GSPC,ETF,False
+EXW1.DE,iShares EURO STOXX 50 UCITS ETF (DE),etf,^STOXX50E,ETF,False
+VGWD.DE,Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing,etf,^GSPC,ETF,False
+IQQE.DE,iShares MSCI EM UCITS ETF (Dist),etf,^GSPC,ETF,False
+LYYA.DE,Amundi MSCI World Swap II UCITS ETF ,etf,^STOXX50E,ETF,False
+IBCF.DE,iShares S&P 500 EUR Hedged UCITS ETF (Acc),etf,^STOXX50E,ETF,False
+H4ZF.DE,HSBC S&P 500 UCITS ETF USD,etf,^GSPC,ETF,False
+EXS1.DE,iShares Core DAX® UCITS ETF (DE) EUR (Acc),etf,^STOXX50E,ETF,False
+EUNM.DE,iShares MSCI EM UCITS ETF (Acc),etf,^GSPC,ETF,False
+IQQW.DE,iShares MSCI World UCITS ETF (Dist),etf,^GSPC,ETF,False
+EMMUSC.MI,UBS Core MSCI EM UCITS ETF USD acc,etf,^GSPC,ETF,False
+XMEU.DE,Xtrackers MSCI Europe UCITS ETF 1C,etf,^GSPC,ETF,False
+SC0J.DE,Invesco MSCI World UCITS ETF ,etf,^GSPC,ETF,False
+SXRT.DE,iShares Core EURO STOXX 50 UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,False
+SC0H.DE,Invesco MSCI USA UCITS ETF,etf,^GSPC,ETF,False
+IUSN.DE,iShares MSCI World Small Cap UCITS ETF,etf,^GSPC,ETF,False
+CEBL.DE,iShares MSCI EM Asia UCITS ETF (Acc),etf,^GSPC,ETF,False
+SXRL.DE,iShares USD Treasury Bond 3-7yr UCITS ETF (Acc),etf,^GSPC,ETF,False
+DBXD.DE,Xtrackers DAX UCITS ETF 1C,etf,^STOXX50E,ETF,False
+EUNN.DE,iShares Core MSCI Japan IMI UCITS ETF,etf,^GSPC,ETF,False
+LYOR.DE,Amundi Smart Overnight Return UCITS ETF Acc,etf,^STOXX50E,ETF,False
+AHYQ.DE,Amundi Core MSCI World Swap UCITS ETF Dist,etf,^GSPC,ETF,False
+SPYI.DE,State Street SPDR MSCI All Country World Investable Market UCITS ETF USD Unhedged (Acc),etf,^GSPC,ETF,False
+AMEW.DE,Amundi MSCI World Swap UCITS ETF EUR Acc,etf,^STOXX50E,ETF,False
+XESC.DE,Xtrackers EURO STOXX 50 UCITS ETF 1C,etf,^STOXX50E,ETF,False
+SXR7.DE,iShares Core MSCI EMU UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,False
+DFEN.DE,VanEck Defense UCITS ETF A,etf,^GSPC,ETF,False
+LYMS.DE,Amundi Core Nasdaq-100 Swap UCITS ETF Acc,etf,^GSPC,ETF,False
+LYBK.DE,Amundi Euro Stoxx Banks UCITS ETF Acc,etf,^STOXX50E,ETF,False
+EXUS.DE,Xtrackers MSCI World ex USA UCITS ETF 1C,etf,^GSPC,ETF,False
+IS3S.DE,iShares Edge MSCI World Value Factor UCITS ETF,etf,^GSPC,ETF,False
+XESX.DE,Xtrackers EURO STOXX 50 UCITS ETF 1D,etf,^STOXX50E,ETF,False
+EUNW.DE,iShares EUR High Yield Corporate Bond UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,False
+VGVF.DE,Vanguard FTSE Developed World UCITS ETF Acc,etf,^GSPC,ETF,False
+EUN2.DE,iShares Core EURO STOXX 50 UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,False
+DBXJ.DE,Xtrackers MSCI Japan UCITS ETF 1C,etf,^GSPC,ETF,False
+XWD1.DE,Xtrackers MSCI World Swap UCITS ETF 1D,etf,^GSPC,ETF,False
+EXXT.DE,iShares Nasdaq 100 UCITS ETF (DE),etf,^GSPC,ETF,False
+SPY4.DE,State Street SPDR S&P 400 U.S. Mid Cap UCITS ETF USD Unhedged (Acc),etf,^GSPC,ETF,False
+XDWT.DE,Xtrackers MSCI World Information Technology UCITS ETF 1C,etf,^GSPC,ETF,False
+LCUJ.DE,Amundi Core MSCI Japan UCITS ETF Acc,etf,^GSPC,ETF,False
+XGDU.DE,Xtrackers IE Physical Gold ETC Securities,etf,^GSPC,ETF,False
+ELFW.DE,Deka MSCI World UCITS ETF ,etf,^STOXX50E,ETF,False
+VUKE.DE,Vanguard FTSE 100 UCITS ETF (GBP) Distributing,etf,^FTSE,ETF,False
+IBCH.DE,iShares MSCI World EUR Hedged UCITS ETF (Acc),etf,^STOXX50E,ETF,False
+EUNH.DE,iShares Core Euro Government Bond UCITS ETF (Dist),etf,^STOXX50E,ETF,False
+DBXW.DE,Xtrackers MSCI World Swap UCITS ETF 1C,etf,^GSPC,ETF,False
+AE5A.DE,Amundi Core MSCI Emerging Markets Swap UCITS ETF Dist,etf,^GSPC,ETF,False
+IS3Q.DE,iShares Edge MSCI World Quality Factor UCITS ETF (Acc),etf,^GSPC,ETF,False
+SPP5.DE,State Street SPDR Bloomberg 1-5 Year U.S. Corporate Bond UCITS ETF USD Unhedged (Acc),etf,^GSPC,ETF,False
+LEMA.DE,Amundi Core MSCI Emerging Markets Swap UCITS ETF Acc,etf,^GSPC,ETF,False
+IS3R.DE,iShares Edge MSCI World Momentum Factor UCITS ETF (Acc),etf,^GSPC,ETF,False
+84X0.DE,iShares MSCI EM ex-China UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+XDWL.DE,Xtrackers MSCI World UCITS ETF 1D,etf,^GSPC,ETF,False
+ISPA.DE,iShares STOXX Global Select Dividend 100 UCITS ETF (DE),etf,^STOXX50E,ETF,False
+XMUS.DE,Xtrackers MSCI USA Swap UCITS ETF 1C,etf,^GSPC,ETF,False
+ZPRR.DE,State Street SPDR Russell 2000 U.S. Small Cap UCITS ETF USD,etf,^GSPC,ETF,False
+VGEU.DE,Vanguard FTSE Developed Europe UCITS ETF Distributing,etf,^STOXX50E,ETF,False
+WEBG.DE,Amundi Prime All Country World UCITS ETF Dist,etf,^GSPC,ETF,False
+D5BG.DE,Xtrackers II EUR Corporate Bond UCITS ETF 1C,etf,^STOXX50E,ETF,False
+EMXC.DE,Amundi MSCI Emerging Ex China UCITS ETF Acc,etf,^GSPC,ETF,False
+QDV5.DE,iShares MSCI India UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+XSXD.DE,Xtrackers S&P 500 Swap UCITS ETF 1D,etf,^GSPC,ETF,False
+SXR4.DE,iShares MSCI USA UCITS ETF (Acc),etf,^GSPC,ETF,False
+LYSX.DE,Amundi EURO STOXX 50 II UCITS ETF ,etf,^STOXX50E,ETF,False
+IUSP.DE,iShares J.P. Morgan EM Local Government Bond UCITS ETF,etf,^GSPC,ETF,False
+SXRM.DE,iShares USD Treasury Bond 7-10yr UCITS ETF (Acc),etf,^GSPC,ETF,False
+EUDF.DE,WisdomTree Europe Defence UCITS ETF EUR Unhedged Acc,etf,^STOXX50E,ETF,False
+6TVM.DE,Amundi Core S&P 500 Swap UCITS ETF USD Dist,etf,^GSPC,ETF,False
+JPNA.L,UBS Core MSCI Japan UCITS ETF JPY acc,etf,^GSPC,ETF,False
+O4J0.DE,iShares S&P 500 Equal Weight UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+D5BM.DE,Xtrackers S&P 500 Swap UCITS ETF 1C,etf,^GSPC,ETF,False
+XSX6.DE,Xtrackers STOXX Europe 600 UCITS ETF 1C,etf,^STOXX50E,ETF,False
+IQQJ.DE,iShares MSCI Japan UCITS ETF (Dist),etf,^GSPC,ETF,False
+AMEM.DE,Amundi MSCI Emerging Markets Swap UCITS ETF EUR Acc,etf,^STOXX50E,ETF,False
+CEU2.DE,Amundi Core MSCI Europe UCITS ETF Acc,etf,^STOXX50E,ETF,False
+VGVE.DE,Vanguard FTSE Developed World UCITS ETF Distributing,etf,^GSPC,ETF,False
+4BRZ.DE,iShares MSCI Brazil UCITS ETF (DE) USD (Acc),etf,^GSPC,ETF,False
+V50A.DE,Amundi Core EURO STOXX 50 UCITS ETF EUR Acc,etf,^STOXX50E,ETF,False
+VGEA.DE,Vanguard EUR Eurozone Government Bond UCITS ETF Accumulating,etf,^STOXX50E,ETF,False
+ACWIA.MI,UBS MSCI ACWI SF UCITS ETF USD acc,etf,^GSPC,ETF,False
+AW1V.DE,UBS Core MSCI EMU UCITS ETF EUR acc,etf,^STOXX50E,ETF,False
+EQQB.DE,Invesco EQQQ Nasdaq-100 UCITS ETF Acc,etf,^GSPC,ETF,False
+FLXK.DE,Franklin FTSE Korea UCITS ETF ,etf,^GSPC,ETF,False
+XDEV.DE,Xtrackers MSCI World Value UCITS ETF 1C,etf,^GSPC,ETF,False
+X500.DE,Xtrackers S&P 500 Swap II UCITS ETF 1C,etf,^GSPC,ETF,False
+WEBH.DE,Amundi Core MSCI USA UCITS ETF Acc,etf,^GSPC,ETF,False
+IUS7.DE,iShares J.P. Morgan USD Emerging Markets Bond UCITS ETF (Dist),etf,^GSPC,ETF,False
+SXRW.DE,iShares Core FTSE 100 UCITS ETF GBP (Acc),etf,^FTSE,ETF,False
+FWIA.DE,Invesco FTSE All-World UCITS ETF ,etf,^GSPC,ETF,False
+H410.DE,HSBC MSCI Emerging Markets UCITS ETF USD,etf,^GSPC,ETF,False
+EUNT.DE,iShares EUR Corporate Bond 1-5yr UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,False
+EXV1.DE,iShares STOXX Europe 600 Banks UCITS ETF (DE),etf,^STOXX50E,ETF,False
+ESEE.DE,BNP Paribas Easy S&P 500 UCITS ETF EUR,etf,^STOXX50E,ETF,False
+QDVI.DE,iShares Edge MSCI USA Value Factor UCITS ETF,etf,^GSPC,ETF,False
+IS3M.DE,iShares EUR Ultrashort Bond UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,False
+CMOD.L,Invesco Bloomberg Commodity UCITS ETF Acc,etf,^GSPC,ETF,False
+VERX.DE,Vanguard FTSE Developed Europe ex UK UCITS ETF (EUR) Distributing,etf,^STOXX50E,ETF,False
+ESAP.DE,BNP Paribas Easy S&P 500 UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+XDWH.DE,Xtrackers MSCI World Health Care UCITS ETF 1C,etf,^GSPC,ETF,False
+SXR1.DE,iShares Core MSCI Pacific ex Japan UCITS ETF (Acc),etf,^GSPC,ETF,False
+SPYD.DE,State Street SPDR S&P U.S. Dividend Aristocrats UCITS ETF USD Unhedged (Dist),etf,^GSPC,ETF,False
+VECP.DE,Vanguard EUR Corporate Bond UCITS ETF (EUR) Distributing,etf,^STOXX50E,ETF,False
+IBCD.DE,iShares USD Corporate Bond UCITS ETF (Dist),etf,^GSPC,ETF,False
+DBXP.DE,Xtrackers Eurozone Government Bond 1-3 UCITS ETF 1C,etf,^STOXX50E,ETF,False
+L8I3.DE,Amundi EUR Overnight Return UCITS ETF ,etf,^STOXX50E,ETF,False
+LYPS.DE,Amundi Core S&P 500 Swap UCITS ETF EUR Dist,etf,^STOXX50E,ETF,False
+VFEM.DE,Vanguard FTSE Emerging Markets UCITS ETF (USD) Distributing,etf,^GSPC,ETF,False
+IUSM.DE,iShares USD Treasury Bond 7-10yr UCITS ETF (Dist),etf,^GSPC,ETF,False
+LBNK.DE,Amundi STOXX Europe 600 Banks UCITS ETF Acc,etf,^STOXX50E,ETF,False
+XXSC.DE,Xtrackers MSCI Europe Small Cap UCITS ETF 1C,etf,^GSPC,ETF,False
+CSY1.DE,UBS MSCI USA NSL UCITS ETF USD acc,etf,^GSPC,ETF,False
+JEQP.DE,JPMorgan Nasdaq Equity Premium Income Active UCITS ETF USD (dist),etf,^GSPC,ETF,False
+IXUA.DE,iShares MSCI World ex-USA UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+IUST.DE,iShares USD TIPS UCITS ETF USD (Acc),etf,^GSPC,ETF,False
+VUCE.DE,Vanguard USD Corporate Bond UCITS ETF Accumulating,etf,^GSPC,ETF,False
+VNRT.DE,Vanguard FTSE North America UCITS ETF (USD) Distributing,etf,^GSPC,ETF,False
+XUSW.DE,Xtrackers MSCI USA Swap UCITS ETF 1D,etf,^GSPC,ETF,False
+EXSI.DE,iShares EURO STOXX UCITS ETF (DE),etf,^STOXX50E,ETF,False
+IS0E.DE,iShares Gold Producers UCITS ETF,etf,^GSPC,ETF,False
+VWCG.DE,Vanguard FTSE Developed Europe UCITS ETF (EUR) Accumulating,etf,^STOXX50E,ETF,False
+IUS3.DE,iShares S&P SmallCap 600 UCITS ETF,etf,^GSPC,ETF,False
+EXI2.DE,iShares Dow Jones Global Titans 50 UCITS ETF (DE) EUR (Dist),etf,^STOXX50E,ETF,False
+XDEQ.DE,Xtrackers MSCI World Quality UCITS ETF 1C,etf,^GSPC,ETF,False
+F50A.DE,Amundi Prime Global UCITS ETF Acc,etf,^GSPC,ETF,False
+4UBB.DE,UBS Core MSCI USA UCITS ETF USD acc,etf,^GSPC,ETF,False
+VNRA.DE,Vanguard FTSE North America UCITS ETF (USD) Accumulating,etf,^GSPC,ETF,False
+AUM5.DE,Amundi S&P 500 Swap UCITS ETF EUR Acc,etf,^STOXX50E,ETF,False
+LYPG.DE,Amundi MSCI World Information Technology UCITS ETF EUR Acc,etf,^STOXX50E,ETF,False
+E500.DE,Invesco S&P 500 EUR Hedged UCITS ETF,etf,^STOXX50E,ETF,False
+VJPN.DE,Vanguard FTSE Japan UCITS ETF (USD) Distributing,etf,^GSPC,ETF,False
+ASWC.DE,HANetf Future of Defence UCITS ETF,etf,^GSPC,ETF,False
+VGWE.DE,Vanguard FTSE All-World High Dividend Yield UCITS ETF Acc,etf,^GSPC,ETF,False
+VECA.DE,Vanguard EUR Corporate Bond UCITS ETF Accumulating,etf,^STOXX50E,ETF,False
+UIMI.DE,UBS Core MSCI EM UCITS ETF USD dis,etf,^GSPC,ETF,False
+ERNX.DE,iShares EUR Ultrashort Bond UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,False
+36BZ.DE,iShares MSCI China A UCITS ETF,etf,^GSPC,ETF,False
+G2X.DE,VanEck Gold Miners UCITS ETF,etf,^GSPC,ETF,False
+PR1J.DE,Amundi Prime Japan UCITS ETF DR (D),etf,^GSPC,ETF,False
+QDVG.DE,iShares S&P 500 Health Care Sector UCITS ETF (Acc),etf,^GSPC,ETF,False
+VAGY.DE,Vanguard USD Corporate 1-3 Year Bond UCITS ETF Accumulating,etf,^GSPC,ETF,False
+XRS2.DE,Xtrackers Russell 2000 UCITS ETF 1C,etf,^GSPC,ETF,False
+CEMS.DE,iShares Edge MSCI Europe Value Factor UCITS ETF,etf,^STOXX50E,ETF,False
+EUNA.DE,iShares Core Global Aggregate Bond UCITS ETF EUR Hedged (Acc),etf,^STOXX50E,ETF,False
+SGAS.DE,iShares MSCI USA Screened UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+OM3L.DE,iShares MSCI USA CTB Enhanced ESG UCITS ETF USD (Dist),etf,^GSPC,ETF,True
+JREU.DE,JPMorgan US Research Enhanced Index Equity Active UCITS ETF USD (acc),etf,^GSPC,ETF,True
+VDIV.DE,VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF,etf,^STOXX50E,ETF,True
+EDMU.DE,iShares MSCI USA CTB Enhanced ESG UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+EDM2.DE,iShares MSCI EM CTB Enhanced ESG UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+VVSM.DE,VanEck Semiconductor UCITS ETF,etf,^GSPC,ETF,True
+XZMU.DE,Xtrackers MSCI USA ESG UCITS ETF 1C,etf,^GSPC,ETF,True
+XAIX.DE,Xtrackers Artificial Intelligence & Big Data UCITS ETF 1C,etf,^GSPC,ETF,True
+2B7K.DE,iShares MSCI World SRI UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+XMAW.DE,Xtrackers MSCI AC World Screened UCITS ETF 1C,etf,^STOXX50E,ETF,True
+AYEM.DE,iShares MSCI EM IMI Screened UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+JREG.DE,JPMorgan Global Research Enhanced Index Equity Active UCITS ETF USD (acc),etf,^GSPC,ETF,True
+SNAW.DE,iShares MSCI World Screened UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+XZW0.DE,Xtrackers MSCI World ESG UCITS ETF 1C,etf,^GSPC,ETF,True
+SEC0.DE,iShares MSCI Global Semiconductors UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+EMNU.DE,iShares MSCI Europe CTB Enhanced ESG UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,True
+SLMC.DE,iShares MSCI Europe Screened UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+SPPY.DE,State Street SPDR S&P 500 Leaders UCITS ETF USD Unhedged (Acc),etf,^GSPC,ETF,True
+A4H8.DE,Amundi Index Euro Corporate SRI UCITS ETF DR (C),etf,^STOXX50E,ETF,True
+EDMW.DE,iShares MSCI World CTB Enhanced ESG UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+UIMM.DE,UBS MSCI World Socially Responsible UCITS ETF USD dis,etf,^GSPC,ETF,True
+2B76.DE,iShares Automation & Robotics UCITS ETF,etf,^GSPC,ETF,True
+OM3F.DE,iShares EUR Corporate Bond ESG SRI UCITS ETF (Dist),etf,^STOXX50E,ETF,True
+F500.DE,Amundi S&P 500 Screened UCITS ETF Acc,etf,^STOXX50E,ETF,True
+UET5.DE,UBS EURO STOXX 50 ESG UCITS ETF EUR dis,etf,^STOXX50E,ETF,True
+AYE2.DE,iShares EUR High Yield Corporate Bond ESG SRI UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+EDM4.DE,iShares MSCI EMU CTB Enhanced ESG UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+CB3G.DE,Amundi Euro Government tilted Green Bond UCITS ETF Acc,etf,^STOXX50E,ETF,True
+EEUX.DE,BNP Paribas Easy MSCI Europe Min TE UCITS ETF,etf,^STOXX50E,ETF,True
+IUSK.DE,iShares MSCI Europe SRI UCITS ETF (Acc),etf,^STOXX50E,ETF,True
+USPY.DE,L&G Cyber Security UCITS ETF,etf,^GSPC,ETF,True
+ECR3.DE,Amundi Index Euro Corporate SRI 0-3 Y UCITS ETF DR (C),etf,^STOXX50E,ETF,True
+XAMB.DE,Amundi MSCI World SRI Climate Paris Aligned UCITS ETF Acc,etf,^STOXX50E,ETF,True
+5ESG.DE,Invesco S&P 500 Scored & Screened UCITS ETF ,etf,^GSPC,ETF,True
+IQQH.DE,iShares Global Clean Energy Transition UCITS ETF USD (Dist),etf,^GSPC,ETF,True
+FYER.DE,Fidelity Emerging Markets Equity Research Enhanced UCITS ETF ACC-USD,etf,^GSPC,ETF,True
+IG3A.DE,iShares MSCI ACWI Screened UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+QDVR.DE,iShares MSCI USA SRI UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+JREE.DE,JPMorgan Europe Research Enhanced Index Equity Active UCITS ETF EUR (acc),etf,^STOXX50E,ETF,True
+SXRG.DE,iShares MSCI USA Small Cap ESG Enhanced CTB UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+QDVS.DE,iShares MSCI EM SRI UCITS ETF,etf,^GSPC,ETF,True
+ZPAB.DE,Amundi S&P Eurozone Climate Paris Aligned UCITS ETF Acc,etf,^STOXX50E,ETF,True
+JBEM.DE,BNP Paribas Easy JPM ESG EMU Government Bond IG UCITS ETF,etf,^STOXX50E,ETF,True
+XZMJ.DE,Xtrackers MSCI Japan ESG UCITS ETF 1C,etf,^GSPC,ETF,True
+ESGU.DE,Invesco MSCI USA Universal Screened UCITS ETF Acc,etf,^GSPC,ETF,True
+ASRE.DE,BNP Paribas Easy JPM ESG EMU Government Bond IG 3-5Y UCITS ETF (Acc),etf,^STOXX50E,ETF,True
+SECA.DE,iShares EUR Government Bond Climate UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+WELE.DE,Amundi S&P 500 Equal Weight ESG UCITS ETF Acc,etf,^GSPC,ETF,True
+CSY2.DE,UBS MSCI USA Selection UCITS ETF USD acc,etf,^GSPC,ETF,True
+CEUG.DE,Amundi MSCI Europe ESG Broad Transition UCITS ETF - EUR (C),etf,^STOXX50E,ETF,True
+EDM6.DE,iShares MSCI Europe CTB Enhanced ESG UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+N1ES.DE,Invesco Nasdaq-100 ESG UCITS ETF Acc,etf,^GSPC,ETF,True
+IQSA.DE,Invesco Global Active ESG Equity UCITS ETF Acc,etf,^GSPC,ETF,True
+UEF5.DE,UBS MSCI EM Socially Responsible UCITS ETF USD dis,etf,^GSPC,ETF,True
+LYYB.DE,Amundi MSCI USA ESG Broad Transition UCITS ETF Dist,etf,^STOXX50E,ETF,True
+AE5B.DE,Amundi MSCI Europe Action UCITS ETF Dist,etf,^STOXX50E,ETF,True
+QDVL.DE,iShares EUR Corporate Bond 0-3yr ESG SRI UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,True
+AWESG.MI,UBS MSCI ACWI Universal UCITS ETF USD dis,etf,^GSPC,ETF,True
+BPGE.DE,Nordea BetaPlus Enhanced Global Sustainable Equity UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+ASR3.DE,BNP Paribas Easy EUR Corporate Bond SRI PAB 1-3Y UCITS ETF Dist,etf,^STOXX50E,ETF,True
+XB4F.DE,Xtrackers II EUR Corporate Bond SRI PAB UCITS ETF 1D,etf,^STOXX50E,ETF,True
+XZE5.DE,Xtrackers II EUR Corporate Bond Short Duration SRI PAB UCITS ETF 1C,etf,^STOXX50E,ETF,True
+CBUK.DE,iShares MSCI China Tech UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+4UBQ.DE,UBS S&P 500 Scored & Screened UCITS ETF USD acc,etf,^GSPC,ETF,True
+SGAJ.DE,iShares MSCI Japan Screened UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+JREM.DE,JPMorgan Global Emerging Markets Research Enhanced Index Equity Active UCITS ETF USD (acc),etf,^GSPC,ETF,True
+SBIM.DE,Amundi MSCI Emerging Markets ESG Broad Transition UCITS ETF DR (C),etf,^GSPC,ETF,True
+LSMC.DE,Amundi MSCI Semiconductors UCITS ETF Acc,etf,^STOXX50E,ETF,True
+AEGE.DE,iShares Global Aggregate Bond ESG ​SRI UCITS ETF EUR Hedged (Acc),etf,^STOXX50E,ETF,True
+AMEI.DE,Amundi MSCI Emerging Markets SRI Climate Paris Aligned UCITS ETF DR (C),etf,^GSPC,ETF,True
+IUSL.DE,iShares Dow Jones Global Leaders Screened UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+MWOP.DE,Amundi MSCI World ESG Selection UCITS ETF Acc,etf,^GSPC,ETF,True
+D6RP.DE,Deka MSCI World Climate Change ESG UCITS ETF,etf,^STOXX50E,ETF,True
+XMLD.DE,L&G Artificial Intelligence UCITS ETF,etf,^GSPC,ETF,True
+AME6.DE,Amundi STOXX Europe 600 ESG UCITS ETF DR EUR (C),etf,^STOXX50E,ETF,True
+SEAC.DE,UBS MSCI World Socially Responsible UCITS ETF USD acc,etf,^GSPC,ETF,True
+EJAP.DE,BNP Paribas Easy MSCI Japan Min TE UCITS ETF,etf,^STOXX50E,ETF,True
+JRGD.DE,JPMorgan Global Research Enhanced Index Equity Active UCITS ETF USD (dist),etf,^GSPC,ETF,True
+ASR5.DE,BNP Paribas Easy EUR Corporate Bond SRI PAB 3-5Y UCITS ETF,etf,^STOXX50E,ETF,True
+WOEE.DE,iShares World Equity Enhanced Active UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+EMKX.DE,BNP Paribas Easy MSCI Emerging Min TE UCITS ETF,etf,^STOXX50E,ETF,True
+JEDI.DE,VanEck Space Innovators UCITS ETF,etf,^GSPC,ETF,True
+SUA0.DE,iShares EUR Corporate Bond ESG SRI UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+IE3E.DE,iShares EUR Corporate Bond 0-3yr ESG SRI UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+JEST.DE,JPMorgan EUR Ultra-Short Income Active UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+L0CK.DE,iShares Digital Security UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+EUN4.DE,iShares EUR Aggregate Bond ESG SRI UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,True
+LYM8.DE,Amundi MSCI Water UCITS ETF ,etf,^STOXX50E,ETF,True
+2B7J.DE,iShares MSCI World SRI UCITS ETF USD (Dist),etf,^GSPC,ETF,True
+CBUC.DE,iShares MSCI USA CTB Enhanced ESG UCITS ETF EUR Hedged (Acc),etf,^STOXX50E,ETF,True
+ETLQ.DE,L&G Global Equity UCITS ETF,etf,^GSPC,ETF,True
+AMED.DE,Amundi MSCI EMU ESG Selection UCITS ETF DR - EUR (C),etf,^STOXX50E,ETF,True
+SLMA.DE,iShares MSCI EMU Screened UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+AWDT.DE,BNP Paribas Easy II MSCI World PAB UCITS ETF USD Acc,etf,^GSPC,ETF,True
+FUSR.DE,Fidelity US Equity Research Enhanced UCITS ETF ACC-USD,etf,^GSPC,ETF,True
+IB28.DE,iShares iBonds Dec 2028 Term EUR Corporate UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,True
+QDVW.DE,iShares MSCI World Quality Dividend Advanced UCITS ETF USD (Dist),etf,^GSPC,ETF,True
+SLUS.DE,iShares MSCI USA Screened UCITS ETF USD (Dist),etf,^GSPC,ETF,True
+TSWE.DE,VanEck World Equal Weight Screened UCITS ETF A,etf,^STOXX50E,ETF,True
+A4H7.DE,Amundi EUR Corporate Bond 1-5Y ESG UCITS ETF DR,etf,^STOXX50E,ETF,True
+BPDE.DE,Nordea BetaPlus Enhanced Global Developed Sustainable Equity UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+FRNE.DE,Amundi Floating Rate Euro Corporate ESG UCITS ETF EUR (C),etf,^STOXX50E,ETF,True
+USEE.DE,iShares US Equity Enhanced Active UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+WELK.DE,Amundi S&P Global Financials ESG UCITS ETF DR EUR (A),etf,^STOXX50E,ETF,True
+XZEW.DE,Xtrackers S&P 500 Equal Weight Scored & Screened UCITS ETF 1C,etf,^GSPC,ETF,True
+EDMJ.DE,iShares MSCI Japan CTB Enhanced ESG UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+XZEM.DE,Xtrackers MSCI Emerging Markets ESG UCITS ETF 1C,etf,^GSPC,ETF,True
+PABW.DE,Amundi MSCI World Climate Paris Aligned UCITS ETF Acc,etf,^GSPC,ETF,True
+ASRI.DE,BNP Paribas Easy EUR Corporate Bond SRI PAB UCITS ETF Acc,etf,^STOXX50E,ETF,True
+GERD.DE,L&G Gerd Kommer Multifactor Equity UCITS ETF USD Accumulating,etf,^GSPC,ETF,True
+FUSD.DE,Fidelity US Quality Income UCITS ETF INC-USD,etf,^GSPC,ETF,True
+EUNS.DE,iShares EUR Corporate Bond ex-Financials 1-5yr ESG SRI UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,True
+WTI2.DE,WisdomTree Artificial Intelligence UCITS ETF USD Acc,etf,^GSPC,ETF,True
+EMUX.DE,BNP Paribas Easy MSCI EMU Min TE UCITS ETF,etf,^STOXX50E,ETF,True
+ETLS.DE,L&G US Equity UCITS ETF,etf,^GSPC,ETF,True
+4UBH.DE,UBS MSCI World Socially Responsible UCITS ETF USD acc,etf,^GSPC,ETF,True
+LGQG.DE,Amundi MSCI EMU ESG Broad Transition UCITS ETF Acc,etf,^STOXX50E,ETF,True
+JRUD.DE,JPMorgan US Research Enhanced Index Equity Active UCITS ETF USD (dist),etf,^GSPC,ETF,True
+EGEE.DE,iShares Emerging Markets Equity Enhanced Active UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+S500H.MI,Amundi S&P 500 Screened UCITS ETF Acc EUR Hedged,etf,^STOXX50E,ETF,True
+OM3Y.DE,iShares MSCI EM IMI Screened UCITS ETF USD (Dist),etf,^GSPC,ETF,True
+ZPA5.DE,Amundi S&P 500 Climate Paris Aligned UCITS ETF Acc,etf,^GSPC,ETF,True
+SGIG.L,Schroder Global Investment Grade Corporate Bond Active UCITS ETF (Acc),etf,^GSPC,ETF,True
+PR10.DE,Amundi Index Euro Aggregate SRI UCITS ETF DR (C),etf,^STOXX50E,ETF,True
+D5BH.DE,Xtrackers MSCI Canada Screened UCITS ETF 1C,etf,^GSPC,ETF,True
+GOAI.DE,Amundi MSCI Robotics & AI UCITS ETF Acc,etf,^STOXX50E,ETF,True
+4UBF.DE,UBS BBG MSCI Euro Area Liquid Corp Sustainable UCITS ETF EUR acc,etf,^STOXX50E,ETF,True
+YCSH.DE,iShares EUR Cash UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+XEWE.DE,Xtrackers S&P 500 Equal Weight Scored & Screened UCITS ETF 2C - EUR Hedged,etf,^STOXX50E,ETF,True
+LYEB.DE,Amundi EUR Corporate Bond Climate Paris Aligned UCITS ETF Acc,etf,^STOXX50E,ETF,True
+S6DW.DE,iShares MSCI World Screened UCITS ETF USD (Dist),etf,^GSPC,ETF,True
+SLMG.DE,iShares J.P. Morgan Advanced USD EM Bond UCITS ETF EUR Hedged (Acc),etf,^STOXX50E,ETF,True
+XZEU.DE,Xtrackers MSCI Europe ESG UCITS ETF 1C,etf,^STOXX50E,ETF,True
+ENOA.DE,BNP Paribas Easy MSCI USA Min TE UCITS ETF,etf,^STOXX50E,ETF,True
+WELU.DE,Amundi S&P Global Information Technology ESG UCITS ETF DR EUR (A),etf,^STOXX50E,ETF,True
+LEAD.DE,Amundi MSCI Europe ESG Selection UCITS ETF Acc,etf,^STOXX50E,ETF,True
+JUHE.DE,JPMorgan US Research Enhanced Index Equity Active UCITS ETF EUR Hedged (acc),etf,^STOXX50E,ETF,True
+SAHE.DE,Schroder Global Equity Active UCITS ETF,etf,^GSPC,ETF,True
+XZWE.DE,Xtrackers MSCI World ESG UCITS ETF 2C EUR Hedged,etf,^STOXX50E,ETF,True
+EEDM.L,iShares MSCI EM CTB Enhanced ESG UCITS ETF USD (Dist),etf,^GSPC,ETF,True
+LWCR.DE,Amundi MSCI World ESG Broad Transition UCITS ETF Acc,etf,^STOXX50E,ETF,True
+SADM.DE,Amundi MSCI Emerging Markets ESG Selection UCITS ETF DR (C),etf,^GSPC,ETF,True
+IVOA.DE,iShares iBonds Dec 2028 Term EUR Corporate UCITS ETF EUR (Acc),etf,^STOXX50E,ETF,True
+PJSR.DE,PIMCO Euro Short Maturity UCITS ETF Acc,etf,^STOXX50E,ETF,True
+2B78.DE,iShares Healthcare Innovation UCITS ETF,etf,^GSPC,ETF,True
+3DGL.DE,Robeco 3D Global Equity UCITS ETF USD Acc,etf,^GSPC,ETF,True
+AIFS.DE,iShares AI Infrastructure UCITS ETF USD (Acc),etf,^GSPC,ETF,True
+V3AA.DE,Vanguard ESG Global All Cap UCITS ETF (USD) Accumulating,etf,^GSPC,ETF,True
+MIVB.DE,Amundi MSCI Europe SRI Climate Paris Aligned UCITS ETF DR (C),etf,^STOXX50E,ETF,True
+AYEW.DE,iShares MSCI World Information Technology Sector Advanced UCITS ETF USD (Dist),etf,^GSPC,ETF,True
+EMWE.DE,BNP Paribas Easy MSCI World SRI S-Series PAB 5% Capped UCITS ETF EUR Acc,etf,^STOXX50E,ETF,True
+MDBE.DE,UBS Sustainable Development Bank Bonds UCITS ETF hEUR acc,etf,^STOXX50E,ETF,True
+LYM9.DE,Amundi MSCI New Energy UCITS ETF Dist,etf,^STOXX50E,ETF,True
+CBUJ.DE,iShares EUR Corporate Bond ESG Paris-Aligned Climate UCITS ETF EUR (Dist),etf,^STOXX50E,ETF,True
+EMXU.DE,Amundi MSCI Emerging Ex China ESG Selection UCITS ETF DR (C),etf,^GSPC,ETF,True
+S5SG.DE,UBS S&P 500 Scored & Screened UCITS ETF hEUR acc,etf,^STOXX50E,ETF,True
+XRSM.MI,Xtrackers MSCI USA Screened UCITS ETF 1C,etf,^GSPC,ETF,True
+CBU5.DE,iShares iBonds Dec 2028 Term USD Corporate UCITS ETF (Acc),etf,^GSPC,ETF,True
+RARE.MI,WisdomTree Strategic Metals and Rare Earths Miners UCITS ETF USD Unhedged Acc,etf,^GSPC,ETF,True
+BJLG.DE,BNP Paribas Easy JPM ESG EMU Government Bond IG 1-3Y UCITS ETF Acc,etf,^STOXX50E,ETF,True
+RENW.L,L&G Clean Energy UCITS ETF,etf,^GSPC,ETF,True
