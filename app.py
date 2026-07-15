@@ -11,6 +11,8 @@ st.set_page_config(page_title="News Impact Tracker", layout="centered")
 def carica():
     EV = pd.read_csv("eventi.csv")
     EV["rumore"] = EV["rumore"].map({True:True, False:False, "True":True, "False":False})
+    if "tipo" not in EV.columns:  EV["tipo"] = "stock"
+    if "bench" not in EV.columns: EV["bench"] = "market"
     return EV, pd.read_csv("notizie.csv")
 
 @st.cache_data
@@ -19,10 +21,13 @@ def img64(p):
 
 EV, NZ = carica()
 
-c1, c2 = st.columns([1, 1.3])
-mondo  = c1.radio("w", ["General", "ESG"], horizontal=True, label_visibility="collapsed")
-ordine = c2.selectbox("s", ["Newest first", "Largest move", "Out of noise only"],
+c1, c2 = st.columns(2)
+mondo = c1.radio("w", ["General", "ESG"], horizontal=True, label_visibility="collapsed")
+tipo  = c2.radio("t", ["Stocks", "ETFs"], horizontal=True, label_visibility="collapsed")
+c3, c4 = st.columns([1.4, 1])
+ordine = c3.selectbox("s", ["Newest first", "Largest move", "Out of noise only"],
                       label_visibility="collapsed")
+banda = c4.checkbox("noise band", value=True)
 FONDO = BLU if mondo == "General" else VERDE
 
 st.markdown(f"""<style>
@@ -37,13 +42,22 @@ st.markdown(f"""<style>
  .card a {{ color:{FONDO}; }}
  h1 {{ color:#fff !important; }}
  .disc {{ color:#fff; font-size:13px; opacity:.85; }}
+ .vuoto {{ background:#fff; border-radius:10px; padding:26px 22px; color:#555; font-size:14px; }}
 </style>""", unsafe_allow_html=True)
 
 st.markdown("# News Impact Tracker")
 st.markdown('<div class="disc" style="margin-bottom:18px">Not a recommendation. '
             'Shows what happened, not what will.</div>', unsafe_allow_html=True)
 
-vis = EV[EV["mondo"] == mondo].copy()
+vis = EV[(EV["mondo"] == mondo) & (EV["tipo"] == ("etf" if tipo == "ETFs" else "stock"))].copy()
+
+if not len(vis):
+    st.markdown('<div class="vuoto"><b>No ETF events yet.</b><br><br>ETF cards are derived, '
+                'not scraped: when a news moves a company, the tracker computes the mechanical '
+                'effect on every ETF holding it (weight × abnormal return) and compares it to '
+                'the ETF\'s actual move. Coming next.</div>', unsafe_allow_html=True)
+    st.stop()
+
 if ordine == "Largest move":
     vis = vis.reindex(vis["car"].abs().sort_values(ascending=False).index)
 elif ordine == "Out of noise only":
@@ -79,9 +93,11 @@ for _, e in vis.head(25).iterrows():
         nota = " · within noise" if e["rumore"] else ""
         h += f'<div class="fatto"><b>{e["ticker"]}</b> · ' \
              f'<span style="color:{col};font-weight:bold">{e["car"]:+.2f}%</span> ' \
-             f'vs benchmark · window [-1,+3]{nota} ' \
+             f'vs <b>{e["bench"]}</b> · window [-1,+3]{nota} ' \
              f'<span class="meta">(noise ±{e["soglia"]:.2f}%)</span></div>'
-        p = f'grafici/{e["evento"].replace("|","_").replace("^","I")}.png'
+        base = e["evento"].replace("|","_").replace("^","I")
+        p = f'grafici/{base}.png' if banda else f'grafici/{base}_nb.png'
+        if not os.path.exists(p): p = f'grafici/{base}.png'
         if os.path.exists(p):
             h += f'<img src="data:image/png;base64,{img64(p)}" ' \
                  f'style="width:100%;border-radius:6px;margin-top:12px">'

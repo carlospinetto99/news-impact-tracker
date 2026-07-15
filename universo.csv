@@ -1,0 +1,65 @@
+ticker,nome,area,bench,famiglia,giorni,zeri_%,vol_M$,da,ter_%,liquidita,spread_stimato_bps
+IVV,iShares Core S&P 500 ETF,USA — S&P 500,IVV,benchmark,1890,0.0,1847.6,2019-01-02,0.03,altissima,0.0
+CATH,Global X S&P 500 Catholic Values ETF,USA — S&P 500,IVV,religiosa,1890,0.7,1.1,2019-01-02,0.29,media,4.5
+EFIV,State Street SPDR S&P 500 ESG ETF,USA — S&P 500,IVV,esg,1494,0.5,1.2,2020-07-29,0.1,media,4.2
+IVE,iShares S&P 500 Value ETF,USA — S&P 500,IVV,benchmark,1890,0.5,94.2,2019-01-02,0.18,alta,0.1
+IVW,iShares S&P 500 Growth ETF,USA — S&P 500,IVV,benchmark,1890,0.6,140.3,2019-01-02,0.18,altissima,0.0
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF,USA — S&P 500,IVV,benchmark,1890,0.6,41.5,2019-01-02,0.35,alta,0.1
+RPG,Invesco S&P 500 Pure Growth ETF,USA — S&P 500,IVV,benchmark,1890,0.6,9.4,2019-01-02,0.35,media,0.5
+RPV,Invesco S&P 500 Pure Value ETF,USA — S&P 500,IVV,benchmark,1890,0.4,15.2,2019-01-02,0.35,alta,0.3
+RSP,Invesco S&P 500 Equal Weight ETF,USA — S&P 500,IVV,benchmark,1890,0.3,464.5,2019-01-02,0.2,altissima,0.0
+RSPD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,USA — S&P 500,IVV,benchmark,1890,0.5,1.6,2019-01-02,0.4,media,3.1
+RSPF,Invesco S&P 500 Equal Weight Financial ETF,USA — S&P 500,IVV,benchmark,1890,0.6,1.0,2019-01-02,0.4,sottile,5.0
+RSPG,Invesco S&P 500 Equal Weight Energy ETF,USA — S&P 500,IVV,benchmark,1890,0.4,3.4,2019-01-02,0.4,media,1.5
+RSPH,Invesco S&P 500 Equal Weight Health Care ETF,USA — S&P 500,IVV,benchmark,1890,0.8,2.0,2019-01-02,0.4,media,2.5
+RSPM,Invesco S&P 500 Equal Weight Materials ETF,USA — S&P 500,IVV,benchmark,1890,0.6,0.8,2019-01-02,0.4,sottile,6.2
+RSPN,Invesco S&P 500 Equal Weight Industrials Portfolio,USA — S&P 500,IVV,benchmark,1890,0.4,2.3,2019-01-02,0.4,media,2.2
+RSPS,Invesco S&P 500 Equal Weight Consumer Staples ETF,USA — S&P 500,IVV,benchmark,1890,0.5,1.8,2019-01-02,0.4,media,2.8
+RSPT,Invesco S&P 500 Equal Weight Technology ETF,USA — S&P 500,IVV,benchmark,1890,0.4,10.2,2019-01-02,0.4,alta,0.5
+RSPU,Invesco S&P 500 Equal Weight Utilities ETF,USA — S&P 500,IVV,benchmark,1890,0.4,2.0,2019-01-02,0.4,media,2.5
+RWL,Invesco S&P 500 Revenue ETF,USA — S&P 500,IVV,benchmark,1890,0.5,5.3,2019-01-02,0.39,media,0.9
+SNPE,Xtrackers S&P 500 Scored & Screened ETF,USA — S&P 500,IVV,screened,1769,1.1,5.5,2019-06-26,0.1,media,0.9
+SPGP,Invesco S&P 500 GARP ETF,USA — S&P 500,IVV,benchmark,1890,0.4,10.5,2019-01-02,0.36,alta,0.5
+SPHB,Invesco S&P 500 High Beta ETF,USA — S&P 500,IVV,benchmark,1890,0.4,26.4,2019-01-02,0.25,alta,0.2
+SPHD,Invesco S&P 500 High Dividend Low Volatility ETF,USA — S&P 500,IVV,benchmark,1890,0.8,25.4,2019-01-02,0.3,alta,0.2
+SPHQ,Invesco S&P 500 Quality ETF,USA — S&P 500,IVV,benchmark,1890,1.1,35.2,2019-01-02,0.15,alta,0.1
+SPLV,Invesco S&P 500 Low Volatility ETF,USA — S&P 500,IVV,benchmark,1890,1.0,145.1,2019-01-02,0.25,altissima,0.0
+SPMO,Invesco S&P 500 Momentum ETF,USA — S&P 500,IVV,benchmark,1890,0.2,1.4,2019-01-02,0.13,media,3.6
+SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,USA — S&P 500,IVV,religiosa,1647,1.2,1.4,2019-12-18,0.45,media,3.6
+SPY,State Street SPDR S&P 500 ETF Trust,USA — S&P 500,IVV,benchmark,1890,0.1,29925.1,2019-01-02,0.095,altissima,0.0
+SPYD,State Street SPDR Portfolio S&P 500 High Dividend ETF,USA — S&P 500,IVV,benchmark,1890,1.0,37.3,2019-01-02,0.07,alta,0.1
+SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,USA — S&P 500,IVV,benchmark,1890,1.0,119.2,2019-01-02,0.04,altissima,0.0
+SPYI,NEOS S&P 500 High Income ETF,USA — S&P 500,IVV,benchmark,968,1.0,21.3,2022-08-30,0.68,alta,0.2
+SPYM,State Street SPDR Portfolio S&P 500 ETF,USA — S&P 500,IVV,benchmark,1890,0.9,180.6,2019-01-02,,altissima,0.0
+SPYV,State Street SPDR Portfolio S&P 500 Value ETF,USA — S&P 500,IVV,benchmark,1890,1.4,86.0,2019-01-02,0.04,alta,0.1
+SPYX,State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF,USA — S&P 500,IVV,clima,1890,0.6,2.7,2019-01-02,0.2,media,1.9
+VOO,Vanguard S&P 500 ETF,USA — S&P 500,IVV,benchmark,1890,0.3,1644.3,2019-01-02,0.03,altissima,0.0
+VOOG,Vanguard S&P 500 Growth ETF,USA — S&P 500,IVV,benchmark,1890,0.1,35.1,2019-01-02,0.07,alta,0.1
+VOOV,Vanguard S&P 500 Value ETF,USA — S&P 500,IVV,benchmark,1890,0.6,12.2,2019-01-02,0.07,alta,0.4
+XLG,Invesco S&P 500 Top 50 ETF,USA — S&P 500,IVV,benchmark,1890,0.7,17.7,2019-01-02,0.2,alta,0.3
+VTI,Vanguard Total Stock Market ETF,USA — total mkt,VTI,benchmark,1890,0.4,702.0,2019-01-02,0.03,altissima,0.0
+VGK,Vanguard FTSEEuropean ETF,Europa,VGK,benchmark,1890,0.7,184.2,2019-01-02,0.06,altissima,0.0
+BBEU,JPMorgan BetaBuilders Europe ETF,Europa,VGK,benchmark,1890,1.4,18.0,2019-01-02,0.09,alta,0.3
+DBEU,Xtrackers MSCI Europe Hedged Equity ETF,Europa,VGK,benchmark,1890,1.3,1.9,2019-01-02,0.45,media,2.6
+DFE,WisdomTree Europe SmallCap Dividend Fund,Europa,VGK,benchmark,1890,0.4,0.6,2019-01-02,0.58,sottile,8.3
+EUFN,iShares MSCI Europe Financials ETF,Europa,VGK,benchmark,1890,1.6,13.1,2019-01-02,0.49,alta,0.4
+EZU,iShares MSCI Eurozone ETF,Europa,VGK,benchmark,1890,0.7,113.8,2019-01-02,0.5,altissima,0.0
+FEP,First Trust Europe AlphaDEX Fund,Europa,VGK,benchmark,1890,1.0,1.1,2019-01-02,0.8,media,4.5
+HEDJ,WisdomTree Europe Hedged Equity Fund,Europa,VGK,benchmark,1890,0.8,5.2,2019-01-02,0.58,media,1.0
+HEZU,iShares Currency Hedged MSCI Eurozone ETF,Europa,VGK,benchmark,1890,1.3,2.5,2019-01-02,0.53,media,2.0
+IEUR,iShares Core MSCI Europe ETF,Europa,VGK,benchmark,1890,0.8,28.9,2019-01-02,0.1,alta,0.2
+IEV,iShares Europe ETF,Europa,VGK,benchmark,1890,0.6,11.9,2019-01-02,0.6,alta,0.4
+SPEU,State Street SPDR Portfolio Europe ETF,Europa,VGK,benchmark,1890,1.0,1.1,2019-01-02,0.07,media,4.5
+MCHI,iShares MSCI China ETF,Cina,MCHI,benchmark,1890,0.6,190.2,2019-01-02,0.59,altissima,0.0
+ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,Cina,MCHI,benchmark,1890,1.3,120.1,2019-01-02,0.65,altissima,0.0
+CHIQ,Global X MSCI China Consumer Discretionary ETF,Cina,MCHI,benchmark,1890,1.4,1.4,2019-01-02,0.65,media,3.6
+CNYA,iShares MSCI China A ETF,Cina,MCHI,benchmark,1890,1.0,1.8,2019-01-02,0.6,media,2.8
+CQQQ,Invesco China Technology ETF,Cina,MCHI,benchmark,1890,0.4,10.3,2019-01-02,0.65,alta,0.5
+CXSE,WisdomTree China ex-State-Owned Enterprises Fund,Cina,MCHI,esclusione,1890,0.3,1.4,2019-01-02,0.32,media,3.6
+EMXC,iShares MSCI Emerging Markets ex China ETF,Cina,MCHI,benchmark,1890,1.2,22.9,2019-01-02,0.25,alta,0.2
+FXI,iShares China Large-Cap ETF,Cina,MCHI,benchmark,1890,0.7,907.5,2019-01-02,0.73,altissima,0.0
+GXC,State Street SPDR S&P China ETF,Cina,MCHI,benchmark,1890,0.4,3.9,2019-01-02,0.59,media,1.3
+KBA,KraneShares Bosera MSCI China A 50 Connect Index ETF,Cina,MCHI,benchmark,1890,1.4,2.0,2019-01-02,0.56,media,2.5
+KWEB,KraneShares CSI China Internet ETF,Cina,MCHI,benchmark,1890,0.4,388.3,2019-01-02,0.7,altissima,0.0
+PGJ,Invesco Golden Dragon China ETF,Cina,MCHI,benchmark,1890,0.8,1.1,2019-01-02,0.7,media,4.5
+XCEM,Columbia EM Core ex-China ETF,Cina,MCHI,esclusione,1890,1.0,0.9,2019-01-02,0.16,sottile,5.6

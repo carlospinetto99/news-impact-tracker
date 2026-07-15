@@ -67,6 +67,9 @@ NOME2TICK = {pulisci(r["nome"]): r["ticker"] for _, r in UNIVERSO.iterrows()
              if r["tipo"] == "stock" and len(pulisci(r["nome"])) >= 5}
 TICK2NOME = {r["ticker"]: pulisci(r["nome"]) for _, r in UNIVERSO.iterrows()}
 SETTORE   = dict(zip(UNIVERSO["ticker"], UNIVERSO["settore"]))
+TIPO      = dict(zip(UNIVERSO["ticker"], UNIVERSO["tipo"]))
+BENCH_NOME = {"^GSPC":"S&P 500", "^STOXX50E":"Euro Stoxx 50", "^FTSE":"FTSE 100",
+              "^GDAXI":"DAX", "^IXIC":"Nasdaq"}
 BENCH     = dict(zip(UNIVERSO["ticker"], UNIVERSO["bench"]))
 WATCH_YF  = sorted(set(pd.read_csv("pesi.csv")["ticker"]) & set(UNIVERSO["ticker"]))
 
@@ -175,14 +178,15 @@ def car(ticker, data_notizia, PX, bench="^GSPC", ev=(-1,3),
             "beta": float(beta), "alfa": float(alfa), "sigma": float(sigma),
             "asse": asse, "tit": tit, "ben": ben, "lo": lo, "hi": hi}
 
-def disegna(ev_id, ticker, s):
+def disegna(ev_id, ticker, s, banda=True):
     """PNG. Un evento chiuso non cambia mai: si disegna una volta sola."""
     os.makedirs("grafici", exist_ok=True)
-    p = f"grafici/{ev_id.replace('|','_').replace('^','I')}.png"
+    p = f"grafici/{ev_id.replace('|','_').replace('^','I')}{'' if banda else '_nb'}.png"
     if os.path.exists(p): return p
     fig, ax = plt.subplots(figsize=(8, 3.3), facecolor=NERO, dpi=110)
     ax.set_facecolor(NERO)
-    ax.fill_between(s["asse"], s["lo"], s["hi"], color=GRIGIO, alpha=.22, lw=0, zorder=1)
+    if banda:
+        ax.fill_between(s["asse"], s["lo"], s["hi"], color=GRIGIO, alpha=.22, lw=0, zorder=1)
     ax.plot(s["asse"], s["ben"], color=BIANCO, lw=1, alpha=.75, zorder=2, label="benchmark")
     for lw, al in [(9,.04),(6,.06),(3.5,.12)]:
         ax.plot(s["asse"], s["tit"], color=FUCSIA, lw=lw, alpha=al, zorder=3, solid_capstyle="round")
@@ -209,6 +213,8 @@ def leggi(nome, colonne):
 def stato(riga, PX):
     r = car(riga["ticker"], riga["giorno0"], PX, bench=BENCH.get(riga["ticker"], "^GSPC"))
     base = {k: riga.get(k) for k in ["ticker","mondo","tag","materiale","settore","giorno0","evento"]}
+    base["tipo"]  = TIPO.get(riga["ticker"], "stock")
+    base["bench"] = BENCH_NOME.get(BENCH.get(riga["ticker"], "^GSPC"), "market")
     if not r["ok"]:
         m = r["motivo"]
         st = ("consolidating" if "consolidamento" in m
@@ -281,6 +287,7 @@ def giro(PX):
         if sr is not None:
             ser.append(sr)
             disegna(r["evento"], r["ticker"], sr)
+            disegna(r["evento"], r["ticker"], sr, banda=False)
 
     if ser:
         S = pd.concat([leggi("serie.csv", ["evento","asse"])] + ser, ignore_index=True)
@@ -290,6 +297,7 @@ def giro(PX):
     if os.path.exists("serie.csv"):
         for ev_id, g in pd.read_csv("serie.csv").groupby("evento"):
             disegna(ev_id, ev_id.split("|")[0], g)
+            disegna(ev_id, ev_id.split("|")[0], g, banda=False)
 
     EV = pd.concat([EVv, pd.DataFrame(righe)], ignore_index=True)
     EV = EV.drop_duplicates(subset="evento", keep="last").sort_values("giorno0", ascending=False)
