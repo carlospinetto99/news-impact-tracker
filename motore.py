@@ -178,30 +178,32 @@ def car(ticker, data_notizia, PX, bench="^GSPC", ev=(-1,3),
             "beta": float(beta), "alfa": float(alfa), "sigma": float(sigma),
             "asse": asse, "tit": tit, "ben": ben, "lo": lo, "hi": hi}
 
-def disegna(ev_id, ticker, s, banda=True):
-    """PNG. Un evento chiuso non cambia mai: si disegna una volta sola."""
+def disegna(ev_id, ticker, s, banda=True, bench="benchmark"):
     os.makedirs("grafici", exist_ok=True)
     p = f"grafici/{ev_id.replace('|','_').replace('^','I')}{'' if banda else '_nb'}.png"
     if os.path.exists(p): return p
-    fig, ax = plt.subplots(figsize=(8, 3.3), facecolor=NERO, dpi=110)
+    fig, ax = plt.subplots(figsize=(11, 5.5), facecolor=NERO, dpi=100)
     ax.set_facecolor(NERO)
     if banda:
         ax.fill_between(s["asse"], s["lo"], s["hi"], color=GRIGIO, alpha=.22, lw=0, zorder=1)
-    ax.plot(s["asse"], s["ben"], color=BIANCO, lw=1, alpha=.75, zorder=2, label="benchmark")
+    ax.plot(s["asse"], s["ben"], color=BIANCO, lw=1.0, alpha=.75, zorder=2, label=bench)
     for lw, al in [(9,.04),(6,.06),(3.5,.12)]:
         ax.plot(s["asse"], s["tit"], color=FUCSIA, lw=lw, alpha=al, zorder=3, solid_capstyle="round")
     ax.plot(s["asse"], s["tit"], color=FUCSIA, lw=1.9, zorder=4, label=ticker)
     ax.axvline(0, color=BIANCO, ls=(0,(5,4)), lw=1.2, alpha=.9, zorder=5)
     for sp in ax.spines.values(): sp.set_visible(False)
-    ax.tick_params(colors=GRIGIO, labelsize=8)
+    ax.tick_params(colors=GRIGIO, labelsize=9)
     ax.grid(axis="y", color=GRIGIO, alpha=.10, lw=.6); ax.set_axisbelow(True)
     ax.set_xticks([-60,-30,0,30,60])
-    ax.set_xlabel("trading days from news", color=GRIGIO, fontsize=8)
-    ax.text(0, ax.get_ylim()[1], "  news", color=BIANCO, fontsize=8, va="top")
-    leg = ax.legend(loc="lower left", frameon=False, fontsize=8)
+    ax.set_xlabel("trading days from news", color=GRIGIO, fontsize=9)
+    ax.set_ylabel("rebased to 100", color=GRIGIO, fontsize=9)
+    ax.set_title(f"{ticker} · {ev_id.split('|')[1]}", color=BIANCO, fontsize=12, loc="left", pad=14)
+    ax.text(0, ax.get_ylim()[1], "  news", color=BIANCO, fontsize=9, va="top")
+    leg = ax.legend(loc="lower left", frameon=False, fontsize=9)
     for t in leg.get_texts(): t.set_color(BIANCO)
     fig.tight_layout(); fig.savefig(p, facecolor=NERO); plt.close(fig)
     return p
+
 
 def leggi(nome, colonne):
     if not os.path.exists(nome): return pd.DataFrame(columns=colonne)
@@ -286,8 +288,9 @@ def giro(PX):
         righe.append(s)
         if sr is not None:
             ser.append(sr)
-            disegna(r["evento"], r["ticker"], sr)
-            disegna(r["evento"], r["ticker"], sr, banda=False)
+            nb = BENCH_NOME.get(BENCH.get(r["ticker"], "^GSPC"), "benchmark")
+            disegna(r["evento"], r["ticker"], sr, bench=nb)
+            disegna(r["evento"], r["ticker"], sr, banda=False, bench=nb)
 
     if ser:
         S = pd.concat([leggi("serie.csv", ["evento","asse"])] + ser, ignore_index=True)
@@ -296,8 +299,10 @@ def giro(PX):
     # disegna i PNG mancanti da serie.csv — anche per gli eventi congelati
     if os.path.exists("serie.csv"):
         for ev_id, g in pd.read_csv("serie.csv").groupby("evento"):
-            disegna(ev_id, ev_id.split("|")[0], g)
-            disegna(ev_id, ev_id.split("|")[0], g, banda=False)
+            tk = ev_id.split("|")[0]
+            nb = BENCH_NOME.get(BENCH.get(tk, "^GSPC"), "benchmark")
+            disegna(ev_id, tk, g, bench=nb)
+            disegna(ev_id, tk, g, banda=False, bench=nb)
 
     EV = pd.concat([EVv, pd.DataFrame(righe)], ignore_index=True)
     EV = EV.drop_duplicates(subset="evento", keep="last").sort_values("giorno0", ascending=False)

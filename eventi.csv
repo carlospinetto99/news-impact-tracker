@@ -30,6 +30,7 @@ META|2026-07-15,consolidating,META,ESG,S,2026-07-15,,,,,,True,Communication Serv
 MPC|2026-07-15,consolidating,MPC,General,,2026-07-15,,,,,,,Energy,stock,S&P 500
 MSFT|2026-07-15,consolidating,MSFT,General,,2026-07-15,,,,,,,Information Technology,stock,S&P 500
 MS|2026-07-15,consolidating,MS,ESG,E,2026-07-15,,,,,,False,Financials,stock,S&P 500
+MU|2026-07-15,consolidating,MU,General,,2026-07-15,,,,,,,Information Technology,stock,S&P 500
 NEE|2026-07-15,consolidating,NEE,General,,2026-07-15,,,,,,,,stock,S&P 500
 NFLX|2026-07-15,consolidating,NFLX,General,,2026-07-15,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-07-15,consolidating,NVDA,ESG,E,2026-07-15,,,,,,False,Information Technology,stock,S&P 500
@@ -63,6 +64,7 @@ GEV|2026-07-14,consolidating,GEV,General,,2026-07-14,,,,,,,Industrials,stock,S&P
 GE|2026-07-14,consolidating,GE,ESG,E,2026-07-14,,,,,,True,Industrials,stock,S&P 500
 JPM|2026-07-14,consolidating,JPM,General,,2026-07-14,,,,,,,Financials,stock,S&P 500
 MA|2026-07-14,consolidating,MA,General,,2026-07-14,,,,,,,Financials,stock,S&P 500
+META|2026-07-14,consolidating,META,General,,2026-07-14,,,,,,,Communication Services,stock,S&P 500
 MS|2026-07-14,consolidating,MS,General,,2026-07-14,,,,,,,Financials,stock,S&P 500
 PEP|2026-07-14,consolidating,PEP,ESG,E,2026-07-14,,,,,,True,Consumer Staples,stock,S&P 500
 PSX|2026-07-14,consolidating,PSX,General,,2026-07-14,,,,,,,Energy,stock,S&P 500
@@ -89,8 +91,8 @@ COP|2026-07-11,consolidating,COP,General,,2026-07-11,,,,,,,Energy,stock,S&P 500
 DE|2026-07-11,consolidating,DE,General,,2026-07-11,,,,,,,Industrials,stock,S&P 500
 UNP|2026-07-11,consolidating,UNP,ESG,S,2026-07-11,,,,,,True,Industrials,stock,S&P 500
 ETN|2026-07-10,closed,ETN,General,,2026-07-10,0.02,8.96,True,1.6,2.04,,Industrials,stock,S&P 500
-ICLN|2026-07-10,no data,ICLN,General,,2026-07-10,,,,,,,,stock,S&P 500
 PSX|2026-07-10,closed,PSX,General,,2026-07-10,4.32,9.08,True,-0.47,2.07,,Energy,stock,S&P 500
+ICLN|2026-07-10,no data,ICLN,General,,2026-07-10,,,,,,,,stock,S&P 500
 ICLN|2026-07-09,closed,ICLN,General,,2026-07-09,-2.71,6.61,True,1.62,1.51,,,,
 EA|2026-07-09,closed,EA,General,,2026-07-09,0.57,1.67,True,0.11,0.38,,Communication Services,,
 EOG|2026-07-09,closed,EOG,General,,2026-07-09,1.68,7.7,True,-0.78,1.76,,Energy,,

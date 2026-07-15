@@ -21,13 +21,11 @@ def img64(p):
 
 EV, NZ = carica()
 
-c1, c2 = st.columns(2)
-mondo = c1.radio("w", ["General", "ESG"], horizontal=True, label_visibility="collapsed")
-tipo  = c2.radio("t", ["Stocks", "ETFs"], horizontal=True, label_visibility="collapsed")
-c3, c4 = st.columns([1.4, 1])
-ordine = c3.selectbox("s", ["Newest first", "Most significant", "Out of noise only"],
+c1, c2, c3 = st.columns([1.1, 1.4, 1])
+mondo  = c1.radio("w", ["General", "ESG"], horizontal=True, label_visibility="collapsed")
+ordine = c2.selectbox("s", ["Newest first", "Most significant", "Out of noise only"],
                       label_visibility="collapsed")
-banda = c4.checkbox("noise band", value=True)
+banda  = c3.checkbox("noise band", value=True)
 FONDO = BLU if mondo == "General" else VERDE
 
 st.markdown(f"""<style>
@@ -49,14 +47,7 @@ st.markdown("# News Impact Tracker")
 st.markdown('<div class="disc" style="margin-bottom:18px">Not a recommendation. '
             'Shows what happened, not what will.</div>', unsafe_allow_html=True)
 
-vis = EV[(EV["mondo"] == mondo) & (EV["tipo"] == ("etf" if tipo == "ETFs" else "stock"))].copy()
-
-if not len(vis):
-    st.markdown('<div class="vuoto"><b>No ETF events yet.</b><br><br>ETF cards are derived, '
-                'not scraped: when a news moves a company, the tracker computes the mechanical '
-                'effect on every ETF holding it (weight × abnormal return) and compares it to '
-                'the ETF\'s actual move. Coming next.</div>', unsafe_allow_html=True)
-    st.stop()
+vis = EV[EV["mondo"] == mondo].copy()
 
 if ordine == "Most significant":
     vis["sig"] = (vis["car"].abs() / vis["soglia"]).fillna(-1)
