@@ -6,7 +6,7 @@ AMZN|2026-07-15,consolidating,AMZN,General,,2026-07-15,,,,,,,Consumer Discretion
 AVGO|2026-07-15,consolidating,AVGO,General,,2026-07-15,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-07-15,consolidating,AXP,General,,2026-07-15,,,,,,,Financials,stock,S&P 500
 BAC|2026-07-15,consolidating,BAC,General,,2026-07-15,,,,,,,Financials,stock,S&P 500
-BA|2026-07-15,consolidating,BA,General,,2026-07-15,,,,,,,Industrials,stock,S&P 500
+BA|2026-07-15,consolidating,BA,ESG,E,2026-07-15,,,,,,True,Industrials,stock,S&P 500
 BLK|2026-07-15,consolidating,BLK,ESG,E,2026-07-15,,,,,,False,Financials,stock,S&P 500
 BRK-B|2026-07-15,consolidating,BRK-B,General,,2026-07-15,,,,,,,Financials,stock,S&P 500
 CAT|2026-07-15,consolidating,CAT,ESG,E,2026-07-15,,,,,,True,Industrials,stock,S&P 500
@@ -15,6 +15,7 @@ COP|2026-07-15,consolidating,COP,General,,2026-07-15,,,,,,,Energy,stock,S&P 500
 CSCO|2026-07-15,consolidating,CSCO,General,,2026-07-15,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-07-15,consolidating,CVX,ESG,E,2026-07-15,,,,,,True,Energy,stock,S&P 500
 C|2026-07-15,consolidating,C,General,,2026-07-15,,,,,,,Financials,stock,S&P 500
+DE|2026-07-15,consolidating,DE,General,,2026-07-15,,,,,,,Industrials,stock,S&P 500
 DIS|2026-07-15,consolidating,DIS,General,,2026-07-15,,,,,,,Communication Services,stock,S&P 500
 ETN|2026-07-15,consolidating,ETN,General,,2026-07-15,,,,,,,Industrials,stock,S&P 500
 GEV|2026-07-15,consolidating,GEV,General,,2026-07-15,,,,,,,Industrials,stock,S&P 500
@@ -26,7 +27,7 @@ INTC|2026-07-15,consolidating,INTC,General,,2026-07-15,,,,,,,Information Technol
 JPM|2026-07-15,consolidating,JPM,General,,2026-07-15,,,,,,,Financials,stock,S&P 500
 LRCX|2026-07-15,consolidating,LRCX,General,,2026-07-15,,,,,,,Information Technology,stock,S&P 500
 MA|2026-07-15,consolidating,MA,General,,2026-07-15,,,,,,,Financials,stock,S&P 500
-META|2026-07-15,consolidating,META,ESG,S,2026-07-15,,,,,,True,Communication Services,stock,S&P 500
+META|2026-07-15,consolidating,META,ESG,GS,2026-07-15,,,,,,True,Communication Services,stock,S&P 500
 MPC|2026-07-15,consolidating,MPC,General,,2026-07-15,,,,,,,Energy,stock,S&P 500
 MSFT|2026-07-15,consolidating,MSFT,General,,2026-07-15,,,,,,,Information Technology,stock,S&P 500
 MS|2026-07-15,consolidating,MS,ESG,E,2026-07-15,,,,,,False,Financials,stock,S&P 500
@@ -34,19 +35,19 @@ MU|2026-07-15,consolidating,MU,General,,2026-07-15,,,,,,,Information Technology,
 NEE|2026-07-15,consolidating,NEE,General,,2026-07-15,,,,,,,,stock,S&P 500
 NFLX|2026-07-15,consolidating,NFLX,General,,2026-07-15,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-07-15,consolidating,NVDA,ESG,E,2026-07-15,,,,,,False,Information Technology,stock,S&P 500
-PSX|2026-07-15,consolidating,PSX,General,,2026-07-15,,,,,,,Energy,stock,S&P 500
+PSX|2026-07-15,consolidating,PSX,ESG,E,2026-07-15,,,,,,True,Energy,stock,S&P 500
 QQQ|2026-07-15,no data,QQQ,General,,2026-07-15,,,,,,,,stock,S&P 500
 RTX|2026-07-15,consolidating,RTX,ESG,E,2026-07-15,,,,,,True,Industrials,stock,S&P 500
 SLB|2026-07-15,consolidating,SLB,ESG,E,2026-07-15,,,,,,True,Energy,stock,S&P 500
 TMUS|2026-07-15,consolidating,TMUS,General,,2026-07-15,,,,,,,Communication Services,stock,S&P 500
-TSLA|2026-07-15,consolidating,TSLA,General,,2026-07-15,,,,,,,Consumer Discretionary,stock,S&P 500
+TSLA|2026-07-15,consolidating,TSLA,ESG,E,2026-07-15,,,,,,False,Consumer Discretionary,stock,S&P 500
 TTWO|2026-07-15,consolidating,TTWO,General,,2026-07-15,,,,,,,Communication Services,stock,S&P 500
 UBER|2026-07-15,consolidating,UBER,General,,2026-07-15,,,,,,,Industrials,stock,S&P 500
 VLO|2026-07-15,consolidating,VLO,ESG,E,2026-07-15,,,,,,True,Energy,stock,S&P 500
 V|2026-07-15,consolidating,V,General,,2026-07-15,,,,,,,Financials,stock,S&P 500
 WBD|2026-07-15,consolidating,WBD,General,,2026-07-15,,,,,,,Communication Services,stock,S&P 500
 WFC|2026-07-15,consolidating,WFC,General,,2026-07-15,,,,,,,Financials,stock,S&P 500
-XOM|2026-07-15,consolidating,XOM,General,,2026-07-15,,,,,,,Energy,stock,S&P 500
+XOM|2026-07-15,consolidating,XOM,ESG,E,2026-07-15,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-07-14,consolidating,AAPL,General,,2026-07-14,,,,,,,,stock,S&P 500
 AMAT|2026-07-14,consolidating,AMAT,General,,2026-07-14,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-07-14,consolidating,AXP,General,,2026-07-14,,,,,,,Financials,stock,S&P 500
