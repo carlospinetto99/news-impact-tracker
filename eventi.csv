@@ -7,7 +7,7 @@ BAC|2026-07-17,waiting,BAC,General,,2026-07-17,,,,,,,Financials,stock,S&P 500
 BA|2026-07-17,waiting,BA,General,,2026-07-17,,,,,,,Industrials,stock,S&P 500
 COP|2026-07-17,waiting,COP,General,,2026-07-17,,,,,,,Energy,stock,S&P 500
 CSCO|2026-07-17,waiting,CSCO,General,,2026-07-17,,,,,,,Information Technology,stock,S&P 500
-CVX|2026-07-17,waiting,CVX,General,,2026-07-17,,,,,,,Energy,stock,S&P 500
+CVX|2026-07-17,waiting,CVX,ESG,E,2026-07-17,,,,,,True,Energy,stock,S&P 500
 DE|2026-07-17,waiting,DE,General,,2026-07-17,,,,,,,Industrials,stock,S&P 500
 ETN|2026-07-17,waiting,ETN,General,,2026-07-17,,,,,,,Industrials,stock,S&P 500
 GE|2026-07-17,waiting,GE,General,,2026-07-17,,,,,,,Industrials,stock,S&P 500
@@ -16,7 +16,7 @@ GS|2026-07-17,waiting,GS,General,,2026-07-17,,,,,,,Financials,stock,S&P 500
 INTC|2026-07-17,waiting,INTC,General,,2026-07-17,,,,,,,Information Technology,stock,S&P 500
 KMI|2026-07-17,waiting,KMI,General,,2026-07-17,,,,,,,Energy,stock,S&P 500
 LRCX|2026-07-17,waiting,LRCX,General,,2026-07-17,,,,,,,Information Technology,stock,S&P 500
-META|2026-07-17,waiting,META,General,,2026-07-17,,,,,,,Communication Services,stock,S&P 500
+META|2026-07-17,waiting,META,ESG,S,2026-07-17,,,,,,True,Communication Services,stock,S&P 500
 MSFT|2026-07-17,waiting,MSFT,General,,2026-07-17,,,,,,,Information Technology,stock,S&P 500
 MS|2026-07-17,waiting,MS,General,,2026-07-17,,,,,,,Financials,stock,S&P 500
 MU|2026-07-17,waiting,MU,General,,2026-07-17,,,,,,,Information Technology,stock,S&P 500
