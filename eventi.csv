@@ -2,18 +2,25 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-07-18,waiting,AAPL,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-18,waiting,AMD,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-07-18,waiting,AMZN,General,,2026-07-18,,,,,,,Consumer Discretionary,stock,S&P 500
+AXP|2026-07-18,waiting,AXP,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
 BA|2026-07-18,waiting,BA,General,,2026-07-18,,,,,,,Industrials,stock,S&P 500
+BRK-B|2026-07-18,waiting,BRK-B,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
+COP|2026-07-18,waiting,COP,General,,2026-07-18,,,,,,,Energy,stock,S&P 500
 DE|2026-07-18,waiting,DE,General,,2026-07-18,,,,,,,Industrials,stock,S&P 500
 EA|2026-07-18,waiting,EA,General,,2026-07-18,,,,,,,Communication Services,stock,S&P 500
+GE|2026-07-18,waiting,GE,General,,2026-07-18,,,,,,,Industrials,stock,S&P 500
+GOOGL|2026-07-18,waiting,GOOGL,General,,2026-07-18,,,,,,,Communication Services,stock,S&P 500
 GS|2026-07-18,waiting,GS,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
 INTC|2026-07-18,waiting,INTC,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
+JPM|2026-07-18,waiting,JPM,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
 META|2026-07-18,waiting,META,General,,2026-07-18,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-07-18,waiting,MSFT,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-07-18,waiting,NFLX,ESG,E,2026-07-18,,,,,,False,Communication Services,stock,S&P 500
 PSX|2026-07-18,waiting,PSX,General,,2026-07-18,,,,,,,Energy,stock,S&P 500
 TSLA|2026-07-18,waiting,TSLA,General,,2026-07-18,,,,,,,Consumer Discretionary,stock,S&P 500
+WBD|2026-07-18,waiting,WBD,General,,2026-07-18,,,,,,,Communication Services,stock,S&P 500
 WFC|2026-07-18,waiting,WFC,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
-XOM|2026-07-18,waiting,XOM,General,,2026-07-18,,,,,,,Energy,stock,S&P 500
+XOM|2026-07-18,waiting,XOM,ESG,E,2026-07-18,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-07-17,consolidating,AAPL,ESG,EG,2026-07-17,,,,,,True,Information Technology,stock,S&P 500
 AMAT|2026-07-17,consolidating,AMAT,General,,2026-07-17,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-17,consolidating,AMD,ESG,E,2026-07-17,,,,,,False,Information Technology,stock,S&P 500
@@ -35,6 +42,7 @@ GE|2026-07-17,consolidating,GE,General,,2026-07-17,,,,,,,Industrials,stock,S&P 5
 GOOGL|2026-07-17,consolidating,GOOGL,General,,2026-07-17,,,,,,,Communication Services,stock,S&P 500
 GS|2026-07-17,consolidating,GS,General,,2026-07-17,,,,,,,Financials,stock,S&P 500
 INTC|2026-07-17,consolidating,INTC,General,,2026-07-17,,,,,,,Information Technology,stock,S&P 500
+JPM|2026-07-17,consolidating,JPM,General,,2026-07-17,,,,,,,Financials,stock,S&P 500
 KMI|2026-07-17,consolidating,KMI,General,,2026-07-17,,,,,,,Energy,stock,S&P 500
 LRCX|2026-07-17,consolidating,LRCX,General,,2026-07-17,,,,,,,Information Technology,stock,S&P 500
 META|2026-07-17,consolidating,META,ESG,S,2026-07-17,,,,,,True,Communication Services,stock,S&P 500
