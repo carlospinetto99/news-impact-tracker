@@ -3,10 +3,12 @@ AAPL|2026-07-18,waiting,AAPL,General,,2026-07-18,,,,,,,Information Technology,st
 AMD|2026-07-18,waiting,AMD,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-07-18,waiting,AMZN,General,,2026-07-18,,,,,,,Consumer Discretionary,stock,S&P 500
 AXP|2026-07-18,waiting,AXP,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
+BAC|2026-07-18,waiting,BAC,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
 BA|2026-07-18,waiting,BA,General,,2026-07-18,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-07-18,waiting,BRK-B,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
 COP|2026-07-18,waiting,COP,ESG,E,2026-07-18,,,,,,True,Energy,stock,S&P 500
 CSCO|2026-07-18,waiting,CSCO,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-07-18,waiting,CVX,ESG,E,2026-07-18,,,,,,True,Energy,stock,S&P 500
 DE|2026-07-18,waiting,DE,General,,2026-07-18,,,,,,,Industrials,stock,S&P 500
 DIS|2026-07-18,waiting,DIS,General,,2026-07-18,,,,,,,Communication Services,stock,S&P 500
 EA|2026-07-18,waiting,EA,General,,2026-07-18,,,,,,,Communication Services,stock,S&P 500
@@ -20,6 +22,7 @@ MSFT|2026-07-18,waiting,MSFT,General,,2026-07-18,,,,,,,Information Technology,st
 NFLX|2026-07-18,waiting,NFLX,ESG,E,2026-07-18,,,,,,False,Communication Services,stock,S&P 500
 PSX|2026-07-18,waiting,PSX,General,,2026-07-18,,,,,,,Energy,stock,S&P 500
 TSLA|2026-07-18,waiting,TSLA,ESG,E,2026-07-18,,,,,,False,Consumer Discretionary,stock,S&P 500
+UBER|2026-07-18,waiting,UBER,General,,2026-07-18,,,,,,,Industrials,stock,S&P 500
 VLO|2026-07-18,waiting,VLO,General,,2026-07-18,,,,,,,Energy,stock,S&P 500
 WBD|2026-07-18,waiting,WBD,General,,2026-07-18,,,,,,,Communication Services,stock,S&P 500
 WFC|2026-07-18,waiting,WFC,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
