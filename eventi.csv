@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+TSLA|2026-07-19,waiting,TSLA,General,,2026-07-19,,,,,,,Consumer Discretionary,stock,S&P 500
 AAPL|2026-07-18,waiting,AAPL,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-18,waiting,AMD,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-07-18,waiting,AMZN,General,,2026-07-18,,,,,,,Consumer Discretionary,stock,S&P 500
@@ -19,6 +20,7 @@ INTC|2026-07-18,waiting,INTC,General,,2026-07-18,,,,,,,Information Technology,st
 JPM|2026-07-18,waiting,JPM,General,,2026-07-18,,,,,,,Financials,stock,S&P 500
 META|2026-07-18,waiting,META,General,,2026-07-18,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-07-18,waiting,MSFT,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
+MU|2026-07-18,waiting,MU,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-07-18,waiting,NFLX,ESG,E,2026-07-18,,,,,,False,Communication Services,stock,S&P 500
 PSX|2026-07-18,waiting,PSX,General,,2026-07-18,,,,,,,Energy,stock,S&P 500
 TSLA|2026-07-18,waiting,TSLA,ESG,E,2026-07-18,,,,,,False,Consumer Discretionary,stock,S&P 500
