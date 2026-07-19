@@ -1,6 +1,8 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-07-19,waiting,AAPL,General,,2026-07-19,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-19,waiting,AMD,General,,2026-07-19,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-07-19,waiting,AMZN,General,,2026-07-19,,,,,,,Consumer Discretionary,stock,S&P 500
+BA|2026-07-19,waiting,BA,General,,2026-07-19,,,,,,,Industrials,stock,S&P 500
 CMCSA|2026-07-19,waiting,CMCSA,General,,2026-07-19,,,,,,,Communication Services,stock,S&P 500
 C|2026-07-19,waiting,C,General,,2026-07-19,,,,,,,Financials,stock,S&P 500
 GE|2026-07-19,waiting,GE,ESG,E,2026-07-19,,,,,,True,Industrials,stock,S&P 500
@@ -9,7 +11,9 @@ INTC|2026-07-19,waiting,INTC,General,,2026-07-19,,,,,,,Information Technology,st
 MSFT|2026-07-19,waiting,MSFT,General,,2026-07-19,,,,,,,Information Technology,stock,S&P 500
 MS|2026-07-19,waiting,MS,General,,2026-07-19,,,,,,,Financials,stock,S&P 500
 NFLX|2026-07-19,waiting,NFLX,ESG,G,2026-07-19,,,,,,True,Communication Services,stock,S&P 500
+NVDA|2026-07-19,waiting,NVDA,General,,2026-07-19,,,,,,,Information Technology,stock,S&P 500
 TSLA|2026-07-19,waiting,TSLA,General,,2026-07-19,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-07-19,waiting,UBER,General,,2026-07-19,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-07-18,waiting,AAPL,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-18,waiting,AMD,General,,2026-07-18,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-07-18,waiting,AMZN,General,,2026-07-18,,,,,,,Consumer Discretionary,stock,S&P 500
