@@ -2,8 +2,11 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-07-22,waiting,AAPL,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-22,waiting,AMD,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 AVGO|2026-07-22,waiting,AVGO,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
+BAC|2026-07-22,waiting,BAC,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
 BA|2026-07-22,waiting,BA,General,,2026-07-22,,,,,,,Industrials,stock,S&P 500
 CAT|2026-07-22,waiting,CAT,General,,2026-07-22,,,,,,,Industrials,stock,S&P 500
+CMCSA|2026-07-22,waiting,CMCSA,General,,2026-07-22,,,,,,,Communication Services,stock,S&P 500
+CSCO|2026-07-22,waiting,CSCO,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 GEV|2026-07-22,waiting,GEV,ESG,E,2026-07-22,,,,,,True,Industrials,stock,S&P 500
 GE|2026-07-22,waiting,GE,General,,2026-07-22,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-07-22,waiting,GOOGL,General,,2026-07-22,,,,,,,Communication Services,stock,S&P 500
@@ -14,11 +17,15 @@ MA|2026-07-22,waiting,MA,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
 MPC|2026-07-22,waiting,MPC,General,,2026-07-22,,,,,,,Energy,stock,S&P 500
 MSFT|2026-07-22,waiting,MSFT,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 MS|2026-07-22,waiting,MS,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
+MU|2026-07-22,waiting,MU,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-07-22,waiting,NFLX,General,,2026-07-22,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-07-22,waiting,NVDA,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
+PSX|2026-07-22,waiting,PSX,General,,2026-07-22,,,,,,,Energy,stock,S&P 500
 RTX|2026-07-22,waiting,RTX,General,,2026-07-22,,,,,,,Industrials,stock,S&P 500
 TSLA|2026-07-22,waiting,TSLA,General,,2026-07-22,,,,,,,Consumer Discretionary,stock,S&P 500
 TTWO|2026-07-22,waiting,TTWO,General,,2026-07-22,,,,,,,Communication Services,stock,S&P 500
+V|2026-07-22,waiting,V,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
+WFC|2026-07-22,waiting,WFC,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
 XOM|2026-07-22,waiting,XOM,General,,2026-07-22,,,,,,,Energy,stock,S&P 500
 AAPL|2026-07-21,consolidating,AAPL,ESG,E,2026-07-21,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-07-21,consolidating,AMAT,General,,2026-07-21,,,,,,,Information Technology,stock,S&P 500
