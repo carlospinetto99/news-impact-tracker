@@ -1,4 +1,22 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-07-23,waiting,AAPL,General,,2026-07-23,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-07-23,waiting,AMD,ESG,S,2026-07-23,,,,,,True,Information Technology,stock,S&P 500
+AMZN|2026-07-23,waiting,AMZN,General,,2026-07-23,,,,,,,Consumer Discretionary,stock,S&P 500
+BA|2026-07-23,waiting,BA,General,,2026-07-23,,,,,,,Industrials,stock,S&P 500
+CMCSA|2026-07-23,waiting,CMCSA,General,,2026-07-23,,,,,,,Communication Services,stock,S&P 500
+GEV|2026-07-23,waiting,GEV,ESG,E,2026-07-23,,,,,,True,Industrials,stock,S&P 500
+GE|2026-07-23,waiting,GE,ESG,E,2026-07-23,,,,,,True,Industrials,stock,S&P 500
+GS|2026-07-23,waiting,GS,General,,2026-07-23,,,,,,,Financials,stock,S&P 500
+INTC|2026-07-23,waiting,INTC,General,,2026-07-23,,,,,,,Information Technology,stock,S&P 500
+KMI|2026-07-23,waiting,KMI,ESG,E,2026-07-23,,,,,,True,Energy,stock,S&P 500
+LRCX|2026-07-23,waiting,LRCX,General,,2026-07-23,,,,,,,Information Technology,stock,S&P 500
+MA|2026-07-23,waiting,MA,General,,2026-07-23,,,,,,,Financials,stock,S&P 500
+META|2026-07-23,waiting,META,General,,2026-07-23,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-07-23,waiting,MSFT,General,,2026-07-23,,,,,,,Information Technology,stock,S&P 500
+MS|2026-07-23,waiting,MS,General,,2026-07-23,,,,,,,Financials,stock,S&P 500
+TSLA|2026-07-23,waiting,TSLA,General,,2026-07-23,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-07-23,waiting,UBER,General,,2026-07-23,,,,,,,Industrials,stock,S&P 500
+VRT|2026-07-23,waiting,VRT,General,,2026-07-23,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-07-22,consolidating,AAPL,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-22,consolidating,AMD,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-07-22,consolidating,AMZN,General,,2026-07-22,,,,,,,Consumer Discretionary,stock,S&P 500
@@ -10,6 +28,7 @@ BRK-B|2026-07-22,consolidating,BRK-B,General,,2026-07-22,,,,,,,Financials,stock,
 CAT|2026-07-22,consolidating,CAT,General,,2026-07-22,,,,,,,Industrials,stock,S&P 500
 CMCSA|2026-07-22,consolidating,CMCSA,General,,2026-07-22,,,,,,,Communication Services,stock,S&P 500
 CSCO|2026-07-22,consolidating,CSCO,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-07-22,consolidating,CVX,General,,2026-07-22,,,,,,,Energy,stock,S&P 500
 C|2026-07-22,consolidating,C,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
 DIS|2026-07-22,consolidating,DIS,General,,2026-07-22,,,,,,,Communication Services,stock,S&P 500
 GEV|2026-07-22,consolidating,GEV,ESG,E,2026-07-22,,,,,,True,Industrials,stock,S&P 500
@@ -20,6 +39,7 @@ INTC|2026-07-22,consolidating,INTC,General,,2026-07-22,,,,,,,Information Technol
 JPM|2026-07-22,consolidating,JPM,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
 LRCX|2026-07-22,consolidating,LRCX,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 MA|2026-07-22,consolidating,MA,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
+META|2026-07-22,consolidating,META,General,,2026-07-22,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-07-22,consolidating,MPC,General,,2026-07-22,,,,,,,Energy,stock,S&P 500
 MSFT|2026-07-22,consolidating,MSFT,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 MS|2026-07-22,consolidating,MS,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
@@ -33,6 +53,7 @@ TTWO|2026-07-22,consolidating,TTWO,General,,2026-07-22,,,,,,,Communication Servi
 UBER|2026-07-22,consolidating,UBER,General,,2026-07-22,,,,,,,Industrials,stock,S&P 500
 VRT|2026-07-22,consolidating,VRT,General,,2026-07-22,,,,,,,Industrials,stock,S&P 500
 V|2026-07-22,consolidating,V,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
+WBD|2026-07-22,consolidating,WBD,General,,2026-07-22,,,,,,,Communication Services,stock,S&P 500
 WFC|2026-07-22,consolidating,WFC,General,,2026-07-22,,,,,,,Financials,stock,S&P 500
 XOM|2026-07-22,consolidating,XOM,ESG,E,2026-07-22,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-07-21,consolidating,AAPL,ESG,E,2026-07-21,,,,,,False,Information Technology,stock,S&P 500
