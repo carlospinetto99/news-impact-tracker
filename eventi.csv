@@ -2,10 +2,13 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-07-23,waiting,AAPL,General,,2026-07-23,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-23,waiting,AMD,ESG,S,2026-07-23,,,,,,True,Information Technology,stock,S&P 500
 AMZN|2026-07-23,waiting,AMZN,General,,2026-07-23,,,,,,,Consumer Discretionary,stock,S&P 500
+AXP|2026-07-23,waiting,AXP,General,,2026-07-23,,,,,,,Financials,stock,S&P 500
 BA|2026-07-23,waiting,BA,General,,2026-07-23,,,,,,,Industrials,stock,S&P 500
+BRK-B|2026-07-23,waiting,BRK-B,ESG,G,2026-07-23,,,,,,True,Financials,stock,S&P 500
 CMCSA|2026-07-23,waiting,CMCSA,General,,2026-07-23,,,,,,,Communication Services,stock,S&P 500
 GEV|2026-07-23,waiting,GEV,ESG,E,2026-07-23,,,,,,True,Industrials,stock,S&P 500
 GE|2026-07-23,waiting,GE,ESG,E,2026-07-23,,,,,,True,Industrials,stock,S&P 500
+GOOGL|2026-07-23,waiting,GOOGL,General,,2026-07-23,,,,,,,Communication Services,stock,S&P 500
 GS|2026-07-23,waiting,GS,General,,2026-07-23,,,,,,,Financials,stock,S&P 500
 INTC|2026-07-23,waiting,INTC,General,,2026-07-23,,,,,,,Information Technology,stock,S&P 500
 KMI|2026-07-23,waiting,KMI,ESG,E,2026-07-23,,,,,,True,Energy,stock,S&P 500
@@ -14,8 +17,11 @@ MA|2026-07-23,waiting,MA,General,,2026-07-23,,,,,,,Financials,stock,S&P 500
 META|2026-07-23,waiting,META,General,,2026-07-23,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-07-23,waiting,MSFT,General,,2026-07-23,,,,,,,Information Technology,stock,S&P 500
 MS|2026-07-23,waiting,MS,General,,2026-07-23,,,,,,,Financials,stock,S&P 500
+MU|2026-07-23,waiting,MU,General,,2026-07-23,,,,,,,Information Technology,stock,S&P 500
+SLB|2026-07-23,waiting,SLB,General,,2026-07-23,,,,,,,Energy,stock,S&P 500
 TSLA|2026-07-23,waiting,TSLA,General,,2026-07-23,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-07-23,waiting,UBER,General,,2026-07-23,,,,,,,Industrials,stock,S&P 500
+UNP|2026-07-23,waiting,UNP,ESG,S,2026-07-23,,,,,,True,Industrials,stock,S&P 500
 VRT|2026-07-23,waiting,VRT,General,,2026-07-23,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-07-22,consolidating,AAPL,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-22,consolidating,AMD,General,,2026-07-22,,,,,,,Information Technology,stock,S&P 500
