@@ -2,12 +2,15 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-07-25,waiting,AAPL,General,,2026-07-25,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-25,waiting,AMD,General,,2026-07-25,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-07-25,waiting,AMZN,General,,2026-07-25,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-07-25,waiting,AVGO,General,,2026-07-25,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-07-25,waiting,AXP,General,,2026-07-25,,,,,,,Financials,stock,S&P 500
 BAC|2026-07-25,waiting,BAC,General,,2026-07-25,,,,,,,Financials,stock,S&P 500
 BA|2026-07-25,waiting,BA,General,,2026-07-25,,,,,,,Industrials,stock,S&P 500
 CVX|2026-07-25,waiting,CVX,General,,2026-07-25,,,,,,,Energy,stock,S&P 500
 DE|2026-07-25,waiting,DE,General,,2026-07-25,,,,,,,Industrials,stock,S&P 500
+DIS|2026-07-25,waiting,DIS,General,,2026-07-25,,,,,,,Communication Services,stock,S&P 500
 GEV|2026-07-25,waiting,GEV,ESG,E,2026-07-25,,,,,,True,Industrials,stock,S&P 500
+GE|2026-07-25,waiting,GE,General,,2026-07-25,,,,,,,Industrials,stock,S&P 500
 INTC|2026-07-25,waiting,INTC,ESG,E,2026-07-25,,,,,,False,Information Technology,stock,S&P 500
 KMI|2026-07-25,waiting,KMI,General,,2026-07-25,,,,,,,Energy,stock,S&P 500
 MA|2026-07-25,waiting,MA,General,,2026-07-25,,,,,,,Financials,stock,S&P 500
@@ -16,10 +19,12 @@ MSFT|2026-07-25,waiting,MSFT,General,,2026-07-25,,,,,,,Information Technology,st
 MU|2026-07-25,waiting,MU,General,,2026-07-25,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-07-25,waiting,NFLX,General,,2026-07-25,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-07-25,waiting,NVDA,General,,2026-07-25,,,,,,,Information Technology,stock,S&P 500
+RTX|2026-07-25,waiting,RTX,General,,2026-07-25,,,,,,,Industrials,stock,S&P 500
 SLB|2026-07-25,waiting,SLB,General,,2026-07-25,,,,,,,Energy,stock,S&P 500
-TSLA|2026-07-25,waiting,TSLA,General,,2026-07-25,,,,,,,Consumer Discretionary,stock,S&P 500
+TSLA|2026-07-25,waiting,TSLA,ESG,E,2026-07-25,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-07-25,waiting,UBER,ESG,E,2026-07-25,,,,,,True,Industrials,stock,S&P 500
 V|2026-07-25,waiting,V,ESG,E,2026-07-25,,,,,,False,Financials,stock,S&P 500
+WFC|2026-07-25,waiting,WFC,General,,2026-07-25,,,,,,,Financials,stock,S&P 500
 AAPL|2026-07-24,consolidating,AAPL,General,,2026-07-24,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-07-24,consolidating,AMAT,General,,2026-07-24,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-24,consolidating,AMD,ESG,E,2026-07-24,,,,,,False,Information Technology,stock,S&P 500
