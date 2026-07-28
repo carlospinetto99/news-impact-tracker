@@ -1,10 +1,31 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-07-28,waiting,AAPL,General,,2026-07-28,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-07-28,waiting,AMAT,General,,2026-07-28,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-07-28,waiting,AMD,ESG,S,2026-07-28,,,,,,True,Information Technology,stock,S&P 500
 AMZN|2026-07-28,waiting,AMZN,General,,2026-07-28,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-07-28,waiting,AVGO,General,,2026-07-28,,,,,,,Information Technology,stock,S&P 500
+BAC|2026-07-28,waiting,BAC,General,,2026-07-28,,,,,,,Financials,stock,S&P 500
 BA|2026-07-28,waiting,BA,General,,2026-07-28,,,,,,,Industrials,stock,S&P 500
+CAT|2026-07-28,waiting,CAT,ESG,S,2026-07-28,,,,,,True,Industrials,stock,S&P 500
+CVX|2026-07-28,waiting,CVX,ESG,E,2026-07-28,,,,,,True,Energy,stock,S&P 500
+GE|2026-07-28,waiting,GE,General,,2026-07-28,,,,,,,Industrials,stock,S&P 500
+INTC|2026-07-28,waiting,INTC,ESG,E,2026-07-28,,,,,,False,Information Technology,stock,S&P 500
+MA|2026-07-28,waiting,MA,General,,2026-07-28,,,,,,,Financials,stock,S&P 500
+META|2026-07-28,waiting,META,General,,2026-07-28,,,,,,,Communication Services,stock,S&P 500
+MPC|2026-07-28,waiting,MPC,General,,2026-07-28,,,,,,,Energy,stock,S&P 500
 MSFT|2026-07-28,waiting,MSFT,General,,2026-07-28,,,,,,,Information Technology,stock,S&P 500
+MS|2026-07-28,waiting,MS,General,,2026-07-28,,,,,,,Financials,stock,S&P 500
+MU|2026-07-28,waiting,MU,General,,2026-07-28,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-07-28,waiting,NFLX,General,,2026-07-28,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-07-28,waiting,NVDA,General,,2026-07-28,,,,,,,Information Technology,stock,S&P 500
-TSLA|2026-07-28,waiting,TSLA,General,,2026-07-28,,,,,,,Consumer Discretionary,stock,S&P 500
+RTX|2026-07-28,waiting,RTX,General,,2026-07-28,,,,,,,Industrials,stock,S&P 500
+SLB|2026-07-28,waiting,SLB,ESG,E,2026-07-28,,,,,,True,Energy,stock,S&P 500
+TSLA|2026-07-28,waiting,TSLA,ESG,E,2026-07-28,,,,,,False,Consumer Discretionary,stock,S&P 500
+UBER|2026-07-28,waiting,UBER,General,,2026-07-28,,,,,,,Industrials,stock,S&P 500
+UNP|2026-07-28,waiting,UNP,ESG,S,2026-07-28,,,,,,True,Industrials,stock,S&P 500
+WBD|2026-07-28,waiting,WBD,General,,2026-07-28,,,,,,,Communication Services,stock,S&P 500
+WMB|2026-07-28,waiting,WMB,ESG,E,2026-07-28,,,,,,True,Energy,stock,S&P 500
+XOM|2026-07-28,waiting,XOM,General,,2026-07-28,,,,,,,Energy,stock,S&P 500
 AAPL|2026-07-27,consolidating,AAPL,General,,2026-07-27,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-07-27,consolidating,AMAT,General,,2026-07-27,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-27,consolidating,AMD,ESG,E,2026-07-27,,,,,,False,Information Technology,stock,S&P 500
