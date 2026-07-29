@@ -1,4 +1,18 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-07-30,waiting,AAPL,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-07-30,waiting,AMZN,General,,2026-07-30,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-07-30,waiting,AVGO,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
+CAT|2026-07-30,waiting,CAT,General,,2026-07-30,,,,,,,Industrials,stock,S&P 500
+CSCO|2026-07-30,waiting,CSCO,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
+DE|2026-07-30,waiting,DE,General,,2026-07-30,,,,,,,Industrials,stock,S&P 500
+GE|2026-07-30,waiting,GE,General,,2026-07-30,,,,,,,Industrials,stock,S&P 500
+GS|2026-07-30,waiting,GS,General,,2026-07-30,,,,,,,Financials,stock,S&P 500
+LRCX|2026-07-30,waiting,LRCX,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
+META|2026-07-30,waiting,META,ESG,E,2026-07-30,,,,,,False,Communication Services,stock,S&P 500
+MSFT|2026-07-30,waiting,MSFT,ESG,E,2026-07-30,,,,,,False,Information Technology,stock,S&P 500
+TMUS|2026-07-30,waiting,TMUS,General,,2026-07-30,,,,,,,Communication Services,stock,S&P 500
+TSLA|2026-07-30,waiting,TSLA,General,,2026-07-30,,,,,,,Consumer Discretionary,stock,S&P 500
+VRT|2026-07-30,waiting,VRT,General,,2026-07-30,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-07-29,consolidating,AAPL,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-07-29,consolidating,AMAT,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-29,consolidating,AMD,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
@@ -12,13 +26,16 @@ CAT|2026-07-29,consolidating,CAT,General,,2026-07-29,,,,,,,Industrials,stock,S&P
 CMCSA|2026-07-29,consolidating,CMCSA,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
 CSCO|2026-07-29,consolidating,CSCO,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-07-29,consolidating,CVX,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
+C|2026-07-29,consolidating,C,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
 DIS|2026-07-29,consolidating,DIS,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
 EOG|2026-07-29,consolidating,EOG,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
+ETN|2026-07-29,consolidating,ETN,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
 GEV|2026-07-29,consolidating,GEV,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-GE|2026-07-29,consolidating,GE,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
+GE|2026-07-29,consolidating,GE,ESG,E,2026-07-29,,,,,,True,Industrials,stock,S&P 500
 GOOGL|2026-07-29,consolidating,GOOGL,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
 GS|2026-07-29,consolidating,GS,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
 INTC|2026-07-29,consolidating,INTC,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
+KMI|2026-07-29,consolidating,KMI,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
 LRCX|2026-07-29,consolidating,LRCX,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
 MA|2026-07-29,consolidating,MA,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
 META|2026-07-29,consolidating,META,ESG,E,2026-07-29,,,,,,False,Communication Services,stock,S&P 500
@@ -37,6 +54,8 @@ TMUS|2026-07-29,consolidating,TMUS,General,,2026-07-29,,,,,,,Communication Servi
 TSLA|2026-07-29,consolidating,TSLA,ESG,E,2026-07-29,,,,,,False,Consumer Discretionary,stock,S&P 500
 TTWO|2026-07-29,consolidating,TTWO,ESG,G,2026-07-29,,,,,,True,Communication Services,stock,S&P 500
 UBER|2026-07-29,consolidating,UBER,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
+UNP|2026-07-29,consolidating,UNP,ESG,S,2026-07-29,,,,,,True,Industrials,stock,S&P 500
+VLO|2026-07-29,consolidating,VLO,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
 VRT|2026-07-29,consolidating,VRT,ESG,E,2026-07-29,,,,,,True,Industrials,stock,S&P 500
 V|2026-07-29,consolidating,V,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
 WBD|2026-07-29,consolidating,WBD,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
