@@ -1,13 +1,25 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-07-29,waiting,AAPL,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
 AXP|2026-07-29,waiting,AXP,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
+BAC|2026-07-29,waiting,BAC,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
 BA|2026-07-29,waiting,BA,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
+CSCO|2026-07-29,waiting,CSCO,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
 GOOGL|2026-07-29,waiting,GOOGL,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
-MSFT|2026-07-29,waiting,MSFT,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
+GS|2026-07-29,waiting,GS,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
+LRCX|2026-07-29,waiting,LRCX,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
+MA|2026-07-29,waiting,MA,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
+META|2026-07-29,waiting,META,ESG,E,2026-07-29,,,,,,False,Communication Services,stock,S&P 500
+MPC|2026-07-29,waiting,MPC,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
+MSFT|2026-07-29,waiting,MSFT,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
+MS|2026-07-29,waiting,MS,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
+MU|2026-07-29,waiting,MU,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
+NTRS|2026-07-29,waiting,NTRS,ESG,,2026-07-29,,,,,,,Financials,stock,S&P 500
 NVDA|2026-07-29,waiting,NVDA,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
+PSX|2026-07-29,waiting,PSX,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
 RTX|2026-07-29,waiting,RTX,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-TSLA|2026-07-29,waiting,TSLA,General,,2026-07-29,,,,,,,Consumer Discretionary,stock,S&P 500
-TTWO|2026-07-29,waiting,TTWO,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
+TMUS|2026-07-29,waiting,TMUS,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
+TSLA|2026-07-29,waiting,TSLA,ESG,E,2026-07-29,,,,,,False,Consumer Discretionary,stock,S&P 500
+TTWO|2026-07-29,waiting,TTWO,ESG,G,2026-07-29,,,,,,True,Communication Services,stock,S&P 500
 V|2026-07-29,waiting,V,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
 AAPL|2026-07-28,consolidating,AAPL,General,,2026-07-28,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-07-28,consolidating,AMAT,General,,2026-07-28,,,,,,,Information Technology,stock,S&P 500
