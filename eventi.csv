@@ -1,18 +1,25 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-07-30,waiting,AAPL,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-07-30,waiting,AMD,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-07-30,waiting,AMZN,General,,2026-07-30,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-07-30,waiting,AVGO,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
+BAC|2026-07-30,waiting,BAC,General,,2026-07-30,,,,,,,Financials,stock,S&P 500
 CAT|2026-07-30,waiting,CAT,General,,2026-07-30,,,,,,,Industrials,stock,S&P 500
 CSCO|2026-07-30,waiting,CSCO,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-07-30,waiting,CVX,General,,2026-07-30,,,,,,,Energy,stock,S&P 500
 DE|2026-07-30,waiting,DE,General,,2026-07-30,,,,,,,Industrials,stock,S&P 500
 GE|2026-07-30,waiting,GE,General,,2026-07-30,,,,,,,Industrials,stock,S&P 500
-GS|2026-07-30,waiting,GS,General,,2026-07-30,,,,,,,Financials,stock,S&P 500
+GOOGL|2026-07-30,waiting,GOOGL,General,,2026-07-30,,,,,,,Communication Services,stock,S&P 500
+GS|2026-07-30,waiting,GS,ESG,E,2026-07-30,,,,,,False,Financials,stock,S&P 500
+JPM|2026-07-30,waiting,JPM,General,,2026-07-30,,,,,,,Financials,stock,S&P 500
 LRCX|2026-07-30,waiting,LRCX,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
 META|2026-07-30,waiting,META,ESG,E,2026-07-30,,,,,,False,Communication Services,stock,S&P 500
 MSFT|2026-07-30,waiting,MSFT,ESG,E,2026-07-30,,,,,,False,Information Technology,stock,S&P 500
+MU|2026-07-30,waiting,MU,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
 TMUS|2026-07-30,waiting,TMUS,General,,2026-07-30,,,,,,,Communication Services,stock,S&P 500
 TSLA|2026-07-30,waiting,TSLA,General,,2026-07-30,,,,,,,Consumer Discretionary,stock,S&P 500
 VRT|2026-07-30,waiting,VRT,General,,2026-07-30,,,,,,,Industrials,stock,S&P 500
+V|2026-07-30,waiting,V,General,,2026-07-30,,,,,,,Financials,stock,S&P 500
 AAPL|2026-07-29,consolidating,AAPL,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-07-29,consolidating,AMAT,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-29,consolidating,AMD,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
