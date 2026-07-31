@@ -14,15 +14,19 @@ ETN|2026-07-31,waiting,ETN,General,,2026-07-31,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-07-31,waiting,GOOGL,General,,2026-07-31,,,,,,,Communication Services,stock,S&P 500
 INTC|2026-07-31,waiting,INTC,General,,2026-07-31,,,,,,,Information Technology,stock,S&P 500
 LRCX|2026-07-31,waiting,LRCX,General,,2026-07-31,,,,,,,Information Technology,stock,S&P 500
+META|2026-07-31,waiting,META,General,,2026-07-31,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-07-31,waiting,MSFT,General,,2026-07-31,,,,,,,Information Technology,stock,S&P 500
 MS|2026-07-31,waiting,MS,General,,2026-07-31,,,,,,,Financials,stock,S&P 500
 MU|2026-07-31,waiting,MU,General,,2026-07-31,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-07-31,waiting,NFLX,General,,2026-07-31,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-07-31,waiting,NVDA,General,,2026-07-31,,,,,,,Information Technology,stock,S&P 500
 PSX|2026-07-31,waiting,PSX,General,,2026-07-31,,,,,,,Energy,stock,S&P 500
 RTX|2026-07-31,waiting,RTX,General,,2026-07-31,,,,,,,Industrials,stock,S&P 500
+SLB|2026-07-31,waiting,SLB,General,,2026-07-31,,,,,,,Energy,stock,S&P 500
 TSLA|2026-07-31,waiting,TSLA,General,,2026-07-31,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-07-31,waiting,UBER,General,,2026-07-31,,,,,,,Industrials,stock,S&P 500
 VLO|2026-07-31,waiting,VLO,ESG,E,2026-07-31,,,,,,True,Energy,stock,S&P 500
+V|2026-07-31,waiting,V,General,,2026-07-31,,,,,,,Financials,stock,S&P 500
 WFC|2026-07-31,waiting,WFC,General,,2026-07-31,,,,,,,Financials,stock,S&P 500
 AAPL|2026-07-30,consolidating,AAPL,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-07-30,consolidating,AMAT,General,,2026-07-30,,,,,,,Information Technology,stock,S&P 500
@@ -87,7 +91,7 @@ DIS|2026-07-29,consolidating,DIS,General,,2026-07-29,,,,,,,Communication Service
 EOG|2026-07-29,consolidating,EOG,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
 ETN|2026-07-29,consolidating,ETN,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
 GEV|2026-07-29,consolidating,GEV,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-GE|2026-07-29,consolidating,GE,ESG,E,2026-07-29,,,,,,True,Industrials,stock,S&P 500
+GE|2026-07-29,consolidating,GE,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-07-29,consolidating,GOOGL,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
 GS|2026-07-29,consolidating,GS,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
 INTC|2026-07-29,consolidating,INTC,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
