@@ -1,73 +1,95 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
-AAPL|2026-08-03,waiting,AAPL,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-08-03,waiting,AMD,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
-AVGO|2026-08-03,waiting,AVGO,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
-AXP|2026-08-03,waiting,AXP,General,,2026-08-03,,,,,,,Financials,stock,S&P 500
-CAT|2026-08-03,waiting,CAT,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
-CVX|2026-08-03,waiting,CVX,ESG,E,2026-08-03,,,,,,True,Energy,stock,S&P 500
-C|2026-08-03,waiting,C,General,,2026-08-03,,,,,,,Financials,stock,S&P 500
-DIS|2026-08-03,waiting,DIS,General,,2026-08-03,,,,,,,Communication Services,stock,S&P 500
-ETN|2026-08-03,waiting,ETN,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
-GEV|2026-08-03,waiting,GEV,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
-GOOGL|2026-08-03,waiting,GOOGL,General,,2026-08-03,,,,,,,Communication Services,stock,S&P 500
-KMI|2026-08-03,waiting,KMI,General,,2026-08-03,,,,,,,Energy,stock,S&P 500
-MA|2026-08-03,waiting,MA,General,,2026-08-03,,,,,,,Financials,stock,S&P 500
-META|2026-08-03,waiting,META,ESG,E,2026-08-03,,,,,,False,Communication Services,stock,S&P 500
-MSFT|2026-08-03,waiting,MSFT,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
-MS|2026-08-03,waiting,MS,General,,2026-08-03,,,,,,,Financials,stock,S&P 500
-MU|2026-08-03,waiting,MU,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
-NFLX|2026-08-03,waiting,NFLX,General,,2026-08-03,,,,,,,Communication Services,stock,S&P 500
-TSLA|2026-08-03,waiting,TSLA,ESG,EG,2026-08-03,,,,,,True,Consumer Discretionary,stock,S&P 500
-UBER|2026-08-03,waiting,UBER,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
-VRT|2026-08-03,waiting,VRT,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
-XOM|2026-08-03,waiting,XOM,General,,2026-08-03,,,,,,,Energy,stock,S&P 500
-AAPL|2026-08-02,waiting,AAPL,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-08-02,waiting,AMD,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
-AMZN|2026-08-02,waiting,AMZN,General,,2026-08-02,,,,,,,Consumer Discretionary,stock,S&P 500
-BAC|2026-08-02,waiting,BAC,General,,2026-08-02,,,,,,,Financials,stock,S&P 500
-BRK-B|2026-08-02,waiting,BRK-B,General,,2026-08-02,,,,,,,Financials,stock,S&P 500
-CSCO|2026-08-02,waiting,CSCO,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
-CVX|2026-08-02,waiting,CVX,General,,2026-08-02,,,,,,,Energy,stock,S&P 500
-GS|2026-08-02,waiting,GS,General,,2026-08-02,,,,,,,Financials,stock,S&P 500
-INTC|2026-08-02,waiting,INTC,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
-META|2026-08-02,waiting,META,General,,2026-08-02,,,,,,,Communication Services,stock,S&P 500
-MSFT|2026-08-02,waiting,MSFT,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
-MS|2026-08-02,waiting,MS,General,,2026-08-02,,,,,,,Financials,stock,S&P 500
-NFLX|2026-08-02,waiting,NFLX,General,,2026-08-02,,,,,,,Communication Services,stock,S&P 500
-NVDA|2026-08-02,waiting,NVDA,ESG,E,2026-08-02,,,,,,False,Information Technology,stock,S&P 500
-PSX|2026-08-02,waiting,PSX,General,,2026-08-02,,,,,,,Energy,stock,S&P 500
-TSLA|2026-08-02,waiting,TSLA,ESG,E,2026-08-02,,,,,,False,Consumer Discretionary,stock,S&P 500
-UBER|2026-08-02,waiting,UBER,General,,2026-08-02,,,,,,,Industrials,stock,S&P 500
-VLO|2026-08-02,waiting,VLO,General,,2026-08-02,,,,,,,Energy,stock,S&P 500
-AAPL|2026-08-01,waiting,AAPL,ESG,S,2026-08-01,,,,,,True,Information Technology,stock,S&P 500
-AMD|2026-08-01,waiting,AMD,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
-AMZN|2026-08-01,waiting,AMZN,ESG,EG,2026-08-01,,,,,,True,Consumer Discretionary,stock,S&P 500
-AVGO|2026-08-01,waiting,AVGO,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
-AXP|2026-08-01,waiting,AXP,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
-BAC|2026-08-01,waiting,BAC,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
-CMCSA|2026-08-01,waiting,CMCSA,General,,2026-08-01,,,,,,,Communication Services,stock,S&P 500
-COP|2026-08-01,waiting,COP,General,,2026-08-01,,,,,,,Energy,stock,S&P 500
-CVX|2026-08-01,waiting,CVX,ESG,E,2026-08-01,,,,,,True,Energy,stock,S&P 500
-ETN|2026-08-01,waiting,ETN,General,,2026-08-01,,,,,,,Industrials,stock,S&P 500
-GE|2026-08-01,waiting,GE,General,,2026-08-01,,,,,,,Industrials,stock,S&P 500
-GOOGL|2026-08-01,waiting,GOOGL,General,,2026-08-01,,,,,,,Communication Services,stock,S&P 500
-INTC|2026-08-01,waiting,INTC,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
-JPM|2026-08-01,waiting,JPM,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
-KMI|2026-08-01,waiting,KMI,General,,2026-08-01,,,,,,,Energy,stock,S&P 500
-MA|2026-08-01,waiting,MA,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
-META|2026-08-01,waiting,META,ESG,S,2026-08-01,,,,,,True,Communication Services,stock,S&P 500
-MSFT|2026-08-01,waiting,MSFT,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
-MS|2026-08-01,waiting,MS,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
-MU|2026-08-01,waiting,MU,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
-NVDA|2026-08-01,waiting,NVDA,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
-TMUS|2026-08-01,waiting,TMUS,General,,2026-08-01,,,,,,,Communication Services,stock,S&P 500
-TSLA|2026-08-01,waiting,TSLA,General,,2026-08-01,,,,,,,Consumer Discretionary,stock,S&P 500
-TTWO|2026-08-01,waiting,TTWO,General,,2026-08-01,,,,,,,Communication Services,stock,S&P 500
-UBER|2026-08-01,waiting,UBER,General,,2026-08-01,,,,,,,Industrials,stock,S&P 500
-VLO|2026-08-01,waiting,VLO,ESG,E,2026-08-01,,,,,,True,Energy,stock,S&P 500
-VRT|2026-08-01,waiting,VRT,General,,2026-08-01,,,,,,,Industrials,stock,S&P 500
-WFC|2026-08-01,waiting,WFC,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
-XOM|2026-08-01,waiting,XOM,General,,2026-08-01,,,,,,,Energy,stock,S&P 500
+AAPL|2026-08-04,waiting,AAPL,General,,2026-08-04,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-08-04,waiting,AMD,General,,2026-08-04,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-04,waiting,AMZN,General,,2026-08-04,,,,,,,Consumer Discretionary,stock,S&P 500
+META|2026-08-04,waiting,META,General,,2026-08-04,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-08-04,waiting,MSFT,General,,2026-08-04,,,,,,,Information Technology,stock,S&P 500
+TMUS|2026-08-04,waiting,TMUS,ESG,G,2026-08-04,,,,,,True,Communication Services,stock,S&P 500
+TSLA|2026-08-04,waiting,TSLA,General,,2026-08-04,,,,,,,Consumer Discretionary,stock,S&P 500
+AAPL|2026-08-03,consolidating,AAPL,ESG,E,2026-08-03,,,,,,False,Information Technology,stock,S&P 500
+AMAT|2026-08-03,consolidating,AMAT,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-08-03,consolidating,AMD,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-03,consolidating,AMZN,General,,2026-08-03,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-03,consolidating,AVGO,ESG,G,2026-08-03,,,,,,True,Information Technology,stock,S&P 500
+AXP|2026-08-03,consolidating,AXP,General,,2026-08-03,,,,,,,Financials,stock,S&P 500
+BAC|2026-08-03,consolidating,BAC,ESG,G,2026-08-03,,,,,,True,Financials,stock,S&P 500
+BA|2026-08-03,consolidating,BA,ESG,E,2026-08-03,,,,,,True,Industrials,stock,S&P 500
+CAT|2026-08-03,consolidating,CAT,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
+COP|2026-08-03,consolidating,COP,General,,2026-08-03,,,,,,,Energy,stock,S&P 500
+CSCO|2026-08-03,consolidating,CSCO,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-08-03,consolidating,CVX,ESG,E,2026-08-03,,,,,,True,Energy,stock,S&P 500
+C|2026-08-03,consolidating,C,General,,2026-08-03,,,,,,,Financials,stock,S&P 500
+DIS|2026-08-03,consolidating,DIS,General,,2026-08-03,,,,,,,Communication Services,stock,S&P 500
+EOG|2026-08-03,consolidating,EOG,General,,2026-08-03,,,,,,,Energy,stock,S&P 500
+ETN|2026-08-03,consolidating,ETN,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
+GEV|2026-08-03,consolidating,GEV,ESG,E,2026-08-03,,,,,,True,Industrials,stock,S&P 500
+GE|2026-08-03,consolidating,GE,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
+GOOGL|2026-08-03,consolidating,GOOGL,General,,2026-08-03,,,,,,,Communication Services,stock,S&P 500
+GS|2026-08-03,consolidating,GS,General,,2026-08-03,,,,,,,Financials,stock,S&P 500
+INTC|2026-08-03,consolidating,INTC,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
+JPM|2026-08-03,consolidating,JPM,General,,2026-08-03,,,,,,,Financials,stock,S&P 500
+KMI|2026-08-03,consolidating,KMI,General,,2026-08-03,,,,,,,Energy,stock,S&P 500
+MA|2026-08-03,consolidating,MA,General,,2026-08-03,,,,,,,Financials,stock,S&P 500
+META|2026-08-03,consolidating,META,ESG,E,2026-08-03,,,,,,False,Communication Services,stock,S&P 500
+MPC|2026-08-03,consolidating,MPC,General,,2026-08-03,,,,,,,Energy,stock,S&P 500
+MSFT|2026-08-03,consolidating,MSFT,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
+MS|2026-08-03,consolidating,MS,ESG,E,2026-08-03,,,,,,False,Financials,stock,S&P 500
+MU|2026-08-03,consolidating,MU,General,,2026-08-03,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-08-03,consolidating,NFLX,ESG,G,2026-08-03,,,,,,True,Communication Services,stock,S&P 500
+PSX|2026-08-03,consolidating,PSX,General,,2026-08-03,,,,,,,Energy,stock,S&P 500
+TSLA|2026-08-03,consolidating,TSLA,ESG,EG,2026-08-03,,,,,,True,Consumer Discretionary,stock,S&P 500
+UBER|2026-08-03,consolidating,UBER,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
+VRT|2026-08-03,consolidating,VRT,General,,2026-08-03,,,,,,,Industrials,stock,S&P 500
+WBD|2026-08-03,consolidating,WBD,General,,2026-08-03,,,,,,,Communication Services,stock,S&P 500
+WMT|2026-08-03,consolidating,WMT,ESG,E,2026-08-03,,,,,,True,Consumer Staples,stock,S&P 500
+XOM|2026-08-03,consolidating,XOM,General,,2026-08-03,,,,,,,Energy,stock,S&P 500
+AAPL|2026-08-02,consolidating,AAPL,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-08-02,consolidating,AMD,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-02,consolidating,AMZN,General,,2026-08-02,,,,,,,Consumer Discretionary,stock,S&P 500
+BAC|2026-08-02,consolidating,BAC,General,,2026-08-02,,,,,,,Financials,stock,S&P 500
+BRK-B|2026-08-02,consolidating,BRK-B,General,,2026-08-02,,,,,,,Financials,stock,S&P 500
+CSCO|2026-08-02,consolidating,CSCO,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-08-02,consolidating,CVX,General,,2026-08-02,,,,,,,Energy,stock,S&P 500
+GS|2026-08-02,consolidating,GS,General,,2026-08-02,,,,,,,Financials,stock,S&P 500
+INTC|2026-08-02,consolidating,INTC,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
+META|2026-08-02,consolidating,META,General,,2026-08-02,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-08-02,consolidating,MSFT,General,,2026-08-02,,,,,,,Information Technology,stock,S&P 500
+MS|2026-08-02,consolidating,MS,General,,2026-08-02,,,,,,,Financials,stock,S&P 500
+NFLX|2026-08-02,consolidating,NFLX,General,,2026-08-02,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-08-02,consolidating,NVDA,ESG,E,2026-08-02,,,,,,False,Information Technology,stock,S&P 500
+PSX|2026-08-02,consolidating,PSX,General,,2026-08-02,,,,,,,Energy,stock,S&P 500
+TSLA|2026-08-02,consolidating,TSLA,ESG,E,2026-08-02,,,,,,False,Consumer Discretionary,stock,S&P 500
+UBER|2026-08-02,consolidating,UBER,General,,2026-08-02,,,,,,,Industrials,stock,S&P 500
+VLO|2026-08-02,consolidating,VLO,General,,2026-08-02,,,,,,,Energy,stock,S&P 500
+AAPL|2026-08-01,consolidating,AAPL,ESG,S,2026-08-01,,,,,,True,Information Technology,stock,S&P 500
+AMD|2026-08-01,consolidating,AMD,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-01,consolidating,AMZN,ESG,EG,2026-08-01,,,,,,True,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-01,consolidating,AVGO,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
+AXP|2026-08-01,consolidating,AXP,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
+BAC|2026-08-01,consolidating,BAC,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
+CMCSA|2026-08-01,consolidating,CMCSA,General,,2026-08-01,,,,,,,Communication Services,stock,S&P 500
+COP|2026-08-01,consolidating,COP,General,,2026-08-01,,,,,,,Energy,stock,S&P 500
+CVX|2026-08-01,consolidating,CVX,ESG,E,2026-08-01,,,,,,True,Energy,stock,S&P 500
+ETN|2026-08-01,consolidating,ETN,General,,2026-08-01,,,,,,,Industrials,stock,S&P 500
+GE|2026-08-01,consolidating,GE,General,,2026-08-01,,,,,,,Industrials,stock,S&P 500
+GOOGL|2026-08-01,consolidating,GOOGL,General,,2026-08-01,,,,,,,Communication Services,stock,S&P 500
+INTC|2026-08-01,consolidating,INTC,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
+JPM|2026-08-01,consolidating,JPM,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
+KMI|2026-08-01,consolidating,KMI,General,,2026-08-01,,,,,,,Energy,stock,S&P 500
+MA|2026-08-01,consolidating,MA,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
+META|2026-08-01,consolidating,META,ESG,S,2026-08-01,,,,,,True,Communication Services,stock,S&P 500
+MSFT|2026-08-01,consolidating,MSFT,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
+MS|2026-08-01,consolidating,MS,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
+MU|2026-08-01,consolidating,MU,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-08-01,consolidating,NVDA,General,,2026-08-01,,,,,,,Information Technology,stock,S&P 500
+TMUS|2026-08-01,consolidating,TMUS,General,,2026-08-01,,,,,,,Communication Services,stock,S&P 500
+TSLA|2026-08-01,consolidating,TSLA,General,,2026-08-01,,,,,,,Consumer Discretionary,stock,S&P 500
+TTWO|2026-08-01,consolidating,TTWO,General,,2026-08-01,,,,,,,Communication Services,stock,S&P 500
+UBER|2026-08-01,consolidating,UBER,General,,2026-08-01,,,,,,,Industrials,stock,S&P 500
+VLO|2026-08-01,consolidating,VLO,ESG,E,2026-08-01,,,,,,True,Energy,stock,S&P 500
+VRT|2026-08-01,consolidating,VRT,General,,2026-08-01,,,,,,,Industrials,stock,S&P 500
+WFC|2026-08-01,consolidating,WFC,General,,2026-08-01,,,,,,,Financials,stock,S&P 500
+XOM|2026-08-01,consolidating,XOM,General,,2026-08-01,,,,,,,Energy,stock,S&P 500
 AAPL|2026-07-31,consolidating,AAPL,General,,2026-07-31,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-07-31,consolidating,AMAT,General,,2026-07-31,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-07-31,consolidating,AMD,ESG,EG,2026-07-31,,,,,,True,Information Technology,stock,S&P 500
@@ -152,54 +174,54 @@ WBD|2026-07-30,consolidating,WBD,General,,2026-07-30,,,,,,,Communication Service
 WFC|2026-07-30,consolidating,WFC,General,,2026-07-30,,,,,,,Financials,stock,S&P 500
 WMB|2026-07-30,consolidating,WMB,General,,2026-07-30,,,,,,,Energy,stock,S&P 500
 XOM|2026-07-30,consolidating,XOM,ESG,E,2026-07-30,,,,,,True,Energy,stock,S&P 500
-AAPL|2026-07-29,consolidating,AAPL,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
-AMAT|2026-07-29,consolidating,AMAT,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-07-29,consolidating,AMD,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
-AMZN|2026-07-29,consolidating,AMZN,General,,2026-07-29,,,,,,,Consumer Discretionary,stock,S&P 500
-AVGO|2026-07-29,consolidating,AVGO,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
-AXP|2026-07-29,consolidating,AXP,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
-BAC|2026-07-29,consolidating,BAC,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
-BA|2026-07-29,consolidating,BA,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-BRK-B|2026-07-29,consolidating,BRK-B,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
-CAT|2026-07-29,consolidating,CAT,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-CMCSA|2026-07-29,consolidating,CMCSA,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
-CSCO|2026-07-29,consolidating,CSCO,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
-CVX|2026-07-29,consolidating,CVX,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
-C|2026-07-29,consolidating,C,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
-DIS|2026-07-29,consolidating,DIS,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
-EOG|2026-07-29,consolidating,EOG,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
-ETN|2026-07-29,consolidating,ETN,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-GEV|2026-07-29,consolidating,GEV,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-GE|2026-07-29,consolidating,GE,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-GOOGL|2026-07-29,consolidating,GOOGL,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
-GS|2026-07-29,consolidating,GS,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
-INTC|2026-07-29,consolidating,INTC,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
-KMI|2026-07-29,consolidating,KMI,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
-LRCX|2026-07-29,consolidating,LRCX,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
-MA|2026-07-29,consolidating,MA,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
-META|2026-07-29,consolidating,META,ESG,E,2026-07-29,,,,,,False,Communication Services,stock,S&P 500
-MPC|2026-07-29,consolidating,MPC,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
-MSFT|2026-07-29,consolidating,MSFT,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
-MS|2026-07-29,consolidating,MS,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
-MU|2026-07-29,consolidating,MU,General,,2026-07-29,,,,,,,Information Technology,stock,S&P 500
-NFLX|2026-07-29,consolidating,NFLX,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
-NTRS|2026-07-29,consolidating,NTRS,ESG,E,2026-07-29,,,,,,False,Financials,stock,S&P 500
-NVDA|2026-07-29,consolidating,NVDA,ESG,E,2026-07-29,,,,,,False,Information Technology,stock,S&P 500
-PSX|2026-07-29,consolidating,PSX,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
-RTX|2026-07-29,consolidating,RTX,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-SLB|2026-07-29,consolidating,SLB,ESG,E,2026-07-29,,,,,,True,Energy,stock,S&P 500
-SPGI|2026-07-29,consolidating,SPGI,ESG,E,2026-07-29,,,,,,False,Financials,stock,S&P 500
-TMUS|2026-07-29,consolidating,TMUS,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
-TSLA|2026-07-29,consolidating,TSLA,ESG,E,2026-07-29,,,,,,False,Consumer Discretionary,stock,S&P 500
-TTWO|2026-07-29,consolidating,TTWO,ESG,G,2026-07-29,,,,,,True,Communication Services,stock,S&P 500
-UBER|2026-07-29,consolidating,UBER,General,,2026-07-29,,,,,,,Industrials,stock,S&P 500
-UNP|2026-07-29,consolidating,UNP,ESG,S,2026-07-29,,,,,,True,Industrials,stock,S&P 500
-VLO|2026-07-29,consolidating,VLO,General,,2026-07-29,,,,,,,Energy,stock,S&P 500
-VRT|2026-07-29,consolidating,VRT,ESG,E,2026-07-29,,,,,,True,Industrials,stock,S&P 500
-V|2026-07-29,consolidating,V,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
-WBD|2026-07-29,consolidating,WBD,General,,2026-07-29,,,,,,,Communication Services,stock,S&P 500
-WFC|2026-07-29,consolidating,WFC,General,,2026-07-29,,,,,,,Financials,stock,S&P 500
-XOM|2026-07-29,consolidating,XOM,ESG,E,2026-07-29,,,,,,True,Energy,stock,S&P 500
+AAPL|2026-07-29,closed,AAPL,ESG,E,2026-07-29,-12.73,6.65,False,0.81,1.52,False,Information Technology,stock,S&P 500
+AMAT|2026-07-29,closed,AMAT,General,,2026-07-29,-7.06,14.73,True,2.72,3.36,,Information Technology,stock,S&P 500
+AMD|2026-07-29,closed,AMD,ESG,E,2026-07-29,-12.22,16.28,True,3.52,3.71,False,Information Technology,stock,S&P 500
+AMZN|2026-07-29,closed,AMZN,General,,2026-07-29,18.58,7.03,False,1.24,1.61,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-07-29,closed,AVGO,General,,2026-07-29,-2.66,10.75,True,2.01,2.45,,Information Technology,stock,S&P 500
+AXP|2026-07-29,closed,AXP,General,,2026-07-29,0.75,7.06,True,0.91,1.61,,Financials,stock,S&P 500
+BAC|2026-07-29,closed,BAC,General,,2026-07-29,-1.52,5.91,True,0.66,1.35,,Financials,stock,S&P 500
+BA|2026-07-29,closed,BA,General,,2026-07-29,8.33,8.11,False,1.29,1.85,,Industrials,stock,S&P 500
+BRK-B|2026-07-29,closed,BRK-B,General,,2026-07-29,3.04,4.35,True,0.04,0.99,,Financials,stock,S&P 500
+CAT|2026-07-29,closed,CAT,General,,2026-07-29,-10.34,9.79,False,1.84,2.23,,Industrials,stock,S&P 500
+CMCSA|2026-07-29,closed,CMCSA,General,,2026-07-29,8.29,9.31,True,0.03,2.12,,Communication Services,stock,S&P 500
+CSCO|2026-07-29,closed,CSCO,General,,2026-07-29,-3.49,10.35,True,1.21,2.36,,Information Technology,stock,S&P 500
+CVX|2026-07-29,closed,CVX,General,,2026-07-29,2.77,6.36,True,-0.76,1.45,,Energy,stock,S&P 500
+C|2026-07-29,closed,C,General,,2026-07-29,-3.08,7.36,True,1.3,1.68,,Financials,stock,S&P 500
+DIS|2026-07-29,closed,DIS,General,,2026-07-29,0.48,7.28,True,0.78,1.66,,Communication Services,stock,S&P 500
+EOG|2026-07-29,closed,EOG,General,,2026-07-29,4.45,7.68,True,-0.88,1.75,,Energy,stock,S&P 500
+ETN|2026-07-29,closed,ETN,General,,2026-07-29,5.79,9.38,True,1.7,2.14,,Industrials,stock,S&P 500
+GEV|2026-07-29,closed,GEV,General,,2026-07-29,-4.73,12.01,True,2.0,2.74,,Industrials,stock,S&P 500
+GE|2026-07-29,closed,GE,General,,2026-07-29,-1.37,9.11,True,1.35,2.08,,Industrials,stock,S&P 500
+GOOGL|2026-07-29,closed,GOOGL,General,,2026-07-29,10.48,7.17,False,1.31,1.64,,Communication Services,stock,S&P 500
+GS|2026-07-29,closed,GS,General,,2026-07-29,-6.17,7.47,True,1.62,1.7,,Financials,stock,S&P 500
+INTC|2026-07-29,closed,INTC,General,,2026-07-29,-10.78,21.41,True,3.28,4.89,,Information Technology,stock,S&P 500
+KMI|2026-07-29,closed,KMI,General,,2026-07-29,-1.36,5.74,True,-0.22,1.31,,Energy,stock,S&P 500
+LRCX|2026-07-29,closed,LRCX,ESG,E,2026-07-29,-6.29,14.35,True,3.32,3.27,False,Information Technology,stock,S&P 500
+MA|2026-07-29,closed,MA,General,,2026-07-29,2.86,6.88,True,0.24,1.57,,Financials,stock,S&P 500
+META|2026-07-29,closed,META,ESG,E,2026-07-29,-3.51,10.74,True,1.56,2.45,False,Communication Services,stock,S&P 500
+MPC|2026-07-29,closed,MPC,General,,2026-07-29,-3.15,10.19,True,-0.49,2.32,,Energy,stock,S&P 500
+MSFT|2026-07-29,closed,MSFT,ESG,E,2026-07-29,22.73,9.08,False,0.8,2.07,False,Information Technology,stock,S&P 500
+MS|2026-07-29,closed,MS,General,,2026-07-29,-5.26,6.73,True,1.32,1.53,,Financials,stock,S&P 500
+MU|2026-07-29,closed,MU,General,,2026-07-29,-18.83,21.25,True,3.42,4.85,,Information Technology,stock,S&P 500
+NFLX|2026-07-29,closed,NFLX,General,,2026-07-29,4.37,10.81,True,0.2,2.47,,Communication Services,stock,S&P 500
+NTRS|2026-07-29,closed,NTRS,ESG,E,2026-07-29,-3.15,6.88,True,0.86,1.57,False,Financials,stock,S&P 500
+NVDA|2026-07-29,closed,NVDA,ESG,E,2026-07-29,0.36,7.99,True,1.91,1.82,False,Information Technology,stock,S&P 500
+PSX|2026-07-29,closed,PSX,General,,2026-07-29,-1.31,8.8,True,-0.57,2.01,,Energy,stock,S&P 500
+RTX|2026-07-29,closed,RTX,General,,2026-07-29,-1.44,7.45,True,0.31,1.7,,Industrials,stock,S&P 500
+SLB|2026-07-29,closed,SLB,ESG,E,2026-07-29,-6.21,9.35,True,0.78,2.13,True,Energy,stock,S&P 500
+SPGI|2026-07-29,closed,SPGI,ESG,E,2026-07-29,-5.93,10.1,True,0.39,2.3,False,Financials,stock,S&P 500
+TMUS|2026-07-29,closed,TMUS,General,,2026-07-29,1.22,7.91,True,-0.61,1.8,,Communication Services,stock,S&P 500
+TSLA|2026-07-29,closed,TSLA,ESG,E,2026-07-29,0.06,9.55,True,2.01,2.18,False,Consumer Discretionary,stock,S&P 500
+TTWO|2026-07-29,closed,TTWO,ESG,G,2026-07-29,-1.21,9.76,True,0.81,2.23,True,Communication Services,stock,S&P 500
+UBER|2026-07-29,closed,UBER,General,,2026-07-29,3.6,9.46,True,0.91,2.16,,Industrials,stock,S&P 500
+UNP|2026-07-29,closed,UNP,ESG,S,2026-07-29,-4.35,6.86,True,0.22,1.57,True,Industrials,stock,S&P 500
+VLO|2026-07-29,closed,VLO,General,,2026-07-29,0.18,10.6,True,-0.74,2.42,,Energy,stock,S&P 500
+VRT|2026-07-29,closed,VRT,ESG,E,2026-07-29,-14.84,17.05,True,2.58,3.89,True,Industrials,stock,S&P 500
+V|2026-07-29,closed,V,General,,2026-07-29,-0.11,6.68,True,0.27,1.52,,Financials,stock,S&P 500
+WBD|2026-07-29,closed,WBD,General,,2026-07-29,2.44,3.93,True,0.4,0.9,,Communication Services,stock,S&P 500
+WFC|2026-07-29,closed,WFC,General,,2026-07-29,-0.52,7.61,True,0.59,1.74,,Financials,stock,S&P 500
+XOM|2026-07-29,closed,XOM,ESG,E,2026-07-29,1.29,7.62,True,-0.78,1.74,True,Energy,stock,S&P 500
 AAPL|2026-07-28,closed,AAPL,General,,2026-07-28,-10.58,6.67,False,0.85,1.52,,Information Technology,stock,S&P 500
 AMAT|2026-07-28,closed,AMAT,General,,2026-07-28,-6.86,14.74,True,2.66,3.36,,Information Technology,stock,S&P 500
 AMD|2026-07-28,closed,AMD,ESG,S,2026-07-28,-11.65,16.49,True,3.37,3.76,True,Information Technology,stock,S&P 500
