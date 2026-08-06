@@ -1,18 +1,27 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-06,waiting,AAPL,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-08-06,waiting,AMAT,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-06,waiting,AMD,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-06,waiting,AMZN,General,,2026-08-06,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-08-06,waiting,AVGO,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
+CAT|2026-08-06,waiting,CAT,General,,2026-08-06,,,,,,,Industrials,stock,S&P 500
 CSCO|2026-08-06,waiting,CSCO,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
 DIS|2026-08-06,waiting,DIS,General,,2026-08-06,,,,,,,Communication Services,stock,S&P 500
-GEV|2026-08-06,waiting,GEV,General,,2026-08-06,,,,,,,Industrials,stock,S&P 500
+ETN|2026-08-06,waiting,ETN,ESG,E,2026-08-06,,,,,,True,Industrials,stock,S&P 500
+GEV|2026-08-06,waiting,GEV,ESG,E,2026-08-06,,,,,,True,Industrials,stock,S&P 500
 GE|2026-08-06,waiting,GE,General,,2026-08-06,,,,,,,Industrials,stock,S&P 500
+GOOGL|2026-08-06,waiting,GOOGL,General,,2026-08-06,,,,,,,Communication Services,stock,S&P 500
+INTC|2026-08-06,waiting,INTC,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
 LRCX|2026-08-06,waiting,LRCX,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
 MA|2026-08-06,waiting,MA,General,,2026-08-06,,,,,,,Financials,stock,S&P 500
 META|2026-08-06,waiting,META,ESG,E,2026-08-06,,,,,,False,Communication Services,stock,S&P 500
 NVDA|2026-08-06,waiting,NVDA,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
+PSX|2026-08-06,waiting,PSX,General,,2026-08-06,,,,,,,Energy,stock,S&P 500
 RTX|2026-08-06,waiting,RTX,General,,2026-08-06,,,,,,,Industrials,stock,S&P 500
 TSLA|2026-08-06,waiting,TSLA,ESG,E,2026-08-06,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-06,waiting,UBER,General,,2026-08-06,,,,,,,Industrials,stock,S&P 500
+VRT|2026-08-06,waiting,VRT,ESG,E,2026-08-06,,,,,,True,Industrials,stock,S&P 500
+V|2026-08-06,waiting,V,General,,2026-08-06,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-05,consolidating,AAPL,ESG,S,2026-08-05,,,,,,True,Information Technology,stock,S&P 500
 AMAT|2026-08-05,consolidating,AMAT,General,,2026-08-05,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-05,consolidating,AMD,General,,2026-08-05,,,,,,,Information Technology,stock,S&P 500
@@ -27,7 +36,7 @@ CAT|2026-08-05,consolidating,CAT,ESG,E,2026-08-05,,,,,,True,Industrials,stock,S&
 CVX|2026-08-05,consolidating,CVX,ESG,E,2026-08-05,,,,,,True,Energy,stock,S&P 500
 C|2026-08-05,consolidating,C,General,,2026-08-05,,,,,,,Financials,stock,S&P 500
 DIS|2026-08-05,consolidating,DIS,General,,2026-08-05,,,,,,,Communication Services,stock,S&P 500
-EA|2026-08-05,waiting,EA,General,,2026-08-05,,,,,,,Communication Services,stock,S&P 500
+EA|2026-08-05,consolidating,EA,General,,2026-08-05,,,,,,,Communication Services,stock,S&P 500
 EOG|2026-08-05,consolidating,EOG,ESG,E,2026-08-05,,,,,,True,Energy,stock,S&P 500
 ETN|2026-08-05,consolidating,ETN,General,,2026-08-05,,,,,,,Industrials,stock,S&P 500
 GEV|2026-08-05,consolidating,GEV,ESG,E,2026-08-05,,,,,,True,Industrials,stock,S&P 500
@@ -221,7 +230,7 @@ VRT|2026-07-31,closed,VRT,General,,2026-07-31,8.37,17.07,True,2.58,3.89,,Industr
 V|2026-07-31,closed,V,General,,2026-07-31,-2.88,6.72,True,0.26,1.53,,Financials,stock,S&P 500
 WFC|2026-07-31,closed,WFC,General,,2026-07-31,1.96,7.61,True,0.59,1.74,,Financials,stock,S&P 500
 XOM|2026-07-31,closed,XOM,General,,2026-07-31,-0.38,7.53,True,-0.83,1.72,,Energy,stock,S&P 500
-EA|2026-07-31,consolidating,EA,General,,2026-07-31,,,,,,,Communication Services,stock,S&P 500
+EA|2026-07-31,closed,EA,General,,2026-07-31,-0.2,1.72,True,0.11,0.39,,Communication Services,stock,S&P 500
 AAPL|2026-07-30,closed,AAPL,General,,2026-07-30,-12.71,6.73,False,0.82,1.54,,Information Technology,stock,S&P 500
 AMAT|2026-07-30,closed,AMAT,General,,2026-07-30,2.2,14.83,True,2.73,3.38,,Information Technology,stock,S&P 500
 AMD|2026-07-30,closed,AMD,General,,2026-07-30,-1.09,16.44,True,3.48,3.75,,Information Technology,stock,S&P 500
