@@ -1,13 +1,17 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-07,waiting,AAPL,General,,2026-08-07,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-07,waiting,AMAT,General,,2026-08-07,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-07,waiting,AMD,General,,2026-08-07,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-07,waiting,AMZN,General,,2026-08-07,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-07,waiting,AVGO,General,,2026-08-07,,,,,,,Information Technology,stock,S&P 500
 BAC|2026-08-07,waiting,BAC,General,,2026-08-07,,,,,,,Financials,stock,S&P 500
+BA|2026-08-07,waiting,BA,General,,2026-08-07,,,,,,,Industrials,stock,S&P 500
 COP|2026-08-07,waiting,COP,General,,2026-08-07,,,,,,,Energy,stock,S&P 500
 CSCO|2026-08-07,waiting,CSCO,General,,2026-08-07,,,,,,,Information Technology,stock,S&P 500
 DIS|2026-08-07,waiting,DIS,General,,2026-08-07,,,,,,,Communication Services,stock,S&P 500
 ETN|2026-08-07,waiting,ETN,ESG,E,2026-08-07,,,,,,True,Industrials,stock,S&P 500
 GS|2026-08-07,waiting,GS,ESG,E,2026-08-07,,,,,,False,Financials,stock,S&P 500
+INTC|2026-08-07,waiting,INTC,General,,2026-08-07,,,,,,,Information Technology,stock,S&P 500
 MA|2026-08-07,waiting,MA,ESG,G,2026-08-07,,,,,,True,Financials,stock,S&P 500
 META|2026-08-07,waiting,META,General,,2026-08-07,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-08-07,waiting,MSFT,General,,2026-08-07,,,,,,,Information Technology,stock,S&P 500
@@ -42,6 +46,7 @@ INTC|2026-08-06,consolidating,INTC,General,,2026-08-06,,,,,,,Information Technol
 LRCX|2026-08-06,consolidating,LRCX,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
 MA|2026-08-06,consolidating,MA,General,,2026-08-06,,,,,,,Financials,stock,S&P 500
 META|2026-08-06,consolidating,META,ESG,E,2026-08-06,,,,,,False,Communication Services,stock,S&P 500
+MSFT|2026-08-06,consolidating,MSFT,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-08-06,consolidating,NFLX,General,,2026-08-06,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-08-06,consolidating,NVDA,General,,2026-08-06,,,,,,,Information Technology,stock,S&P 500
 PSX|2026-08-06,consolidating,PSX,General,,2026-08-06,,,,,,,Energy,stock,S&P 500
