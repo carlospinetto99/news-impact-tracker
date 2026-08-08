@@ -10,9 +10,12 @@ BRK-B|2026-08-08,waiting,BRK-B,General,,2026-08-08,,,,,,,Financials,stock,S&P 50
 CAT|2026-08-08,waiting,CAT,General,,2026-08-08,,,,,,,Industrials,stock,S&P 500
 COP|2026-08-08,waiting,COP,General,,2026-08-08,,,,,,,Energy,stock,S&P 500
 CSCO|2026-08-08,waiting,CSCO,General,,2026-08-08,,,,,,,Information Technology,stock,S&P 500
+C|2026-08-08,waiting,C,General,,2026-08-08,,,,,,,Financials,stock,S&P 500
+EOG|2026-08-08,waiting,EOG,General,,2026-08-08,,,,,,,Energy,stock,S&P 500
 GEV|2026-08-08,waiting,GEV,General,,2026-08-08,,,,,,,Industrials,stock,S&P 500
 GE|2026-08-08,waiting,GE,ESG,E,2026-08-08,,,,,,True,Industrials,stock,S&P 500
 GOOGL|2026-08-08,waiting,GOOGL,General,,2026-08-08,,,,,,,Communication Services,stock,S&P 500
+GS|2026-08-08,waiting,GS,General,,2026-08-08,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-08,waiting,INTC,General,,2026-08-08,,,,,,,Information Technology,stock,S&P 500
 META|2026-08-08,waiting,META,General,,2026-08-08,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-08-08,waiting,MSFT,General,,2026-08-08,,,,,,,Information Technology,stock,S&P 500
@@ -179,7 +182,7 @@ WFC|2026-08-04,closed,WFC,General,,2026-08-04,-1.66,7.59,True,0.58,1.73,,Financi
 WMB|2026-08-04,closed,WMB,General,,2026-08-04,-0.28,6.47,True,-0.08,1.48,,Energy,stock,S&P 500
 WMT|2026-08-04,closed,WMT,ESG,E,2026-08-04,0.31,7.58,True,-0.02,1.73,True,Consumer Staples,stock,S&P 500
 XOM|2026-08-04,closed,XOM,General,,2026-08-04,1.21,7.53,True,-0.84,1.72,,Energy,stock,S&P 500
-EA|2026-08-04,consolidating,EA,General,,2026-08-04,,,,,,,Communication Services,stock,S&P 500
+EA|2026-08-04,closed,EA,General,,2026-08-04,-0.54,1.75,True,0.11,0.4,,Communication Services,stock,S&P 500
 AAPL|2026-08-03,closed,AAPL,ESG,E,2026-08-03,-9.76,6.82,False,0.79,1.56,False,Information Technology,stock,S&P 500
 AMAT|2026-08-03,closed,AMAT,General,,2026-08-03,-7.01,14.84,True,2.79,3.39,,Information Technology,stock,S&P 500
 AMD|2026-08-03,closed,AMD,General,,2026-08-03,-14.17,16.46,True,3.49,3.76,,Information Technology,stock,S&P 500
