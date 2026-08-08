@@ -1,4 +1,6 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AVGO|2026-08-09,waiting,AVGO,General,,2026-08-09,,,,,,,Information Technology,stock,S&P 500
+CAT|2026-08-09,waiting,CAT,General,,2026-08-09,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-08-08,waiting,AAPL,General,,2026-08-08,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-08,waiting,AMAT,General,,2026-08-08,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-08,waiting,AMD,General,,2026-08-08,,,,,,,Information Technology,stock,S&P 500
@@ -10,7 +12,7 @@ BA|2026-08-08,waiting,BA,General,,2026-08-08,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-08-08,waiting,BRK-B,General,,2026-08-08,,,,,,,Financials,stock,S&P 500
 CAT|2026-08-08,waiting,CAT,General,,2026-08-08,,,,,,,Industrials,stock,S&P 500
 COP|2026-08-08,waiting,COP,General,,2026-08-08,,,,,,,Energy,stock,S&P 500
-CSCO|2026-08-08,waiting,CSCO,General,,2026-08-08,,,,,,,Information Technology,stock,S&P 500
+CSCO|2026-08-08,waiting,CSCO,ESG,S,2026-08-08,,,,,,True,Information Technology,stock,S&P 500
 CVX|2026-08-08,waiting,CVX,ESG,E,2026-08-08,,,,,,True,Energy,stock,S&P 500
 C|2026-08-08,waiting,C,General,,2026-08-08,,,,,,,Financials,stock,S&P 500
 EOG|2026-08-08,waiting,EOG,General,,2026-08-08,,,,,,,Energy,stock,S&P 500
@@ -28,6 +30,7 @@ TTWO|2026-08-08,waiting,TTWO,General,,2026-08-08,,,,,,,Communication Services,st
 UBER|2026-08-08,waiting,UBER,General,,2026-08-08,,,,,,,Industrials,stock,S&P 500
 VLO|2026-08-08,waiting,VLO,ESG,E,2026-08-08,,,,,,True,Energy,stock,S&P 500
 VRT|2026-08-08,waiting,VRT,General,,2026-08-08,,,,,,,Industrials,stock,S&P 500
+WBD|2026-08-08,waiting,WBD,General,,2026-08-08,,,,,,,Communication Services,stock,S&P 500
 WFC|2026-08-08,waiting,WFC,General,,2026-08-08,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-07,consolidating,AAPL,General,,2026-08-07,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-07,consolidating,AMAT,General,,2026-08-07,,,,,,,Information Technology,stock,S&P 500
