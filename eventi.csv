@@ -1,7 +1,15 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-10,waiting,AAPL,General,,2026-08-10,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-10,waiting,AMD,ESG,G,2026-08-10,,,,,,True,Information Technology,stock,S&P 500
 AMZN|2026-08-10,waiting,AMZN,General,,2026-08-10,,,,,,,Consumer Discretionary,stock,S&P 500
+BRK-B|2026-08-10,waiting,BRK-B,General,,2026-08-10,,,,,,,Financials,stock,S&P 500
 CSCO|2026-08-10,waiting,CSCO,General,,2026-08-10,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-08-10,waiting,CVX,General,,2026-08-10,,,,,,,Energy,stock,S&P 500
+DE|2026-08-10,waiting,DE,General,,2026-08-10,,,,,,,Industrials,stock,S&P 500
+DIS|2026-08-10,waiting,DIS,General,,2026-08-10,,,,,,,Communication Services,stock,S&P 500
+INTC|2026-08-10,waiting,INTC,General,,2026-08-10,,,,,,,Information Technology,stock,S&P 500
+MU|2026-08-10,waiting,MU,General,,2026-08-10,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-08-10,waiting,TSLA,General,,2026-08-10,,,,,,,Consumer Discretionary,stock,S&P 500
 AAPL|2026-08-09,waiting,AAPL,General,,2026-08-09,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-09,waiting,AMD,General,,2026-08-09,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-09,waiting,AMZN,ESG,E,2026-08-09,,,,,,False,Consumer Discretionary,stock,S&P 500
