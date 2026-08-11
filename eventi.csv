@@ -1,4 +1,20 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-12,waiting,AAPL,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-08-12,waiting,AMAT,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-12,waiting,AMZN,ESG,S,2026-08-12,,,,,,True,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-12,waiting,AVGO,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
+BA|2026-08-12,waiting,BA,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
+CSCO|2026-08-12,waiting,CSCO,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-08-12,waiting,CVX,ESG,E,2026-08-12,,,,,,True,Energy,stock,S&P 500
+GOOGL|2026-08-12,waiting,GOOGL,General,,2026-08-12,,,,,,,Communication Services,stock,S&P 500
+INTC|2026-08-12,waiting,INTC,ESG,G,2026-08-12,,,,,,True,Information Technology,stock,S&P 500
+META|2026-08-12,waiting,META,ESG,S,2026-08-12,,,,,,True,Communication Services,stock,S&P 500
+MSFT|2026-08-12,waiting,MSFT,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-08-12,waiting,NFLX,General,,2026-08-12,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-08-12,waiting,NVDA,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-08-12,waiting,TSLA,ESG,E,2026-08-12,,,,,,False,Consumer Discretionary,stock,S&P 500
+UBER|2026-08-12,waiting,UBER,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
+XOM|2026-08-12,waiting,XOM,ESG,E,2026-08-12,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-08-11,consolidating,AAPL,ESG,E,2026-08-11,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-08-11,consolidating,AMAT,General,,2026-08-11,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-11,consolidating,AMD,General,,2026-08-11,,,,,,,Information Technology,stock,S&P 500
