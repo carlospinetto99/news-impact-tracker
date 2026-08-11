@@ -2,6 +2,7 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-08-11,waiting,AAPL,General,,2026-08-11,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-11,waiting,AMAT,General,,2026-08-11,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-11,waiting,AMZN,General,,2026-08-11,,,,,,,Consumer Discretionary,stock,S&P 500
+AXP|2026-08-11,waiting,AXP,General,,2026-08-11,,,,,,,Financials,stock,S&P 500
 BAC|2026-08-11,waiting,BAC,General,,2026-08-11,,,,,,,Financials,stock,S&P 500
 BA|2026-08-11,waiting,BA,General,,2026-08-11,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-08-11,waiting,BRK-B,General,,2026-08-11,,,,,,,Financials,stock,S&P 500
@@ -9,12 +10,15 @@ CVX|2026-08-11,waiting,CVX,General,,2026-08-11,,,,,,,Energy,stock,S&P 500
 DE|2026-08-11,waiting,DE,General,,2026-08-11,,,,,,,Industrials,stock,S&P 500
 GEV|2026-08-11,waiting,GEV,ESG,E,2026-08-11,,,,,,True,Industrials,stock,S&P 500
 GE|2026-08-11,waiting,GE,General,,2026-08-11,,,,,,,Industrials,stock,S&P 500
+GS|2026-08-11,waiting,GS,General,,2026-08-11,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-11,waiting,INTC,General,,2026-08-11,,,,,,,Information Technology,stock,S&P 500
 KMI|2026-08-11,waiting,KMI,General,,2026-08-11,,,,,,,Energy,stock,S&P 500
+LRCX|2026-08-11,waiting,LRCX,ESG,ES,2026-08-11,,,,,,True,Information Technology,stock,S&P 500
 MA|2026-08-11,waiting,MA,General,,2026-08-11,,,,,,,Financials,stock,S&P 500
 META|2026-08-11,waiting,META,General,,2026-08-11,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-08-11,waiting,MSFT,General,,2026-08-11,,,,,,,Information Technology,stock,S&P 500
 MS|2026-08-11,waiting,MS,General,,2026-08-11,,,,,,,Financials,stock,S&P 500
+MU|2026-08-11,waiting,MU,General,,2026-08-11,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-08-11,waiting,NFLX,General,,2026-08-11,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-08-11,waiting,NVDA,General,,2026-08-11,,,,,,,Information Technology,stock,S&P 500
 TSLA|2026-08-11,waiting,TSLA,General,,2026-08-11,,,,,,,Consumer Discretionary,stock,S&P 500
@@ -213,7 +217,7 @@ WBD|2026-08-05,closed,WBD,General,,2026-08-05,3.05,4.07,True,0.4,0.93,,Communica
 WFC|2026-08-05,closed,WFC,General,,2026-08-05,-1.32,7.6,True,0.58,1.73,,Financials,stock,S&P 500
 WMB|2026-08-05,closed,WMB,General,,2026-08-05,0.07,6.44,True,-0.09,1.47,,Energy,stock,S&P 500
 XOM|2026-08-05,closed,XOM,General,,2026-08-05,3.12,7.53,True,-0.83,1.72,,Energy,stock,S&P 500
-EA|2026-08-05,consolidating,EA,General,,2026-08-05,,,,,,,Communication Services,stock,S&P 500
+EA|2026-08-05,closed,EA,General,,2026-08-05,-0.39,1.75,True,0.1,0.4,,Communication Services,stock,S&P 500
 AAPL|2026-08-04,closed,AAPL,General,,2026-08-04,0.53,6.86,True,0.78,1.57,,Information Technology,stock,S&P 500
 AMAT|2026-08-04,closed,AMAT,General,,2026-08-04,-8.15,14.8,True,2.8,3.38,,Information Technology,stock,S&P 500
 AMD|2026-08-04,closed,AMD,General,,2026-08-04,-16.09,16.32,True,3.52,3.72,,Information Technology,stock,S&P 500
