@@ -2,7 +2,7 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-08-12,consolidating,AAPL,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-12,consolidating,AMAT,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-12,consolidating,AMD,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
-AMZN|2026-08-12,consolidating,AMZN,ESG,S,2026-08-12,,,,,,True,Consumer Discretionary,stock,S&P 500
+AMZN|2026-08-12,consolidating,AMZN,ESG,ES,2026-08-12,,,,,,True,Consumer Discretionary,stock,S&P 500
 AVGO|2026-08-12,consolidating,AVGO,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-08-12,consolidating,AXP,General,,2026-08-12,,,,,,,Financials,stock,S&P 500
 BAC|2026-08-12,consolidating,BAC,ESG,ES,2026-08-12,,,,,,False,Financials,stock,S&P 500
@@ -11,7 +11,7 @@ BLK|2026-08-12,consolidating,BLK,ESG,E,2026-08-12,,,,,,False,Financials,stock,S&
 BRK-B|2026-08-12,consolidating,BRK-B,General,,2026-08-12,,,,,,,Financials,stock,S&P 500
 CAT|2026-08-12,consolidating,CAT,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
 CMCSA|2026-08-12,consolidating,CMCSA,ESG,S,2026-08-12,,,,,,True,Communication Services,stock,S&P 500
-CSCO|2026-08-12,consolidating,CSCO,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
+CSCO|2026-08-12,consolidating,CSCO,ESG,S,2026-08-12,,,,,,True,Information Technology,stock,S&P 500
 CVX|2026-08-12,consolidating,CVX,ESG,E,2026-08-12,,,,,,True,Energy,stock,S&P 500
 C|2026-08-12,consolidating,C,General,,2026-08-12,,,,,,,Financials,stock,S&P 500
 GEV|2026-08-12,consolidating,GEV,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
@@ -30,6 +30,7 @@ PSX|2026-08-12,consolidating,PSX,General,,2026-08-12,,,,,,,Energy,stock,S&P 500
 TMUS|2026-08-12,consolidating,TMUS,General,,2026-08-12,,,,,,,Communication Services,stock,S&P 500
 TSLA|2026-08-12,consolidating,TSLA,ESG,E,2026-08-12,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-12,consolidating,UBER,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
+UNP|2026-08-12,consolidating,UNP,ESG,S,2026-08-12,,,,,,True,Industrials,stock,S&P 500
 VLO|2026-08-12,consolidating,VLO,ESG,E,2026-08-12,,,,,,True,Energy,stock,S&P 500
 VRT|2026-08-12,consolidating,VRT,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
 V|2026-08-12,consolidating,V,ESG,EG,2026-08-12,,,,,,True,Financials,stock,S&P 500
