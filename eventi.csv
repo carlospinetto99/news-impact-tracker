@@ -5,22 +5,28 @@ AMD|2026-08-12,waiting,AMD,General,,2026-08-12,,,,,,,Information Technology,stoc
 AMZN|2026-08-12,waiting,AMZN,ESG,S,2026-08-12,,,,,,True,Consumer Discretionary,stock,S&P 500
 AVGO|2026-08-12,waiting,AVGO,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-08-12,waiting,AXP,General,,2026-08-12,,,,,,,Financials,stock,S&P 500
+BAC|2026-08-12,waiting,BAC,ESG,E,2026-08-12,,,,,,False,Financials,stock,S&P 500
 BA|2026-08-12,waiting,BA,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-08-12,waiting,BRK-B,General,,2026-08-12,,,,,,,Financials,stock,S&P 500
 CAT|2026-08-12,waiting,CAT,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
 CMCSA|2026-08-12,waiting,CMCSA,ESG,S,2026-08-12,,,,,,True,Communication Services,stock,S&P 500
 CSCO|2026-08-12,waiting,CSCO,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-08-12,waiting,CVX,ESG,E,2026-08-12,,,,,,True,Energy,stock,S&P 500
+GEV|2026-08-12,waiting,GEV,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
+GE|2026-08-12,waiting,GE,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-08-12,waiting,GOOGL,General,,2026-08-12,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-12,waiting,GS,General,,2026-08-12,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-12,waiting,INTC,ESG,G,2026-08-12,,,,,,True,Information Technology,stock,S&P 500
 META|2026-08-12,waiting,META,ESG,S,2026-08-12,,,,,,True,Communication Services,stock,S&P 500
 MSFT|2026-08-12,waiting,MSFT,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
+MU|2026-08-12,waiting,MU,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-08-12,waiting,NFLX,General,,2026-08-12,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-08-12,waiting,NVDA,ESG,S,2026-08-12,,,,,,True,Information Technology,stock,S&P 500
+PSX|2026-08-12,waiting,PSX,General,,2026-08-12,,,,,,,Energy,stock,S&P 500
 TMUS|2026-08-12,waiting,TMUS,General,,2026-08-12,,,,,,,Communication Services,stock,S&P 500
 TSLA|2026-08-12,waiting,TSLA,ESG,E,2026-08-12,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-12,waiting,UBER,General,,2026-08-12,,,,,,,Industrials,stock,S&P 500
+V|2026-08-12,waiting,V,General,,2026-08-12,,,,,,,Financials,stock,S&P 500
 XOM|2026-08-12,waiting,XOM,ESG,E,2026-08-12,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-08-11,consolidating,AAPL,ESG,E,2026-08-11,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-08-11,consolidating,AMAT,General,,2026-08-11,,,,,,,Information Technology,stock,S&P 500
