@@ -1,16 +1,23 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
-AAPL|2026-08-13,waiting,AAPL,General,,2026-08-13,,,,,,,Information Technology,stock,S&P 500
+AAPL|2026-08-13,waiting,AAPL,ESG,E,2026-08-13,,,,,,False,Information Technology,stock,S&P 500
+AMAT|2026-08-13,waiting,AMAT,General,,2026-08-13,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-13,waiting,AMD,General,,2026-08-13,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-13,waiting,AMZN,ESG,E,2026-08-13,,,,,,False,Consumer Discretionary,stock,S&P 500
 CSCO|2026-08-13,waiting,CSCO,General,,2026-08-13,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-08-13,waiting,CVX,General,,2026-08-13,,,,,,,Energy,stock,S&P 500
 GOOGL|2026-08-13,waiting,GOOGL,General,,2026-08-13,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-13,waiting,GS,General,,2026-08-13,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-13,waiting,INTC,General,,2026-08-13,,,,,,,Information Technology,stock,S&P 500
+MPC|2026-08-13,waiting,MPC,General,,2026-08-13,,,,,,,Energy,stock,S&P 500
 MSFT|2026-08-13,waiting,MSFT,General,,2026-08-13,,,,,,,Information Technology,stock,S&P 500
 MU|2026-08-13,waiting,MU,General,,2026-08-13,,,,,,,Information Technology,stock,S&P 500
 NVDA|2026-08-13,waiting,NVDA,General,,2026-08-13,,,,,,,Information Technology,stock,S&P 500
 PSX|2026-08-13,waiting,PSX,General,,2026-08-13,,,,,,,Energy,stock,S&P 500
+TSLA|2026-08-13,waiting,TSLA,General,,2026-08-13,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-13,waiting,UBER,General,,2026-08-13,,,,,,,Industrials,stock,S&P 500
+VLO|2026-08-13,waiting,VLO,ESG,E,2026-08-13,,,,,,True,Energy,stock,S&P 500
 WFC|2026-08-13,waiting,WFC,General,,2026-08-13,,,,,,,Financials,stock,S&P 500
+WMB|2026-08-13,waiting,WMB,General,,2026-08-13,,,,,,,Energy,stock,S&P 500
 AAPL|2026-08-12,consolidating,AAPL,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-12,consolidating,AMAT,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-12,consolidating,AMD,General,,2026-08-12,,,,,,,Information Technology,stock,S&P 500
