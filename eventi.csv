@@ -1,4 +1,16 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-14,waiting,AAPL,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-08-14,waiting,AMAT,ESG,E,2026-08-14,,,,,,False,Information Technology,stock,S&P 500
+AMD|2026-08-14,waiting,AMD,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+BA|2026-08-14,waiting,BA,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
+CSCO|2026-08-14,waiting,CSCO,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+INTC|2026-08-14,waiting,INTC,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+LRCX|2026-08-14,waiting,LRCX,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+META|2026-08-14,waiting,META,ESG,ES,2026-08-14,,,,,,True,Communication Services,stock,S&P 500
+MSFT|2026-08-14,waiting,MSFT,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+MU|2026-08-14,waiting,MU,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+RTX|2026-08-14,waiting,RTX,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
+TSLA|2026-08-14,waiting,TSLA,ESG,S,2026-08-14,,,,,,True,Consumer Discretionary,stock,S&P 500
 AAPL|2026-08-13,consolidating,AAPL,ESG,E,2026-08-13,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-08-13,consolidating,AMAT,ESG,ES,2026-08-13,,,,,,True,Information Technology,stock,S&P 500
 AMD|2026-08-13,consolidating,AMD,General,,2026-08-13,,,,,,,Information Technology,stock,S&P 500
