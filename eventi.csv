@@ -1,7 +1,8 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-08-14,waiting,AAPL,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
-AMAT|2026-08-14,waiting,AMAT,ESG,E,2026-08-14,,,,,,False,Information Technology,stock,S&P 500
+AMAT|2026-08-14,waiting,AMAT,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-14,waiting,AMD,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+AXP|2026-08-14,waiting,AXP,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
 BAC|2026-08-14,waiting,BAC,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
 BA|2026-08-14,waiting,BA,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-08-14,waiting,BRK-B,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
@@ -10,16 +11,20 @@ CSCO|2026-08-14,waiting,CSCO,General,,2026-08-14,,,,,,,Information Technology,st
 CVX|2026-08-14,waiting,CVX,General,,2026-08-14,,,,,,,Energy,stock,S&P 500
 C|2026-08-14,waiting,C,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
 DIS|2026-08-14,waiting,DIS,General,,2026-08-14,,,,,,,Communication Services,stock,S&P 500
+GEV|2026-08-14,waiting,GEV,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
 INTC|2026-08-14,waiting,INTC,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 LRCX|2026-08-14,waiting,LRCX,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+MA|2026-08-14,waiting,MA,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
 META|2026-08-14,waiting,META,ESG,ES,2026-08-14,,,,,,True,Communication Services,stock,S&P 500
 MSFT|2026-08-14,waiting,MSFT,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 MU|2026-08-14,waiting,MU,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 NVDA|2026-08-14,waiting,NVDA,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 RTX|2026-08-14,waiting,RTX,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
 SLB|2026-08-14,waiting,SLB,General,,2026-08-14,,,,,,,Energy,stock,S&P 500
+TMUS|2026-08-14,waiting,TMUS,General,,2026-08-14,,,,,,,Communication Services,stock,S&P 500
 TSLA|2026-08-14,waiting,TSLA,ESG,S,2026-08-14,,,,,,True,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-14,waiting,UBER,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
+VLO|2026-08-14,waiting,VLO,ESG,E,2026-08-14,,,,,,True,Energy,stock,S&P 500
 V|2026-08-14,waiting,V,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-13,consolidating,AAPL,ESG,E,2026-08-13,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-08-13,consolidating,AMAT,ESG,ES,2026-08-13,,,,,,True,Information Technology,stock,S&P 500
