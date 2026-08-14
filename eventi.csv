@@ -2,6 +2,8 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-08-14,consolidating,AAPL,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-14,consolidating,AMAT,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-14,consolidating,AMD,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-14,consolidating,AMZN,General,,2026-08-14,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-14,consolidating,AVGO,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-08-14,consolidating,AXP,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
 BAC|2026-08-14,consolidating,BAC,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
 BA|2026-08-14,consolidating,BA,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
@@ -15,7 +17,9 @@ C|2026-08-14,consolidating,C,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
 DIS|2026-08-14,consolidating,DIS,General,,2026-08-14,,,,,,,Communication Services,stock,S&P 500
 GEV|2026-08-14,consolidating,GEV,ESG,E,2026-08-14,,,,,,True,Industrials,stock,S&P 500
 GE|2026-08-14,consolidating,GE,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
-INTC|2026-08-14,consolidating,INTC,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
+GS|2026-08-14,consolidating,GS,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
+INTC|2026-08-14,consolidating,INTC,ESG,G,2026-08-14,,,,,,True,Information Technology,stock,S&P 500
+JPM|2026-08-14,consolidating,JPM,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
 KMI|2026-08-14,consolidating,KMI,General,,2026-08-14,,,,,,,Energy,stock,S&P 500
 LRCX|2026-08-14,consolidating,LRCX,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 MA|2026-08-14,consolidating,MA,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
@@ -29,7 +33,7 @@ PSX|2026-08-14,consolidating,PSX,General,,2026-08-14,,,,,,,Energy,stock,S&P 500
 RTX|2026-08-14,consolidating,RTX,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
 SLB|2026-08-14,consolidating,SLB,General,,2026-08-14,,,,,,,Energy,stock,S&P 500
 TMUS|2026-08-14,consolidating,TMUS,General,,2026-08-14,,,,,,,Communication Services,stock,S&P 500
-TSLA|2026-08-14,consolidating,TSLA,ESG,S,2026-08-14,,,,,,True,Consumer Discretionary,stock,S&P 500
+TSLA|2026-08-14,consolidating,TSLA,ESG,ES,2026-08-14,,,,,,True,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-14,consolidating,UBER,General,,2026-08-14,,,,,,,Industrials,stock,S&P 500
 VLO|2026-08-14,consolidating,VLO,ESG,E,2026-08-14,,,,,,True,Energy,stock,S&P 500
 V|2026-08-14,consolidating,V,General,,2026-08-14,,,,,,,Financials,stock,S&P 500
