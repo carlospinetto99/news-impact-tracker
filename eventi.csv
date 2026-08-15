@@ -10,11 +10,12 @@ BRK-B|2026-08-15,waiting,BRK-B,General,,2026-08-15,,,,,,,Financials,stock,S&P 50
 CSCO|2026-08-15,waiting,CSCO,General,,2026-08-15,,,,,,,Information Technology,stock,S&P 500
 GOOG|2026-08-15,waiting,GOOG,ESG,ES,2026-08-15,,,,,,True,Communication Services,stock,S&P 500
 INTC|2026-08-15,waiting,INTC,General,,2026-08-15,,,,,,,Information Technology,stock,S&P 500
+KMI|2026-08-15,waiting,KMI,General,,2026-08-15,,,,,,,Energy,stock,S&P 500
 MA|2026-08-15,waiting,MA,General,,2026-08-15,,,,,,,Financials,stock,S&P 500
 META|2026-08-15,waiting,META,General,,2026-08-15,,,,,,,Communication Services,stock,S&P 500
 NFLX|2026-08-15,waiting,NFLX,General,,2026-08-15,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-08-15,waiting,NVDA,General,,2026-08-15,,,,,,,Information Technology,stock,S&P 500
-TSLA|2026-08-15,waiting,TSLA,General,,2026-08-15,,,,,,,Consumer Discretionary,stock,S&P 500
+TSLA|2026-08-15,waiting,TSLA,ESG,E,2026-08-15,,,,,,False,Consumer Discretionary,stock,S&P 500
 WFC|2026-08-15,waiting,WFC,General,,2026-08-15,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-14,consolidating,AAPL,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-14,consolidating,AMAT,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
