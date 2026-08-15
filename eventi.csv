@@ -9,6 +9,7 @@ BA|2026-08-15,waiting,BA,General,,2026-08-15,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-08-15,waiting,BRK-B,General,,2026-08-15,,,,,,,Financials,stock,S&P 500
 COP|2026-08-15,waiting,COP,General,,2026-08-15,,,,,,,Energy,stock,S&P 500
 CSCO|2026-08-15,waiting,CSCO,General,,2026-08-15,,,,,,,Information Technology,stock,S&P 500
+C|2026-08-15,waiting,C,General,,2026-08-15,,,,,,,Financials,stock,S&P 500
 GOOG|2026-08-15,waiting,GOOG,ESG,ES,2026-08-15,,,,,,True,Communication Services,stock,S&P 500
 GS|2026-08-15,waiting,GS,General,,2026-08-15,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-15,waiting,INTC,ESG,G,2026-08-15,,,,,,True,Information Technology,stock,S&P 500
@@ -16,7 +17,7 @@ KMI|2026-08-15,waiting,KMI,General,,2026-08-15,,,,,,,Energy,stock,S&P 500
 MA|2026-08-15,waiting,MA,General,,2026-08-15,,,,,,,Financials,stock,S&P 500
 META|2026-08-15,waiting,META,General,,2026-08-15,,,,,,,Communication Services,stock,S&P 500
 NFLX|2026-08-15,waiting,NFLX,General,,2026-08-15,,,,,,,Communication Services,stock,S&P 500
-NVDA|2026-08-15,waiting,NVDA,General,,2026-08-15,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-08-15,waiting,NVDA,ESG,E,2026-08-15,,,,,,False,Information Technology,stock,S&P 500
 TSLA|2026-08-15,waiting,TSLA,ESG,E,2026-08-15,,,,,,False,Consumer Discretionary,stock,S&P 500
 WFC|2026-08-15,waiting,WFC,General,,2026-08-15,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-14,consolidating,AAPL,General,,2026-08-14,,,,,,,Information Technology,stock,S&P 500
