@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-17,waiting,AAPL,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AAPL|2026-08-16,waiting,AAPL,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-16,waiting,AMAT,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-16,waiting,AMZN,General,,2026-08-16,,,,,,,Consumer Discretionary,stock,S&P 500
@@ -6,6 +7,7 @@ AVGO|2026-08-16,waiting,AVGO,General,,2026-08-16,,,,,,,Information Technology,st
 BRK-B|2026-08-16,waiting,BRK-B,General,,2026-08-16,,,,,,,Financials,stock,S&P 500
 CAT|2026-08-16,waiting,CAT,General,,2026-08-16,,,,,,,Industrials,stock,S&P 500
 CSCO|2026-08-16,waiting,CSCO,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
+GOOGL|2026-08-16,waiting,GOOGL,General,,2026-08-16,,,,,,,Communication Services,stock,S&P 500
 INTC|2026-08-16,waiting,INTC,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
 META|2026-08-16,waiting,META,General,,2026-08-16,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-08-16,waiting,MSFT,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
