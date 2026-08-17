@@ -1,5 +1,14 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-18,waiting,AAPL,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-08-18,waiting,AMD,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
+GS|2026-08-18,waiting,GS,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
+NVDA|2026-08-18,waiting,NVDA,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
+RTX|2026-08-18,waiting,RTX,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
+TSLA|2026-08-18,waiting,TSLA,General,,2026-08-18,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-08-18,waiting,UBER,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
+WFC|2026-08-18,waiting,WFC,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-17,consolidating,AAPL,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-08-17,consolidating,AMAT,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-17,consolidating,AMD,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-17,consolidating,AMZN,General,,2026-08-17,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-08-17,consolidating,AVGO,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
@@ -8,15 +17,19 @@ BA|2026-08-17,consolidating,BA,General,,2026-08-17,,,,,,,Industrials,stock,S&P 5
 BRK-B|2026-08-17,consolidating,BRK-B,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
 COP|2026-08-17,consolidating,COP,General,,2026-08-17,,,,,,,Energy,stock,S&P 500
 CSCO|2026-08-17,consolidating,CSCO,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
-CVX|2026-08-17,consolidating,CVX,ESG,E,2026-08-17,,,,,,True,Energy,stock,S&P 500
+CVX|2026-08-17,consolidating,CVX,ESG,ES,2026-08-17,,,,,,True,Energy,stock,S&P 500
 C|2026-08-17,consolidating,C,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
 DE|2026-08-17,consolidating,DE,General,,2026-08-17,,,,,,,Industrials,stock,S&P 500
 DIS|2026-08-17,consolidating,DIS,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
+ETN|2026-08-17,consolidating,ETN,ESG,E,2026-08-17,,,,,,True,Industrials,stock,S&P 500
 GEV|2026-08-17,consolidating,GEV,General,,2026-08-17,,,,,,,Industrials,stock,S&P 500
 GE|2026-08-17,consolidating,GE,General,,2026-08-17,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-08-17,consolidating,GOOGL,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-17,consolidating,GS,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-17,consolidating,INTC,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
+JPM|2026-08-17,consolidating,JPM,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
+LRCX|2026-08-17,consolidating,LRCX,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
+MA|2026-08-17,consolidating,MA,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
 META|2026-08-17,consolidating,META,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-08-17,consolidating,MPC,General,,2026-08-17,,,,,,,Energy,stock,S&P 500
 MSFT|2026-08-17,consolidating,MSFT,ESG,E,2026-08-17,,,,,,False,Information Technology,stock,S&P 500
@@ -30,9 +43,11 @@ TMUS|2026-08-17,consolidating,TMUS,General,,2026-08-17,,,,,,,Communication Servi
 TSLA|2026-08-17,consolidating,TSLA,General,,2026-08-17,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-17,consolidating,UBER,General,,2026-08-17,,,,,,,Industrials,stock,S&P 500
 UNP|2026-08-17,consolidating,UNP,ESG,S,2026-08-17,,,,,,True,Industrials,stock,S&P 500
+VLO|2026-08-17,consolidating,VLO,ESG,E,2026-08-17,,,,,,True,Energy,stock,S&P 500
 VRT|2026-08-17,consolidating,VRT,ESG,G,2026-08-17,,,,,,True,Industrials,stock,S&P 500
 V|2026-08-17,consolidating,V,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
-XOM|2026-08-17,consolidating,XOM,General,,2026-08-17,,,,,,,Energy,stock,S&P 500
+WFC|2026-08-17,consolidating,WFC,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
+XOM|2026-08-17,consolidating,XOM,ESG,E,2026-08-17,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-08-16,consolidating,AAPL,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-16,consolidating,AMAT,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-16,consolidating,AMD,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
