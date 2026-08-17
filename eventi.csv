@@ -2,10 +2,15 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-08-17,waiting,AAPL,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-17,waiting,AMD,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AVGO|2026-08-17,waiting,AVGO,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-08-17,waiting,CVX,General,,2026-08-17,,,,,,,Energy,stock,S&P 500
 GOOGL|2026-08-17,waiting,GOOGL,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
+GS|2026-08-17,waiting,GS,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-17,waiting,INTC,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
-NVDA|2026-08-17,waiting,NVDA,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
+MU|2026-08-17,waiting,MU,ESG,E,2026-08-17,,,,,,False,Information Technology,stock,S&P 500
+NFLX|2026-08-17,waiting,NFLX,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-08-17,waiting,NVDA,ESG,E,2026-08-17,,,,,,False,Information Technology,stock,S&P 500
 TMUS|2026-08-17,waiting,TMUS,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
+TSLA|2026-08-17,waiting,TSLA,General,,2026-08-17,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-17,waiting,UBER,General,,2026-08-17,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-08-16,waiting,AAPL,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-16,waiting,AMAT,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
