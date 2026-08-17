@@ -2,16 +2,25 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-08-17,waiting,AAPL,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-17,waiting,AMD,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AVGO|2026-08-17,waiting,AVGO,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
+BAC|2026-08-17,waiting,BAC,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
+BRK-B|2026-08-17,waiting,BRK-B,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
+COP|2026-08-17,waiting,COP,General,,2026-08-17,,,,,,,Energy,stock,S&P 500
 CVX|2026-08-17,waiting,CVX,General,,2026-08-17,,,,,,,Energy,stock,S&P 500
+C|2026-08-17,waiting,C,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
+DIS|2026-08-17,waiting,DIS,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
 GOOGL|2026-08-17,waiting,GOOGL,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-17,waiting,GS,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-17,waiting,INTC,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
+META|2026-08-17,waiting,META,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
 MU|2026-08-17,waiting,MU,ESG,E,2026-08-17,,,,,,False,Information Technology,stock,S&P 500
 NFLX|2026-08-17,waiting,NFLX,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-08-17,waiting,NVDA,ESG,E,2026-08-17,,,,,,False,Information Technology,stock,S&P 500
 TMUS|2026-08-17,waiting,TMUS,General,,2026-08-17,,,,,,,Communication Services,stock,S&P 500
 TSLA|2026-08-17,waiting,TSLA,General,,2026-08-17,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-17,waiting,UBER,General,,2026-08-17,,,,,,,Industrials,stock,S&P 500
+UNP|2026-08-17,waiting,UNP,ESG,S,2026-08-17,,,,,,True,Industrials,stock,S&P 500
+VRT|2026-08-17,waiting,VRT,ESG,G,2026-08-17,,,,,,True,Industrials,stock,S&P 500
+XOM|2026-08-17,waiting,XOM,General,,2026-08-17,,,,,,,Energy,stock,S&P 500
 AAPL|2026-08-16,waiting,AAPL,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-16,waiting,AMAT,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-16,waiting,AMD,General,,2026-08-16,,,,,,,Information Technology,stock,S&P 500
