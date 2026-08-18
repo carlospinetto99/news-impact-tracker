@@ -1,19 +1,27 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-08-18,waiting,AAPL,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-18,waiting,AMD,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
+BAC|2026-08-18,waiting,BAC,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
+BA|2026-08-18,waiting,BA,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
+BRK-B|2026-08-18,waiting,BRK-B,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
+CMCSA|2026-08-18,waiting,CMCSA,General,,2026-08-18,,,,,,,Communication Services,stock,S&P 500
+CSCO|2026-08-18,waiting,CSCO,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-08-18,waiting,CVX,General,,2026-08-18,,,,,,,Energy,stock,S&P 500
 GS|2026-08-18,waiting,GS,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
+META|2026-08-18,waiting,META,General,,2026-08-18,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-08-18,waiting,MSFT,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
 NVDA|2026-08-18,waiting,NVDA,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
 RTX|2026-08-18,waiting,RTX,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
-TSLA|2026-08-18,waiting,TSLA,General,,2026-08-18,,,,,,,Consumer Discretionary,stock,S&P 500
+TSLA|2026-08-18,waiting,TSLA,ESG,ES,2026-08-18,,,,,,True,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-18,waiting,UBER,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
 WFC|2026-08-18,waiting,WFC,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
+BA|2026-08-17,consolidating,BA,General,,2026-08-17,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-08-17,consolidating,AAPL,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-17,consolidating,AMAT,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-17,consolidating,AMD,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-17,consolidating,AMZN,General,,2026-08-17,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-08-17,consolidating,AVGO,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
 BAC|2026-08-17,consolidating,BAC,ESG,,2026-08-17,,,,,,,Financials,stock,S&P 500
-BA|2026-08-17,consolidating,BA,General,,2026-08-17,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-08-17,consolidating,BRK-B,General,,2026-08-17,,,,,,,Financials,stock,S&P 500
 COP|2026-08-17,consolidating,COP,General,,2026-08-17,,,,,,,Energy,stock,S&P 500
 CSCO|2026-08-17,consolidating,CSCO,General,,2026-08-17,,,,,,,Information Technology,stock,S&P 500
