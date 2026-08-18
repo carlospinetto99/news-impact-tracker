@@ -1,23 +1,29 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
-AAPL|2026-08-18,consolidating,AAPL,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
-AMAT|2026-08-18,consolidating,AMAT,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-08-19,waiting,AMD,General,,2026-08-19,,,,,,,Information Technology,stock,S&P 500
+META|2026-08-19,waiting,META,General,,2026-08-19,,,,,,,Communication Services,stock,S&P 500
+TSLA|2026-08-19,waiting,TSLA,General,,2026-08-19,,,,,,,Consumer Discretionary,stock,S&P 500
+AAPL|2026-08-18,consolidating,AAPL,ESG,G,2026-08-18,,,,,,True,Information Technology,stock,S&P 500
+AMAT|2026-08-18,consolidating,AMAT,ESG,E,2026-08-18,,,,,,False,Information Technology,stock,S&P 500
 AMD|2026-08-18,consolidating,AMD,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-18,consolidating,AMZN,General,,2026-08-18,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-08-18,consolidating,AVGO,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
 BAC|2026-08-18,consolidating,BAC,ESG,E,2026-08-18,,,,,,False,Financials,stock,S&P 500
 BA|2026-08-18,consolidating,BA,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-08-18,consolidating,BRK-B,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
+CAT|2026-08-18,consolidating,CAT,ESG,E,2026-08-18,,,,,,True,Industrials,stock,S&P 500
 CMCSA|2026-08-18,consolidating,CMCSA,General,,2026-08-18,,,,,,,Communication Services,stock,S&P 500
 CSCO|2026-08-18,consolidating,CSCO,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-08-18,consolidating,CVX,ESG,E,2026-08-18,,,,,,True,Energy,stock,S&P 500
 C|2026-08-18,consolidating,C,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
+DE|2026-08-18,consolidating,DE,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
 EQIX|2026-08-18,consolidating,EQIX,ESG,E,2026-08-18,,,,,,True,Real Estate,stock,S&P 500
+ETN|2026-08-18,consolidating,ETN,ESG,E,2026-08-18,,,,,,True,Industrials,stock,S&P 500
 GEV|2026-08-18,consolidating,GEV,ESG,E,2026-08-18,,,,,,True,Industrials,stock,S&P 500
-GE|2026-08-18,consolidating,GE,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
+GE|2026-08-18,consolidating,GE,ESG,E,2026-08-18,,,,,,True,Industrials,stock,S&P 500
 GOOGL|2026-08-18,consolidating,GOOGL,General,,2026-08-18,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-18,consolidating,GS,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-18,consolidating,INTC,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
-LRCX|2026-08-18,consolidating,LRCX,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
+LRCX|2026-08-18,consolidating,LRCX,ESG,E,2026-08-18,,,,,,False,Information Technology,stock,S&P 500
 MA|2026-08-18,consolidating,MA,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
 META|2026-08-18,consolidating,META,General,,2026-08-18,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-08-18,consolidating,MSFT,ESG,E,2026-08-18,,,,,,False,Information Technology,stock,S&P 500
@@ -27,11 +33,13 @@ NFLX|2026-08-18,consolidating,NFLX,General,,2026-08-18,,,,,,,Communication Servi
 NVDA|2026-08-18,consolidating,NVDA,General,,2026-08-18,,,,,,,Information Technology,stock,S&P 500
 PSX|2026-08-18,consolidating,PSX,General,,2026-08-18,,,,,,,Energy,stock,S&P 500
 RTX|2026-08-18,consolidating,RTX,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
+TMUS|2026-08-18,consolidating,TMUS,General,,2026-08-18,,,,,,,Communication Services,stock,S&P 500
 TSLA|2026-08-18,consolidating,TSLA,ESG,ES,2026-08-18,,,,,,True,Consumer Discretionary,stock,S&P 500
 TTWO|2026-08-18,consolidating,TTWO,General,,2026-08-18,,,,,,,Communication Services,stock,S&P 500
 UBER|2026-08-18,consolidating,UBER,General,,2026-08-18,,,,,,,Industrials,stock,S&P 500
 VLO|2026-08-18,consolidating,VLO,General,,2026-08-18,,,,,,,Energy,stock,S&P 500
 VRT|2026-08-18,consolidating,VRT,ESG,E,2026-08-18,,,,,,True,Industrials,stock,S&P 500
+V|2026-08-18,consolidating,V,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
 WFC|2026-08-18,consolidating,WFC,General,,2026-08-18,,,,,,,Financials,stock,S&P 500
 XOM|2026-08-18,consolidating,XOM,General,,2026-08-18,,,,,,,Energy,stock,S&P 500
 BA|2026-08-17,consolidating,BA,General,,2026-08-17,,,,,,,Industrials,stock,S&P 500
