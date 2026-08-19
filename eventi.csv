@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+MS|2026-08-20,waiting,MS,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-19,consolidating,AAPL,ESG,E,2026-08-19,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-08-19,consolidating,AMAT,General,,2026-08-19,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-19,consolidating,AMD,General,,2026-08-19,,,,,,,Information Technology,stock,S&P 500
@@ -8,7 +9,7 @@ AXP|2026-08-19,consolidating,AXP,General,,2026-08-19,,,,,,,Financials,stock,S&P 
 BAC|2026-08-19,consolidating,BAC,General,,2026-08-19,,,,,,,Financials,stock,S&P 500
 BA|2026-08-19,consolidating,BA,General,,2026-08-19,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-08-19,consolidating,BRK-B,General,,2026-08-19,,,,,,,Financials,stock,S&P 500
-CAT|2026-08-19,consolidating,CAT,ESG,E,2026-08-19,,,,,,True,Industrials,stock,S&P 500
+CAT|2026-08-19,consolidating,CAT,ESG,ES,2026-08-19,,,,,,True,Industrials,stock,S&P 500
 CMCSA|2026-08-19,consolidating,CMCSA,General,,2026-08-19,,,,,,,Communication Services,stock,S&P 500
 COP|2026-08-19,consolidating,COP,General,,2026-08-19,,,,,,,Energy,stock,S&P 500
 CSCO|2026-08-19,consolidating,CSCO,General,,2026-08-19,,,,,,,Information Technology,stock,S&P 500
