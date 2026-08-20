@@ -1,5 +1,20 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AMAT|2026-08-20,waiting,AMAT,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-08-20,waiting,AMD,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-20,waiting,AMZN,General,,2026-08-20,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-20,waiting,AVGO,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
+BAC|2026-08-20,waiting,BAC,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
+COP|2026-08-20,waiting,COP,General,,2026-08-20,,,,,,,Energy,stock,S&P 500
+C|2026-08-20,waiting,C,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
+GS|2026-08-20,waiting,GS,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
+INTC|2026-08-20,waiting,INTC,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
+JPM|2026-08-20,waiting,JPM,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
+MPC|2026-08-20,waiting,MPC,General,,2026-08-20,,,,,,,Energy,stock,S&P 500
 MS|2026-08-20,waiting,MS,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
+NVDA|2026-08-20,waiting,NVDA,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-08-20,waiting,TSLA,General,,2026-08-20,,,,,,,Consumer Discretionary,stock,S&P 500
+UNP|2026-08-20,waiting,UNP,ESG,GS,2026-08-20,,,,,,True,Industrials,stock,S&P 500
+WFC|2026-08-20,waiting,WFC,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-19,consolidating,AAPL,ESG,E,2026-08-19,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-08-19,consolidating,AMAT,General,,2026-08-19,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-19,consolidating,AMD,General,,2026-08-19,,,,,,,Information Technology,stock,S&P 500
