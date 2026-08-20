@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-20,waiting,AAPL,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-20,waiting,AMAT,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-20,waiting,AMD,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-20,waiting,AMZN,General,,2026-08-20,,,,,,,Consumer Discretionary,stock,S&P 500
@@ -6,21 +7,25 @@ AVGO|2026-08-20,waiting,AVGO,General,,2026-08-20,,,,,,,Information Technology,st
 BAC|2026-08-20,waiting,BAC,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
 CAT|2026-08-20,waiting,CAT,General,,2026-08-20,,,,,,,Industrials,stock,S&P 500
 COP|2026-08-20,waiting,COP,General,,2026-08-20,,,,,,,Energy,stock,S&P 500
+CSCO|2026-08-20,waiting,CSCO,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-08-20,waiting,CVX,ESG,E,2026-08-20,,,,,,True,Energy,stock,S&P 500
 C|2026-08-20,waiting,C,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
+DE|2026-08-20,waiting,DE,General,,2026-08-20,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-08-20,waiting,GOOGL,General,,2026-08-20,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-20,waiting,GS,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-20,waiting,INTC,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
 JPM|2026-08-20,waiting,JPM,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
 META|2026-08-20,waiting,META,General,,2026-08-20,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-08-20,waiting,MPC,General,,2026-08-20,,,,,,,Energy,stock,S&P 500
-MSFT|2026-08-20,waiting,MSFT,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
+MSFT|2026-08-20,waiting,MSFT,ESG,E,2026-08-20,,,,,,False,Information Technology,stock,S&P 500
 MS|2026-08-20,waiting,MS,ESG,E,2026-08-20,,,,,,False,Financials,stock,S&P 500
 NFLX|2026-08-20,waiting,NFLX,General,,2026-08-20,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-08-20,waiting,NVDA,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
 RTX|2026-08-20,waiting,RTX,General,,2026-08-20,,,,,,,Industrials,stock,S&P 500
 TSLA|2026-08-20,waiting,TSLA,General,,2026-08-20,,,,,,,Consumer Discretionary,stock,S&P 500
 UNP|2026-08-20,waiting,UNP,ESG,GS,2026-08-20,,,,,,True,Industrials,stock,S&P 500
+VLO|2026-08-20,waiting,VLO,ESG,E,2026-08-20,,,,,,True,Energy,stock,S&P 500
+V|2026-08-20,waiting,V,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
 WFC|2026-08-20,waiting,WFC,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-19,consolidating,AAPL,ESG,E,2026-08-19,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-08-19,consolidating,AMAT,General,,2026-08-19,,,,,,,Information Technology,stock,S&P 500
