@@ -14,9 +14,11 @@ INTC|2026-08-20,waiting,INTC,General,,2026-08-20,,,,,,,Information Technology,st
 JPM|2026-08-20,waiting,JPM,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
 META|2026-08-20,waiting,META,General,,2026-08-20,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-08-20,waiting,MPC,General,,2026-08-20,,,,,,,Energy,stock,S&P 500
+MSFT|2026-08-20,waiting,MSFT,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
 MS|2026-08-20,waiting,MS,ESG,E,2026-08-20,,,,,,False,Financials,stock,S&P 500
 NFLX|2026-08-20,waiting,NFLX,General,,2026-08-20,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-08-20,waiting,NVDA,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
+RTX|2026-08-20,waiting,RTX,General,,2026-08-20,,,,,,,Industrials,stock,S&P 500
 TSLA|2026-08-20,waiting,TSLA,General,,2026-08-20,,,,,,,Consumer Discretionary,stock,S&P 500
 UNP|2026-08-20,waiting,UNP,ESG,GS,2026-08-20,,,,,,True,Industrials,stock,S&P 500
 WFC|2026-08-20,waiting,WFC,General,,2026-08-20,,,,,,,Financials,stock,S&P 500
