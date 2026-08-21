@@ -1,7 +1,28 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-21,waiting,AAPL,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-08-21,waiting,AMAT,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-08-21,waiting,AMD,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-21,waiting,AMZN,General,,2026-08-21,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-21,waiting,AVGO,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
+AXP|2026-08-21,waiting,AXP,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
 BAC|2026-08-21,waiting,BAC,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
-MS|2026-08-21,waiting,MS,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
+BA|2026-08-21,waiting,BA,General,,2026-08-21,,,,,,,Industrials,stock,S&P 500
+DE|2026-08-21,waiting,DE,General,,2026-08-21,,,,,,,Industrials,stock,S&P 500
+DIS|2026-08-21,waiting,DIS,ESG,S,2026-08-21,,,,,,True,Communication Services,stock,S&P 500
+ETN|2026-08-21,waiting,ETN,General,,2026-08-21,,,,,,,Industrials,stock,S&P 500
+GOOGL|2026-08-21,waiting,GOOGL,General,,2026-08-21,,,,,,,Communication Services,stock,S&P 500
+GS|2026-08-21,waiting,GS,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
+INTC|2026-08-21,waiting,INTC,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
+LRCX|2026-08-21,waiting,LRCX,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
+MA|2026-08-21,waiting,MA,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
+MPC|2026-08-21,waiting,MPC,General,,2026-08-21,,,,,,,Energy,stock,S&P 500
+MS|2026-08-21,waiting,MS,ESG,S,2026-08-21,,,,,,False,Financials,stock,S&P 500
+NFLX|2026-08-21,waiting,NFLX,General,,2026-08-21,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-08-21,waiting,NVDA,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
+PSX|2026-08-21,waiting,PSX,General,,2026-08-21,,,,,,,Energy,stock,S&P 500
 TSLA|2026-08-21,waiting,TSLA,General,,2026-08-21,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-08-21,waiting,UBER,General,,2026-08-21,,,,,,,Industrials,stock,S&P 500
+V|2026-08-21,waiting,V,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-20,consolidating,AAPL,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-08-20,consolidating,AMAT,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-20,consolidating,AMD,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
