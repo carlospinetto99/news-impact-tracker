@@ -8,6 +8,7 @@ AXP|2026-08-21,waiting,AXP,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
 BAC|2026-08-21,waiting,BAC,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
 BA|2026-08-21,waiting,BA,General,,2026-08-21,,,,,,,Industrials,stock,S&P 500
 CMCSA|2026-08-21,waiting,CMCSA,General,,2026-08-21,,,,,,,Communication Services,stock,S&P 500
+COP|2026-08-21,waiting,COP,General,,2026-08-21,,,,,,,Energy,stock,S&P 500
 DE|2026-08-21,waiting,DE,General,,2026-08-21,,,,,,,Industrials,stock,S&P 500
 DIS|2026-08-21,waiting,DIS,ESG,S,2026-08-21,,,,,,True,Communication Services,stock,S&P 500
 ETN|2026-08-21,waiting,ETN,General,,2026-08-21,,,,,,,Industrials,stock,S&P 500
@@ -16,6 +17,7 @@ GS|2026-08-21,waiting,GS,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-21,waiting,INTC,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
 LRCX|2026-08-21,waiting,LRCX,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
 MA|2026-08-21,waiting,MA,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
+META|2026-08-21,waiting,META,General,,2026-08-21,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-08-21,waiting,MPC,General,,2026-08-21,,,,,,,Energy,stock,S&P 500
 MSFT|2026-08-21,waiting,MSFT,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
 MS|2026-08-21,waiting,MS,ESG,S,2026-08-21,,,,,,False,Financials,stock,S&P 500
@@ -25,6 +27,7 @@ NVDA|2026-08-21,waiting,NVDA,General,,2026-08-21,,,,,,,Information Technology,st
 PSX|2026-08-21,waiting,PSX,General,,2026-08-21,,,,,,,Energy,stock,S&P 500
 TSLA|2026-08-21,waiting,TSLA,General,,2026-08-21,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-21,waiting,UBER,General,,2026-08-21,,,,,,,Industrials,stock,S&P 500
+VRT|2026-08-21,waiting,VRT,General,,2026-08-21,,,,,,,Industrials,stock,S&P 500
 V|2026-08-21,waiting,V,General,,2026-08-21,,,,,,,Financials,stock,S&P 500
 XOM|2026-08-21,waiting,XOM,ESG,E,2026-08-21,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-08-20,consolidating,AAPL,General,,2026-08-20,,,,,,,Information Technology,stock,S&P 500
