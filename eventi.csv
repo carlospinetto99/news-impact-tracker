@@ -8,6 +8,7 @@ BA|2026-08-22,waiting,BA,ESG,S,2026-08-22,,,,,,True,Industrials,stock,S&P 500
 BRK-B|2026-08-22,waiting,BRK-B,General,,2026-08-22,,,,,,,Financials,stock,S&P 500
 COP|2026-08-22,waiting,COP,General,,2026-08-22,,,,,,,Energy,stock,S&P 500
 DE|2026-08-22,waiting,DE,General,,2026-08-22,,,,,,,Industrials,stock,S&P 500
+EOG|2026-08-22,waiting,EOG,General,,2026-08-22,,,,,,,Energy,stock,S&P 500
 GE|2026-08-22,waiting,GE,ESG,E,2026-08-22,,,,,,True,Industrials,stock,S&P 500
 GOOGL|2026-08-22,waiting,GOOGL,General,,2026-08-22,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-22,waiting,GS,General,,2026-08-22,,,,,,,Financials,stock,S&P 500
@@ -20,6 +21,7 @@ NVDA|2026-08-22,waiting,NVDA,ESG,E,2026-08-22,,,,,,False,Information Technology,
 TSLA|2026-08-22,waiting,TSLA,General,,2026-08-22,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-22,waiting,UBER,General,,2026-08-22,,,,,,,Industrials,stock,S&P 500
 VRT|2026-08-22,waiting,VRT,General,,2026-08-22,,,,,,,Industrials,stock,S&P 500
+XOM|2026-08-22,waiting,XOM,General,,2026-08-22,,,,,,,Energy,stock,S&P 500
 AAPL|2026-08-21,consolidating,AAPL,ESG,ES,2026-08-21,,,,,,True,Information Technology,stock,S&P 500
 AMAT|2026-08-21,consolidating,AMAT,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-21,consolidating,AMD,ESG,E,2026-08-21,,,,,,False,Information Technology,stock,S&P 500
