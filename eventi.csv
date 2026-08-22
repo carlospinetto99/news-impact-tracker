@@ -6,6 +6,7 @@ AVGO|2026-08-22,waiting,AVGO,General,,2026-08-22,,,,,,,Information Technology,st
 BAC|2026-08-22,waiting,BAC,ESG,G,2026-08-22,,,,,,True,Financials,stock,S&P 500
 BA|2026-08-22,waiting,BA,ESG,S,2026-08-22,,,,,,True,Industrials,stock,S&P 500
 BRK-B|2026-08-22,waiting,BRK-B,General,,2026-08-22,,,,,,,Financials,stock,S&P 500
+CMCSA|2026-08-22,waiting,CMCSA,General,,2026-08-22,,,,,,,Communication Services,stock,S&P 500
 COP|2026-08-22,waiting,COP,General,,2026-08-22,,,,,,,Energy,stock,S&P 500
 C|2026-08-22,waiting,C,General,,2026-08-22,,,,,,,Financials,stock,S&P 500
 DE|2026-08-22,waiting,DE,General,,2026-08-22,,,,,,,Industrials,stock,S&P 500
@@ -22,6 +23,7 @@ NVDA|2026-08-22,waiting,NVDA,ESG,E,2026-08-22,,,,,,False,Information Technology,
 TSLA|2026-08-22,waiting,TSLA,General,,2026-08-22,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-22,waiting,UBER,General,,2026-08-22,,,,,,,Industrials,stock,S&P 500
 VRT|2026-08-22,waiting,VRT,General,,2026-08-22,,,,,,,Industrials,stock,S&P 500
+V|2026-08-22,waiting,V,General,,2026-08-22,,,,,,,Financials,stock,S&P 500
 XOM|2026-08-22,waiting,XOM,General,,2026-08-22,,,,,,,Energy,stock,S&P 500
 AAPL|2026-08-21,consolidating,AAPL,ESG,ES,2026-08-21,,,,,,True,Information Technology,stock,S&P 500
 AMAT|2026-08-21,consolidating,AMAT,General,,2026-08-21,,,,,,,Information Technology,stock,S&P 500
