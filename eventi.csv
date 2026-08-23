@@ -1,4 +1,13 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-23,waiting,AAPL,General,,2026-08-23,,,,,,,Information Technology,stock,S&P 500
+CSCO|2026-08-23,waiting,CSCO,General,,2026-08-23,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-08-23,waiting,CVX,General,,2026-08-23,,,,,,,Energy,stock,S&P 500
+DIS|2026-08-23,waiting,DIS,General,,2026-08-23,,,,,,,Communication Services,stock,S&P 500
+JPM|2026-08-23,waiting,JPM,General,,2026-08-23,,,,,,,Financials,stock,S&P 500
+MSFT|2026-08-23,waiting,MSFT,General,,2026-08-23,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-08-23,waiting,NVDA,ESG,E,2026-08-23,,,,,,False,Information Technology,stock,S&P 500
+TSLA|2026-08-23,waiting,TSLA,General,,2026-08-23,,,,,,,Consumer Discretionary,stock,S&P 500
+WFC|2026-08-23,waiting,WFC,General,,2026-08-23,,,,,,,Financials,stock,S&P 500
 AAPL|2026-08-22,waiting,AAPL,General,,2026-08-22,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-22,waiting,AMD,ESG,G,2026-08-22,,,,,,True,Information Technology,stock,S&P 500
 AMZN|2026-08-22,waiting,AMZN,General,,2026-08-22,,,,,,,Consumer Discretionary,stock,S&P 500
