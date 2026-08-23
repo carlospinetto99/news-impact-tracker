@@ -1,5 +1,6 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-08-23,waiting,AAPL,General,,2026-08-23,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-23,waiting,AMZN,General,,2026-08-23,,,,,,,Consumer Discretionary,stock,S&P 500
 CSCO|2026-08-23,waiting,CSCO,General,,2026-08-23,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-08-23,waiting,CVX,General,,2026-08-23,,,,,,,Energy,stock,S&P 500
 DIS|2026-08-23,waiting,DIS,General,,2026-08-23,,,,,,,Communication Services,stock,S&P 500
