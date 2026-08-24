@@ -2,6 +2,7 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AMZN|2026-08-24,waiting,AMZN,General,,2026-08-24,,,,,,,Consumer Discretionary,stock,S&P 500
 GS|2026-08-24,waiting,GS,General,,2026-08-24,,,,,,,Financials,stock,S&P 500
 NVDA|2026-08-24,waiting,NVDA,General,,2026-08-24,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-08-24,waiting,TSLA,General,,2026-08-24,,,,,,,Consumer Discretionary,stock,S&P 500
 AAPL|2026-08-23,waiting,AAPL,General,,2026-08-23,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-23,waiting,AMZN,General,,2026-08-23,,,,,,,Consumer Discretionary,stock,S&P 500
 CSCO|2026-08-23,waiting,CSCO,General,,2026-08-23,,,,,,,Information Technology,stock,S&P 500
