@@ -1,10 +1,24 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-24,waiting,AAPL,General,,2026-08-24,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-24,waiting,AMZN,General,,2026-08-24,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-24,waiting,AVGO,General,,2026-08-24,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-08-24,waiting,CVX,General,,2026-08-24,,,,,,,Energy,stock,S&P 500
 DE|2026-08-24,waiting,DE,General,,2026-08-24,,,,,,,Industrials,stock,S&P 500
+GEV|2026-08-24,waiting,GEV,ESG,E,2026-08-24,,,,,,True,Industrials,stock,S&P 500
+GOOG|2026-08-24,waiting,GOOG,ESG,E,2026-08-24,,,,,,False,Communication Services,stock,S&P 500
 GS|2026-08-24,waiting,GS,General,,2026-08-24,,,,,,,Financials,stock,S&P 500
-MS|2026-08-24,waiting,MS,General,,2026-08-24,,,,,,,Financials,stock,S&P 500
+LRCX|2026-08-24,waiting,LRCX,General,,2026-08-24,,,,,,,Information Technology,stock,S&P 500
+MA|2026-08-24,waiting,MA,General,,2026-08-24,,,,,,,Financials,stock,S&P 500
+META|2026-08-24,waiting,META,General,,2026-08-24,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-08-24,waiting,MSFT,General,,2026-08-24,,,,,,,Information Technology,stock,S&P 500
+MS|2026-08-24,waiting,MS,ESG,E,2026-08-24,,,,,,False,Financials,stock,S&P 500
+NFLX|2026-08-24,waiting,NFLX,ESG,E,2026-08-24,,,,,,False,Communication Services,stock,S&P 500
 NVDA|2026-08-24,waiting,NVDA,General,,2026-08-24,,,,,,,Information Technology,stock,S&P 500
+PSX|2026-08-24,waiting,PSX,General,,2026-08-24,,,,,,,Energy,stock,S&P 500
 TSLA|2026-08-24,waiting,TSLA,General,,2026-08-24,,,,,,,Consumer Discretionary,stock,S&P 500
+V|2026-08-24,waiting,V,General,,2026-08-24,,,,,,,Financials,stock,S&P 500
+WFC|2026-08-24,waiting,WFC,General,,2026-08-24,,,,,,,Financials,stock,S&P 500
+XOM|2026-08-24,waiting,XOM,General,,2026-08-24,,,,,,,Energy,stock,S&P 500
 AAPL|2026-08-23,waiting,AAPL,General,,2026-08-23,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-23,waiting,AMZN,General,,2026-08-23,,,,,,,Consumer Discretionary,stock,S&P 500
 CSCO|2026-08-23,waiting,CSCO,General,,2026-08-23,,,,,,,Information Technology,stock,S&P 500
