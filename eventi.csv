@@ -1,21 +1,23 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-08-25,consolidating,AAPL,General,,2026-08-25,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-08-25,consolidating,AMD,ESG,E,2026-08-25,,,,,,False,Information Technology,stock,S&P 500
+AMD|2026-08-25,consolidating,AMD,ESG,EG,2026-08-25,,,,,,True,Information Technology,stock,S&P 500
 AMZN|2026-08-25,consolidating,AMZN,General,,2026-08-25,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-08-25,consolidating,AVGO,ESG,G,2026-08-25,,,,,,True,Information Technology,stock,S&P 500
 AXP|2026-08-25,consolidating,AXP,General,,2026-08-25,,,,,,,Financials,stock,S&P 500
 BA|2026-08-25,consolidating,BA,General,,2026-08-25,,,,,,,Industrials,stock,S&P 500
 CAT|2026-08-25,consolidating,CAT,General,,2026-08-25,,,,,,,Industrials,stock,S&P 500
+COP|2026-08-25,consolidating,COP,General,,2026-08-25,,,,,,,Energy,stock,S&P 500
 CSCO|2026-08-25,consolidating,CSCO,General,,2026-08-25,,,,,,,Information Technology,stock,S&P 500
-CVX|2026-08-25,consolidating,CVX,General,,2026-08-25,,,,,,,Energy,stock,S&P 500
+CVX|2026-08-25,consolidating,CVX,ESG,E,2026-08-25,,,,,,True,Energy,stock,S&P 500
 C|2026-08-25,consolidating,C,General,,2026-08-25,,,,,,,Financials,stock,S&P 500
 DE|2026-08-25,consolidating,DE,General,,2026-08-25,,,,,,,Industrials,stock,S&P 500
 ETN|2026-08-25,consolidating,ETN,General,,2026-08-25,,,,,,,Industrials,stock,S&P 500
 GEV|2026-08-25,consolidating,GEV,ESG,E,2026-08-25,,,,,,True,Industrials,stock,S&P 500
+GE|2026-08-25,consolidating,GE,General,,2026-08-25,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-08-25,consolidating,GOOGL,General,,2026-08-25,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-25,consolidating,GS,General,,2026-08-25,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-25,consolidating,INTC,ESG,G,2026-08-25,,,,,,True,Information Technology,stock,S&P 500
-JPM|2026-08-25,consolidating,JPM,General,,2026-08-25,,,,,,,Financials,stock,S&P 500
+JPM|2026-08-25,consolidating,JPM,ESG,E,2026-08-25,,,,,,False,Financials,stock,S&P 500
 MA|2026-08-25,consolidating,MA,General,,2026-08-25,,,,,,,Financials,stock,S&P 500
 META|2026-08-25,consolidating,META,ESG,E,2026-08-25,,,,,,False,Communication Services,stock,S&P 500
 MPC|2026-08-25,consolidating,MPC,General,,2026-08-25,,,,,,,Energy,stock,S&P 500
