@@ -2,20 +2,29 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-08-26,waiting,AAPL,General,,2026-08-26,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-26,waiting,AMD,General,,2026-08-26,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-26,waiting,AMZN,General,,2026-08-26,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-26,waiting,AVGO,General,,2026-08-26,,,,,,,Information Technology,stock,S&P 500
 BAC|2026-08-26,waiting,BAC,ESG,G,2026-08-26,,,,,,True,Financials,stock,S&P 500
 BA|2026-08-26,waiting,BA,General,,2026-08-26,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-08-26,waiting,BRK-B,General,,2026-08-26,,,,,,,Financials,stock,S&P 500
+COP|2026-08-26,waiting,COP,General,,2026-08-26,,,,,,,Energy,stock,S&P 500
 CVX|2026-08-26,waiting,CVX,ESG,ES,2026-08-26,,,,,,True,Energy,stock,S&P 500
 C|2026-08-26,waiting,C,ESG,E,2026-08-26,,,,,,False,Financials,stock,S&P 500
 DIS|2026-08-26,waiting,DIS,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
+GOOG|2026-08-26,waiting,GOOG,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-26,waiting,GS,General,,2026-08-26,,,,,,,Financials,stock,S&P 500
 META|2026-08-26,waiting,META,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
-MS|2026-08-26,waiting,MS,General,,2026-08-26,,,,,,,Financials,stock,S&P 500
+MPC|2026-08-26,waiting,MPC,ESG,E,2026-08-26,,,,,,True,Energy,stock,S&P 500
+MS|2026-08-26,waiting,MS,ESG,E,2026-08-26,,,,,,False,Financials,stock,S&P 500
 NVDA|2026-08-26,waiting,NVDA,General,,2026-08-26,,,,,,,Information Technology,stock,S&P 500
 PSX|2026-08-26,waiting,PSX,General,,2026-08-26,,,,,,,Energy,stock,S&P 500
 RTX|2026-08-26,waiting,RTX,General,,2026-08-26,,,,,,,Industrials,stock,S&P 500
 SLB|2026-08-26,waiting,SLB,General,,2026-08-26,,,,,,,Energy,stock,S&P 500
 TSLA|2026-08-26,waiting,TSLA,ESG,E,2026-08-26,,,,,,False,Consumer Discretionary,stock,S&P 500
+UBER|2026-08-26,waiting,UBER,General,,2026-08-26,,,,,,,Industrials,stock,S&P 500
+VLO|2026-08-26,waiting,VLO,ESG,E,2026-08-26,,,,,,True,Energy,stock,S&P 500
+WBD|2026-08-26,waiting,WBD,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
+WFC|2026-08-26,waiting,WFC,General,,2026-08-26,,,,,,,Financials,stock,S&P 500
+XOM|2026-08-26,waiting,XOM,ESG,E,2026-08-26,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-08-25,consolidating,AAPL,General,,2026-08-25,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-25,consolidating,AMD,ESG,EG,2026-08-25,,,,,,True,Information Technology,stock,S&P 500
 AMZN|2026-08-25,consolidating,AMZN,General,,2026-08-25,,,,,,,Consumer Discretionary,stock,S&P 500
@@ -34,7 +43,7 @@ GE|2026-08-25,consolidating,GE,General,,2026-08-25,,,,,,,Industrials,stock,S&P 5
 GOOGL|2026-08-25,consolidating,GOOGL,General,,2026-08-25,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-25,consolidating,GS,General,,2026-08-25,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-25,consolidating,INTC,ESG,G,2026-08-25,,,,,,True,Information Technology,stock,S&P 500
-JPM|2026-08-25,consolidating,JPM,ESG,E,2026-08-25,,,,,,False,Financials,stock,S&P 500
+JPM|2026-08-25,consolidating,JPM,ESG,ES,2026-08-25,,,,,,False,Financials,stock,S&P 500
 MA|2026-08-25,consolidating,MA,General,,2026-08-25,,,,,,,Financials,stock,S&P 500
 META|2026-08-25,consolidating,META,ESG,E,2026-08-25,,,,,,False,Communication Services,stock,S&P 500
 MPC|2026-08-25,consolidating,MPC,General,,2026-08-25,,,,,,,Energy,stock,S&P 500
