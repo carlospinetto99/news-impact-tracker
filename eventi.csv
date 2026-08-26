@@ -10,8 +10,10 @@ COP|2026-08-26,waiting,COP,General,,2026-08-26,,,,,,,Energy,stock,S&P 500
 CVX|2026-08-26,waiting,CVX,ESG,ES,2026-08-26,,,,,,True,Energy,stock,S&P 500
 C|2026-08-26,waiting,C,ESG,E,2026-08-26,,,,,,False,Financials,stock,S&P 500
 DIS|2026-08-26,waiting,DIS,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
+ETN|2026-08-26,waiting,ETN,General,,2026-08-26,,,,,,,Industrials,stock,S&P 500
 GOOG|2026-08-26,waiting,GOOG,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
 GS|2026-08-26,waiting,GS,General,,2026-08-26,,,,,,,Financials,stock,S&P 500
+INTC|2026-08-26,waiting,INTC,General,,2026-08-26,,,,,,,Information Technology,stock,S&P 500
 META|2026-08-26,waiting,META,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-08-26,waiting,MPC,ESG,E,2026-08-26,,,,,,True,Energy,stock,S&P 500
 MSFT|2026-08-26,waiting,MSFT,General,,2026-08-26,,,,,,,Information Technology,stock,S&P 500
@@ -25,6 +27,7 @@ SLB|2026-08-26,waiting,SLB,General,,2026-08-26,,,,,,,Energy,stock,S&P 500
 TSLA|2026-08-26,waiting,TSLA,ESG,E,2026-08-26,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-08-26,waiting,UBER,General,,2026-08-26,,,,,,,Industrials,stock,S&P 500
 VLO|2026-08-26,waiting,VLO,ESG,E,2026-08-26,,,,,,True,Energy,stock,S&P 500
+VRT|2026-08-26,waiting,VRT,ESG,E,2026-08-26,,,,,,True,Industrials,stock,S&P 500
 WBD|2026-08-26,waiting,WBD,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
 WFC|2026-08-26,waiting,WFC,General,,2026-08-26,,,,,,,Financials,stock,S&P 500
 XOM|2026-08-26,waiting,XOM,ESG,E,2026-08-26,,,,,,True,Energy,stock,S&P 500
