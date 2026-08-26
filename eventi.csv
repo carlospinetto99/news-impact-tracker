@@ -14,8 +14,11 @@ GOOG|2026-08-26,waiting,GOOG,General,,2026-08-26,,,,,,,Communication Services,st
 GS|2026-08-26,waiting,GS,General,,2026-08-26,,,,,,,Financials,stock,S&P 500
 META|2026-08-26,waiting,META,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-08-26,waiting,MPC,ESG,E,2026-08-26,,,,,,True,Energy,stock,S&P 500
+MSFT|2026-08-26,waiting,MSFT,General,,2026-08-26,,,,,,,Information Technology,stock,S&P 500
 MS|2026-08-26,waiting,MS,ESG,E,2026-08-26,,,,,,False,Financials,stock,S&P 500
-NVDA|2026-08-26,waiting,NVDA,General,,2026-08-26,,,,,,,Information Technology,stock,S&P 500
+MU|2026-08-26,waiting,MU,General,,2026-08-26,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-08-26,waiting,NFLX,General,,2026-08-26,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-08-26,waiting,NVDA,ESG,E,2026-08-26,,,,,,False,Information Technology,stock,S&P 500
 PSX|2026-08-26,waiting,PSX,General,,2026-08-26,,,,,,,Energy,stock,S&P 500
 RTX|2026-08-26,waiting,RTX,General,,2026-08-26,,,,,,,Industrials,stock,S&P 500
 SLB|2026-08-26,waiting,SLB,General,,2026-08-26,,,,,,,Energy,stock,S&P 500
