@@ -6,14 +6,17 @@ CVX|2026-08-29,waiting,CVX,ESG,E,2026-08-29,,,,,,True,Energy,stock,S&P 500
 C|2026-08-29,waiting,C,General,,2026-08-29,,,,,,,Financials,stock,S&P 500
 DIS|2026-08-29,waiting,DIS,General,,2026-08-29,,,,,,,Communication Services,stock,S&P 500
 ETN|2026-08-29,waiting,ETN,General,,2026-08-29,,,,,,,Industrials,stock,S&P 500
-GEV|2026-08-29,waiting,GEV,General,,2026-08-29,,,,,,,Industrials,stock,S&P 500
-GE|2026-08-29,waiting,GE,General,,2026-08-29,,,,,,,Industrials,stock,S&P 500
+GEV|2026-08-29,waiting,GEV,ESG,E,2026-08-29,,,,,,True,Industrials,stock,S&P 500
+GE|2026-08-29,waiting,GE,ESG,E,2026-08-29,,,,,,True,Industrials,stock,S&P 500
 GOOGL|2026-08-29,waiting,GOOGL,ESG,E,2026-08-29,,,,,,False,Communication Services,stock,S&P 500
+GS|2026-08-29,waiting,GS,General,,2026-08-29,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-29,waiting,INTC,ESG,G,2026-08-29,,,,,,True,Information Technology,stock,S&P 500
 MA|2026-08-29,waiting,MA,General,,2026-08-29,,,,,,,Financials,stock,S&P 500
 META|2026-08-29,waiting,META,ESG,GS,2026-08-29,,,,,,True,Communication Services,stock,S&P 500
 MSFT|2026-08-29,waiting,MSFT,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
+MU|2026-08-29,waiting,MU,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
 SLB|2026-08-29,waiting,SLB,General,,2026-08-29,,,,,,,Energy,stock,S&P 500
+UBER|2026-08-29,waiting,UBER,General,,2026-08-29,,,,,,,Industrials,stock,S&P 500
 VLO|2026-08-29,waiting,VLO,ESG,E,2026-08-29,,,,,,True,Energy,stock,S&P 500
 VRT|2026-08-29,waiting,VRT,General,,2026-08-29,,,,,,,Industrials,stock,S&P 500
 V|2026-08-29,waiting,V,General,,2026-08-29,,,,,,,Financials,stock,S&P 500
