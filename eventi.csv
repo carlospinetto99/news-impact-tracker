@@ -1,5 +1,9 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+META|2026-08-30,waiting,META,General,,2026-08-30,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-08-30,waiting,NVDA,General,,2026-08-30,,,,,,,Information Technology,stock,S&P 500
+TMUS|2026-08-30,waiting,TMUS,General,,2026-08-30,,,,,,,Communication Services,stock,S&P 500
 AAPL|2026-08-29,waiting,AAPL,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-29,waiting,AMZN,General,,2026-08-29,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-08-29,waiting,AVGO,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
 BAC|2026-08-29,waiting,BAC,General,,2026-08-29,,,,,,,Financials,stock,S&P 500
 CVX|2026-08-29,waiting,CVX,ESG,E,2026-08-29,,,,,,True,Energy,stock,S&P 500
@@ -12,12 +16,15 @@ GE|2026-08-29,waiting,GE,ESG,E,2026-08-29,,,,,,True,Industrials,stock,S&P 500
 GOOGL|2026-08-29,waiting,GOOGL,ESG,E,2026-08-29,,,,,,False,Communication Services,stock,S&P 500
 GS|2026-08-29,waiting,GS,General,,2026-08-29,,,,,,,Financials,stock,S&P 500
 INTC|2026-08-29,waiting,INTC,ESG,G,2026-08-29,,,,,,True,Information Technology,stock,S&P 500
+KMI|2026-08-29,waiting,KMI,General,,2026-08-29,,,,,,,Energy,stock,S&P 500
 MA|2026-08-29,waiting,MA,General,,2026-08-29,,,,,,,Financials,stock,S&P 500
 META|2026-08-29,waiting,META,ESG,GS,2026-08-29,,,,,,True,Communication Services,stock,S&P 500
 MSFT|2026-08-29,waiting,MSFT,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
+MS|2026-08-29,waiting,MS,ESG,S,2026-08-29,,,,,,False,Financials,stock,S&P 500
 MU|2026-08-29,waiting,MU,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
 NVDA|2026-08-29,waiting,NVDA,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
 SLB|2026-08-29,waiting,SLB,General,,2026-08-29,,,,,,,Energy,stock,S&P 500
+TTWO|2026-08-29,waiting,TTWO,General,,2026-08-29,,,,,,,Communication Services,stock,S&P 500
 UBER|2026-08-29,waiting,UBER,General,,2026-08-29,,,,,,,Industrials,stock,S&P 500
 VLO|2026-08-29,waiting,VLO,ESG,E,2026-08-29,,,,,,True,Energy,stock,S&P 500
 VRT|2026-08-29,waiting,VRT,General,,2026-08-29,,,,,,,Industrials,stock,S&P 500
