@@ -1,8 +1,14 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-08-30,waiting,AAPL,General,,2026-08-30,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-08-30,waiting,AMZN,General,,2026-08-30,,,,,,,Consumer Discretionary,stock,S&P 500
+KMI|2026-08-30,waiting,KMI,General,,2026-08-30,,,,,,,Energy,stock,S&P 500
 META|2026-08-30,waiting,META,General,,2026-08-30,,,,,,,Communication Services,stock,S&P 500
+MS|2026-08-30,waiting,MS,General,,2026-08-30,,,,,,,Financials,stock,S&P 500
 NVDA|2026-08-30,waiting,NVDA,General,,2026-08-30,,,,,,,Information Technology,stock,S&P 500
 TMUS|2026-08-30,waiting,TMUS,General,,2026-08-30,,,,,,,Communication Services,stock,S&P 500
+TTWO|2026-08-30,waiting,TTWO,General,,2026-08-30,,,,,,,Communication Services,stock,S&P 500
 AAPL|2026-08-29,waiting,AAPL,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-08-29,waiting,AMD,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-29,waiting,AMZN,General,,2026-08-29,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-08-29,waiting,AVGO,General,,2026-08-29,,,,,,,Information Technology,stock,S&P 500
 BAC|2026-08-29,waiting,BAC,General,,2026-08-29,,,,,,,Financials,stock,S&P 500
