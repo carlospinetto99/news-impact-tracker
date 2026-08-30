@@ -1,7 +1,10 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+META|2026-08-31,waiting,META,General,,2026-08-31,,,,,,,Communication Services,stock,S&P 500
+NFLX|2026-08-31,waiting,NFLX,General,,2026-08-31,,,,,,,Communication Services,stock,S&P 500
 AAPL|2026-08-30,waiting,AAPL,General,,2026-08-30,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-08-30,waiting,AMD,General,,2026-08-30,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-08-30,waiting,AMZN,General,,2026-08-30,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-08-30,waiting,AVGO,General,,2026-08-30,,,,,,,Information Technology,stock,S&P 500
 BA|2026-08-30,waiting,BA,General,,2026-08-30,,,,,,,Industrials,stock,S&P 500
 CAT|2026-08-30,waiting,CAT,ESG,E,2026-08-30,,,,,,True,Industrials,stock,S&P 500
 INTC|2026-08-30,waiting,INTC,General,,2026-08-30,,,,,,,Information Technology,stock,S&P 500
