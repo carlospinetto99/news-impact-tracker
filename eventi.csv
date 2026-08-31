@@ -1,5 +1,8 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-08-31,waiting,AAPL,ESG,E,2026-08-31,,,,,,False,Information Technology,stock,S&P 500
+GS|2026-08-31,waiting,GS,General,,2026-08-31,,,,,,,Financials,stock,S&P 500
+INTC|2026-08-31,waiting,INTC,General,,2026-08-31,,,,,,,Information Technology,stock,S&P 500
+MA|2026-08-31,waiting,MA,General,,2026-08-31,,,,,,,Financials,stock,S&P 500
 META|2026-08-31,waiting,META,General,,2026-08-31,,,,,,,Communication Services,stock,S&P 500
 MS|2026-08-31,waiting,MS,General,,2026-08-31,,,,,,,Financials,stock,S&P 500
 NFLX|2026-08-31,waiting,NFLX,General,,2026-08-31,,,,,,,Communication Services,stock,S&P 500
@@ -1718,4 +1721,5 @@ MSFT|2026-06-26,closed,MSFT,ESG,E,2026-06-26,4.68,8.14,True,0.89,1.86,False,Info
 TSLA|2026-06-26,closed,TSLA,ESG,E,2026-06-26,11.13,8.65,False,1.84,1.97,False,Consumer Discretionary,,
 WMT|2026-06-24,closed,WMT,ESG,E,2026-06-24,-2.3,7.3,True,0.08,1.67,True,Consumer Staples,,
 AAPL|2026-05-01,closed,AAPL,General,,2026-05-01,3.84,4.97,True,0.79,1.13,,Information Technology,,
+AAPL|2026-04-21,closed,AAPL,General,,2026-04-21,-0.33,4.95,True,0.86,1.13,,Information Technology,stock,S&P 500
 AXP|2025-03-25,closed,AXP,General,,2025-03-25,0.05,5.18,True,1.3,1.18,,Financials,stock,S&P 500
