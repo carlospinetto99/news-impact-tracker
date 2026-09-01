@@ -12,17 +12,20 @@ DE|2026-09-01,waiting,DE,General,,2026-09-01,,,,,,,Industrials,stock,S&P 500
 GEV|2026-09-01,waiting,GEV,ESG,E,2026-09-01,,,,,,True,Industrials,stock,S&P 500
 GE|2026-09-01,waiting,GE,General,,2026-09-01,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-09-01,waiting,GOOGL,General,,2026-09-01,,,,,,,Communication Services,stock,S&P 500
+GS|2026-09-01,waiting,GS,General,,2026-09-01,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-01,waiting,INTC,General,,2026-09-01,,,,,,,Information Technology,stock,S&P 500
 JPM|2026-09-01,waiting,JPM,General,,2026-09-01,,,,,,,Financials,stock,S&P 500
 META|2026-09-01,waiting,META,General,,2026-09-01,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-09-01,waiting,MSFT,General,,2026-09-01,,,,,,,Information Technology,stock,S&P 500
 MS|2026-09-01,waiting,MS,General,,2026-09-01,,,,,,,Financials,stock,S&P 500
+MU|2026-09-01,waiting,MU,General,,2026-09-01,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-09-01,waiting,NFLX,General,,2026-09-01,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-09-01,waiting,NVDA,General,,2026-09-01,,,,,,,Information Technology,stock,S&P 500
 RTX|2026-09-01,waiting,RTX,General,,2026-09-01,,,,,,,Industrials,stock,S&P 500
 SLB|2026-09-01,waiting,SLB,ESG,E,2026-09-01,,,,,,True,Energy,stock,S&P 500
-TSLA|2026-09-01,waiting,TSLA,General,,2026-09-01,,,,,,,Consumer Discretionary,stock,S&P 500
+TSLA|2026-09-01,waiting,TSLA,ESG,E,2026-09-01,,,,,,False,Consumer Discretionary,stock,S&P 500
 TTWO|2026-09-01,waiting,TTWO,General,,2026-09-01,,,,,,,Communication Services,stock,S&P 500
+UBER|2026-09-01,waiting,UBER,General,,2026-09-01,,,,,,,Industrials,stock,S&P 500
 VRT|2026-09-01,waiting,VRT,General,,2026-09-01,,,,,,,Industrials,stock,S&P 500
 XOM|2026-09-01,waiting,XOM,General,,2026-09-01,,,,,,,Energy,stock,S&P 500
 AAPL|2026-08-31,consolidating,AAPL,ESG,E,2026-08-31,,,,,,False,Information Technology,stock,S&P 500
