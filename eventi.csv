@@ -1,4 +1,20 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AMD|2026-09-03,waiting,AMD,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-09-03,waiting,AMZN,General,,2026-09-03,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-09-03,waiting,AVGO,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
+CSCO|2026-09-03,waiting,CSCO,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
+C|2026-09-03,waiting,C,General,,2026-09-03,,,,,,,Financials,stock,S&P 500
+DE|2026-09-03,waiting,DE,General,,2026-09-03,,,,,,,Industrials,stock,S&P 500
+GS|2026-09-03,waiting,GS,General,,2026-09-03,,,,,,,Financials,stock,S&P 500
+META|2026-09-03,waiting,META,ESG,E,2026-09-03,,,,,,False,Communication Services,stock,S&P 500
+MSFT|2026-09-03,waiting,MSFT,ESG,E,2026-09-03,,,,,,False,Information Technology,stock,S&P 500
+MU|2026-09-03,waiting,MU,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-09-03,waiting,NFLX,General,,2026-09-03,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-09-03,waiting,NVDA,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
+TMUS|2026-09-03,waiting,TMUS,General,,2026-09-03,,,,,,,Communication Services,stock,S&P 500
+TSLA|2026-09-03,waiting,TSLA,General,,2026-09-03,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-09-03,waiting,UBER,ESG,S,2026-09-03,,,,,,True,Industrials,stock,S&P 500
+V|2026-09-03,waiting,V,General,,2026-09-03,,,,,,,Financials,stock,S&P 500
 AAPL|2026-09-02,consolidating,AAPL,ESG,EG,2026-09-02,,,,,,True,Information Technology,stock,S&P 500
 AMAT|2026-09-02,consolidating,AMAT,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-02,consolidating,AMD,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
@@ -7,6 +23,7 @@ AVGO|2026-09-02,consolidating,AVGO,General,,2026-09-02,,,,,,,Information Technol
 AXP|2026-09-02,consolidating,AXP,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 BAC|2026-09-02,consolidating,BAC,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 BA|2026-09-02,consolidating,BA,General,,2026-09-02,,,,,,,Industrials,stock,S&P 500
+BRK-B|2026-09-02,consolidating,BRK-B,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 CAT|2026-09-02,consolidating,CAT,ESG,ES,2026-09-02,,,,,,True,Industrials,stock,S&P 500
 COP|2026-09-02,consolidating,COP,General,,2026-09-02,,,,,,,Energy,stock,S&P 500
 CSCO|2026-09-02,consolidating,CSCO,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
