@@ -7,6 +7,7 @@ AXP|2026-09-02,waiting,AXP,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 BAC|2026-09-02,waiting,BAC,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 CSCO|2026-09-02,waiting,CSCO,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-09-02,waiting,CVX,ESG,E,2026-09-02,,,,,,True,Energy,stock,S&P 500
+C|2026-09-02,waiting,C,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 DE|2026-09-02,waiting,DE,General,,2026-09-02,,,,,,,Industrials,stock,S&P 500
 GE|2026-09-02,waiting,GE,General,,2026-09-02,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-09-02,waiting,GOOGL,General,,2026-09-02,,,,,,,Communication Services,stock,S&P 500
@@ -14,13 +15,16 @@ GS|2026-09-02,waiting,GS,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-02,waiting,INTC,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
 LRCX|2026-09-02,waiting,LRCX,ESG,E,2026-09-02,,,,,,False,Information Technology,stock,S&P 500
 META|2026-09-02,waiting,META,General,,2026-09-02,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-09-02,waiting,MSFT,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
 MS|2026-09-02,waiting,MS,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 NFLX|2026-09-02,waiting,NFLX,General,,2026-09-02,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-09-02,waiting,NVDA,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
 SLB|2026-09-02,waiting,SLB,ESG,E,2026-09-02,,,,,,True,Energy,stock,S&P 500
 TSLA|2026-09-02,waiting,TSLA,ESG,E,2026-09-02,,,,,,False,Consumer Discretionary,stock,S&P 500
 TTWO|2026-09-02,waiting,TTWO,General,,2026-09-02,,,,,,,Communication Services,stock,S&P 500
+UBER|2026-09-02,waiting,UBER,General,,2026-09-02,,,,,,,Industrials,stock,S&P 500
 UNP|2026-09-02,waiting,UNP,ESG,S,2026-09-02,,,,,,True,Industrials,stock,S&P 500
+XOM|2026-09-02,waiting,XOM,General,,2026-09-02,,,,,,,Energy,stock,S&P 500
 AAPL|2026-09-01,consolidating,AAPL,ESG,ES,2026-09-01,,,,,,True,Information Technology,stock,S&P 500
 AMD|2026-09-01,consolidating,AMD,General,,2026-09-01,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-09-01,consolidating,AMZN,General,,2026-09-01,,,,,,,Consumer Discretionary,stock,S&P 500
