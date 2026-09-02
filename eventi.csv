@@ -2,10 +2,14 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-09-02,waiting,AAPL,ESG,E,2026-09-02,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-09-02,waiting,AMAT,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-09-02,waiting,AMZN,General,,2026-09-02,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-09-02,waiting,AVGO,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-09-02,waiting,AXP,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 BAC|2026-09-02,waiting,BAC,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 CSCO|2026-09-02,waiting,CSCO,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-09-02,waiting,CVX,ESG,E,2026-09-02,,,,,,True,Energy,stock,S&P 500
+DE|2026-09-02,waiting,DE,General,,2026-09-02,,,,,,,Industrials,stock,S&P 500
 GE|2026-09-02,waiting,GE,General,,2026-09-02,,,,,,,Industrials,stock,S&P 500
+GOOGL|2026-09-02,waiting,GOOGL,General,,2026-09-02,,,,,,,Communication Services,stock,S&P 500
 GS|2026-09-02,waiting,GS,General,,2026-09-02,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-02,waiting,INTC,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
 LRCX|2026-09-02,waiting,LRCX,ESG,E,2026-09-02,,,,,,False,Information Technology,stock,S&P 500
