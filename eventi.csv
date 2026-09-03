@@ -1,7 +1,9 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-09-03,waiting,AAPL,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-03,waiting,AMD,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-09-03,waiting,AMZN,General,,2026-09-03,,,,,,,Consumer Discretionary,stock,S&P 500
-AVGO|2026-09-03,waiting,AVGO,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
+AVGO|2026-09-03,waiting,AVGO,ESG,E,2026-09-03,,,,,,False,Information Technology,stock,S&P 500
+BAC|2026-09-03,waiting,BAC,General,,2026-09-03,,,,,,,Financials,stock,S&P 500
 CSCO|2026-09-03,waiting,CSCO,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
 C|2026-09-03,waiting,C,General,,2026-09-03,,,,,,,Financials,stock,S&P 500
 DE|2026-09-03,waiting,DE,General,,2026-09-03,,,,,,,Industrials,stock,S&P 500
@@ -13,7 +15,8 @@ NFLX|2026-09-03,waiting,NFLX,General,,2026-09-03,,,,,,,Communication Services,st
 NVDA|2026-09-03,waiting,NVDA,General,,2026-09-03,,,,,,,Information Technology,stock,S&P 500
 TMUS|2026-09-03,waiting,TMUS,General,,2026-09-03,,,,,,,Communication Services,stock,S&P 500
 TSLA|2026-09-03,waiting,TSLA,General,,2026-09-03,,,,,,,Consumer Discretionary,stock,S&P 500
-UBER|2026-09-03,waiting,UBER,ESG,S,2026-09-03,,,,,,True,Industrials,stock,S&P 500
+UBER|2026-09-03,waiting,UBER,ESG,ES,2026-09-03,,,,,,True,Industrials,stock,S&P 500
+UNP|2026-09-03,waiting,UNP,ESG,S,2026-09-03,,,,,,True,Industrials,stock,S&P 500
 V|2026-09-03,waiting,V,General,,2026-09-03,,,,,,,Financials,stock,S&P 500
 AAPL|2026-09-02,consolidating,AAPL,ESG,EG,2026-09-02,,,,,,True,Information Technology,stock,S&P 500
 AMAT|2026-09-02,consolidating,AMAT,General,,2026-09-02,,,,,,,Information Technology,stock,S&P 500
