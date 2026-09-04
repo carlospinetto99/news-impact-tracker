@@ -9,6 +9,7 @@ BAC|2026-09-04,consolidating,BAC,General,,2026-09-04,,,,,,,Financials,stock,S&P 
 BA|2026-09-04,consolidating,BA,General,,2026-09-04,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-09-04,consolidating,BRK-B,General,,2026-09-04,,,,,,,Financials,stock,S&P 500
 CAT|2026-09-04,consolidating,CAT,General,,2026-09-04,,,,,,,Industrials,stock,S&P 500
+CMCSA|2026-09-04,consolidating,CMCSA,General,,2026-09-04,,,,,,,Communication Services,stock,S&P 500
 CVX|2026-09-04,consolidating,CVX,ESG,E,2026-09-04,,,,,,True,Energy,stock,S&P 500
 C|2026-09-04,consolidating,C,General,,2026-09-04,,,,,,,Financials,stock,S&P 500
 DIS|2026-09-04,consolidating,DIS,General,,2026-09-04,,,,,,,Communication Services,stock,S&P 500
@@ -28,7 +29,8 @@ MS|2026-09-04,consolidating,MS,General,,2026-09-04,,,,,,,Financials,stock,S&P 50
 NFLX|2026-09-04,consolidating,NFLX,General,,2026-09-04,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-09-04,consolidating,NVDA,General,,2026-09-04,,,,,,,Information Technology,stock,S&P 500
 PSX|2026-09-04,consolidating,PSX,ESG,G,2026-09-04,,,,,,True,Energy,stock,S&P 500
-TSLA|2026-09-04,consolidating,TSLA,ESG,E,2026-09-04,,,,,,False,Consumer Discretionary,stock,S&P 500
+TSLA|2026-09-04,consolidating,TSLA,ESG,EG,2026-09-04,,,,,,True,Consumer Discretionary,stock,S&P 500
+UBER|2026-09-04,consolidating,UBER,General,,2026-09-04,,,,,,,Industrials,stock,S&P 500
 UNP|2026-09-04,consolidating,UNP,ESG,S,2026-09-04,,,,,,True,Industrials,stock,S&P 500
 VLO|2026-09-04,consolidating,VLO,ESG,E,2026-09-04,,,,,,True,Energy,stock,S&P 500
 VRT|2026-09-04,consolidating,VRT,ESG,E,2026-09-04,,,,,,True,Industrials,stock,S&P 500
