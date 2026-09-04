@@ -10,6 +10,7 @@ BA|2026-09-04,waiting,BA,General,,2026-09-04,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-09-04,waiting,BRK-B,General,,2026-09-04,,,,,,,Financials,stock,S&P 500
 CAT|2026-09-04,waiting,CAT,General,,2026-09-04,,,,,,,Industrials,stock,S&P 500
 CVX|2026-09-04,waiting,CVX,General,,2026-09-04,,,,,,,Energy,stock,S&P 500
+C|2026-09-04,waiting,C,General,,2026-09-04,,,,,,,Financials,stock,S&P 500
 DIS|2026-09-04,waiting,DIS,General,,2026-09-04,,,,,,,Communication Services,stock,S&P 500
 ETN|2026-09-04,waiting,ETN,General,,2026-09-04,,,,,,,Industrials,stock,S&P 500
 GEV|2026-09-04,waiting,GEV,General,,2026-09-04,,,,,,,Industrials,stock,S&P 500
@@ -24,7 +25,7 @@ META|2026-09-04,waiting,META,General,,2026-09-04,,,,,,,Communication Services,st
 MSFT|2026-09-04,waiting,MSFT,General,,2026-09-04,,,,,,,Information Technology,stock,S&P 500
 MS|2026-09-04,waiting,MS,General,,2026-09-04,,,,,,,Financials,stock,S&P 500
 NVDA|2026-09-04,waiting,NVDA,General,,2026-09-04,,,,,,,Information Technology,stock,S&P 500
-TSLA|2026-09-04,waiting,TSLA,General,,2026-09-04,,,,,,,Consumer Discretionary,stock,S&P 500
+TSLA|2026-09-04,waiting,TSLA,ESG,E,2026-09-04,,,,,,False,Consumer Discretionary,stock,S&P 500
 UNP|2026-09-04,waiting,UNP,ESG,S,2026-09-04,,,,,,True,Industrials,stock,S&P 500
 VLO|2026-09-04,waiting,VLO,ESG,E,2026-09-04,,,,,,True,Energy,stock,S&P 500
 VRT|2026-09-04,waiting,VRT,General,,2026-09-04,,,,,,,Industrials,stock,S&P 500
