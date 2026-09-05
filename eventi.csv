@@ -7,6 +7,7 @@ BRK-B|2026-09-05,waiting,BRK-B,ESG,G,2026-09-05,,,,,,True,Financials,stock,S&P 5
 CMCSA|2026-09-05,waiting,CMCSA,General,,2026-09-05,,,,,,,Communication Services,stock,S&P 500
 CSCO|2026-09-05,waiting,CSCO,General,,2026-09-05,,,,,,,Information Technology,stock,S&P 500
 GE|2026-09-05,waiting,GE,General,,2026-09-05,,,,,,,Industrials,stock,S&P 500
+GOOGL|2026-09-05,waiting,GOOGL,General,,2026-09-05,,,,,,,Communication Services,stock,S&P 500
 GS|2026-09-05,waiting,GS,General,,2026-09-05,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-05,waiting,INTC,General,,2026-09-05,,,,,,,Information Technology,stock,S&P 500
 LRCX|2026-09-05,waiting,LRCX,General,,2026-09-05,,,,,,,Information Technology,stock,S&P 500
@@ -16,9 +17,11 @@ MSFT|2026-09-05,waiting,MSFT,ESG,G,2026-09-05,,,,,,True,Information Technology,s
 MS|2026-09-05,waiting,MS,General,,2026-09-05,,,,,,,Financials,stock,S&P 500
 NFLX|2026-09-05,waiting,NFLX,General,,2026-09-05,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-09-05,waiting,NVDA,General,,2026-09-05,,,,,,,Information Technology,stock,S&P 500
+RTX|2026-09-05,waiting,RTX,General,,2026-09-05,,,,,,,Industrials,stock,S&P 500
 SLB|2026-09-05,waiting,SLB,General,,2026-09-05,,,,,,,Energy,stock,S&P 500
 TMUS|2026-09-05,waiting,TMUS,General,,2026-09-05,,,,,,,Communication Services,stock,S&P 500
 TSLA|2026-09-05,waiting,TSLA,ESG,S,2026-09-05,,,,,,True,Consumer Discretionary,stock,S&P 500
+UBER|2026-09-05,waiting,UBER,General,,2026-09-05,,,,,,,Industrials,stock,S&P 500
 VRT|2026-09-05,waiting,VRT,ESG,E,2026-09-05,,,,,,True,Industrials,stock,S&P 500
 WMB|2026-09-05,waiting,WMB,ESG,E,2026-09-05,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-09-04,consolidating,AAPL,General,,2026-09-04,,,,,,,Information Technology,stock,S&P 500
