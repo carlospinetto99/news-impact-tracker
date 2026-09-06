@@ -1,4 +1,6 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+INTC|2026-09-06,waiting,INTC,ESG,E,2026-09-06,,,,,,False,Information Technology,stock,S&P 500
+TSLA|2026-09-06,waiting,TSLA,General,,2026-09-06,,,,,,,Consumer Discretionary,stock,S&P 500
 VLO|2026-09-06,waiting,VLO,ESG,E,2026-09-06,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-09-05,waiting,AAPL,General,,2026-09-05,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-09-05,waiting,AMAT,General,,2026-09-05,,,,,,,Information Technology,stock,S&P 500
