@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AVGO|2026-09-06,waiting,AVGO,General,,2026-09-06,,,,,,,Information Technology,stock,S&P 500
 INTC|2026-09-06,waiting,INTC,ESG,E,2026-09-06,,,,,,False,Information Technology,stock,S&P 500
 NVDA|2026-09-06,waiting,NVDA,General,,2026-09-06,,,,,,,Information Technology,stock,S&P 500
 TSLA|2026-09-06,waiting,TSLA,General,,2026-09-06,,,,,,,Consumer Discretionary,stock,S&P 500
