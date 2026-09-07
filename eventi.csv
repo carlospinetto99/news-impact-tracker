@@ -1,4 +1,14 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-09-08,waiting,AAPL,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-09-08,waiting,AMD,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-09-08,waiting,AMZN,ESG,G,2026-09-08,,,,,,True,Consumer Discretionary,stock,S&P 500
+AVGO|2026-09-08,waiting,AVGO,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-09-08,waiting,CVX,General,,2026-09-08,,,,,,,Energy,stock,S&P 500
+INTC|2026-09-08,waiting,INTC,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
+META|2026-09-08,waiting,META,General,,2026-09-08,,,,,,,Communication Services,stock,S&P 500
+MPC|2026-09-08,waiting,MPC,General,,2026-09-08,,,,,,,Energy,stock,S&P 500
+NVDA|2026-09-08,waiting,NVDA,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
+SLB|2026-09-08,waiting,SLB,General,,2026-09-08,,,,,,,Energy,stock,S&P 500
 AAPL|2026-09-07,waiting,AAPL,General,,2026-09-07,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-09-07,waiting,AMAT,General,,2026-09-07,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-07,waiting,AMD,General,,2026-09-07,,,,,,,Information Technology,stock,S&P 500
@@ -7,6 +17,7 @@ AVGO|2026-09-07,waiting,AVGO,General,,2026-09-07,,,,,,,Information Technology,st
 BAC|2026-09-07,waiting,BAC,ESG,E,2026-09-07,,,,,,False,Financials,stock,S&P 500
 BA|2026-09-07,waiting,BA,General,,2026-09-07,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-09-07,waiting,BRK-B,General,,2026-09-07,,,,,,,Financials,stock,S&P 500
+CVX|2026-09-07,waiting,CVX,General,,2026-09-07,,,,,,,Energy,stock,S&P 500
 C|2026-09-07,waiting,C,General,,2026-09-07,,,,,,,Financials,stock,S&P 500
 DE|2026-09-07,waiting,DE,General,,2026-09-07,,,,,,,Industrials,stock,S&P 500
 ETN|2026-09-07,waiting,ETN,General,,2026-09-07,,,,,,,Industrials,stock,S&P 500
@@ -22,6 +33,7 @@ MS|2026-09-07,waiting,MS,General,,2026-09-07,,,,,,,Financials,stock,S&P 500
 MU|2026-09-07,waiting,MU,General,,2026-09-07,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-09-07,waiting,NFLX,General,,2026-09-07,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-09-07,waiting,NVDA,ESG,E,2026-09-07,,,,,,False,Information Technology,stock,S&P 500
+PSX|2026-09-07,waiting,PSX,ESG,E,2026-09-07,,,,,,True,Energy,stock,S&P 500
 SLB|2026-09-07,waiting,SLB,General,,2026-09-07,,,,,,,Energy,stock,S&P 500
 TSLA|2026-09-07,waiting,TSLA,ESG,G,2026-09-07,,,,,,True,Consumer Discretionary,stock,S&P 500
 UBER|2026-09-07,waiting,UBER,General,,2026-09-07,,,,,,,Industrials,stock,S&P 500
