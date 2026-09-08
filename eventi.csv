@@ -10,7 +10,8 @@ CAT|2026-09-08,consolidating,CAT,General,,2026-09-08,,,,,,,Industrials,stock,S&P
 CSCO|2026-09-08,consolidating,CSCO,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-09-08,consolidating,CVX,ESG,E,2026-09-08,,,,,,True,Energy,stock,S&P 500
 ETN|2026-09-08,consolidating,ETN,ESG,E,2026-09-08,,,,,,True,Industrials,stock,S&P 500
-GE|2026-09-08,consolidating,GE,General,,2026-09-08,,,,,,,Industrials,stock,S&P 500
+GEV|2026-09-08,consolidating,GEV,General,,2026-09-08,,,,,,,Industrials,stock,S&P 500
+GE|2026-09-08,consolidating,GE,ESG,S,2026-09-08,,,,,,True,Industrials,stock,S&P 500
 GS|2026-09-08,consolidating,GS,General,,2026-09-08,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-08,consolidating,INTC,ESG,E,2026-09-08,,,,,,False,Information Technology,stock,S&P 500
 JPM|2026-09-08,consolidating,JPM,General,,2026-09-08,,,,,,,Financials,stock,S&P 500
