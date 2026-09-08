@@ -1,4 +1,21 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-09-09,waiting,AAPL,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-09-09,waiting,AMD,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-09-09,waiting,AMZN,General,,2026-09-09,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-09-09,waiting,AVGO,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
+BA|2026-09-09,waiting,BA,General,,2026-09-09,,,,,,,Industrials,stock,S&P 500
+CVX|2026-09-09,waiting,CVX,General,,2026-09-09,,,,,,,Energy,stock,S&P 500
+GE|2026-09-09,waiting,GE,General,,2026-09-09,,,,,,,Industrials,stock,S&P 500
+INTC|2026-09-09,waiting,INTC,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
+META|2026-09-09,waiting,META,General,,2026-09-09,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-09-09,waiting,MSFT,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
+MU|2026-09-09,waiting,MU,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-09-09,waiting,NFLX,General,,2026-09-09,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-09-09,waiting,NVDA,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-09-09,waiting,TSLA,General,,2026-09-09,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-09-09,waiting,UBER,General,,2026-09-09,,,,,,,Industrials,stock,S&P 500
+V|2026-09-09,waiting,V,General,,2026-09-09,,,,,,,Financials,stock,S&P 500
+WFC|2026-09-09,waiting,WFC,General,,2026-09-09,,,,,,,Financials,stock,S&P 500
 AAPL|2026-09-08,consolidating,AAPL,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-09-08,consolidating,AMAT,ESG,E,2026-09-08,,,,,,False,Information Technology,stock,S&P 500
 AMD|2026-09-08,consolidating,AMD,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
@@ -32,6 +49,7 @@ VLO|2026-09-08,consolidating,VLO,ESG,E,2026-09-08,,,,,,True,Energy,stock,S&P 500
 VRT|2026-09-08,consolidating,VRT,ESG,E,2026-09-08,,,,,,True,Industrials,stock,S&P 500
 V|2026-09-08,consolidating,V,General,,2026-09-08,,,,,,,Financials,stock,S&P 500
 WBD|2026-09-08,consolidating,WBD,General,,2026-09-08,,,,,,,Communication Services,stock,S&P 500
+WMB|2026-09-08,consolidating,WMB,General,,2026-09-08,,,,,,,Energy,stock,S&P 500
 XOM|2026-09-08,consolidating,XOM,General,,2026-09-08,,,,,,,Energy,stock,S&P 500
 AAPL|2026-09-07,consolidating,AAPL,General,,2026-09-07,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-09-07,consolidating,AMAT,General,,2026-09-07,,,,,,,Information Technology,stock,S&P 500
