@@ -8,8 +8,10 @@ INTC|2026-09-08,waiting,INTC,ESG,E,2026-09-08,,,,,,False,Information Technology,
 META|2026-09-08,waiting,META,General,,2026-09-08,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-09-08,waiting,MPC,General,,2026-09-08,,,,,,,Energy,stock,S&P 500
 MU|2026-09-08,waiting,MU,ESG,E,2026-09-08,,,,,,False,Information Technology,stock,S&P 500
-NVDA|2026-09-08,waiting,NVDA,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-09-08,waiting,NVDA,ESG,E,2026-09-08,,,,,,False,Information Technology,stock,S&P 500
 SLB|2026-09-08,waiting,SLB,General,,2026-09-08,,,,,,,Energy,stock,S&P 500
+TSLA|2026-09-08,waiting,TSLA,General,,2026-09-08,,,,,,,Consumer Discretionary,stock,S&P 500
+VRT|2026-09-08,waiting,VRT,ESG,E,2026-09-08,,,,,,True,Industrials,stock,S&P 500
 XOM|2026-09-08,waiting,XOM,General,,2026-09-08,,,,,,,Energy,stock,S&P 500
 AAPL|2026-09-07,waiting,AAPL,General,,2026-09-07,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-09-07,waiting,AMAT,General,,2026-09-07,,,,,,,Information Technology,stock,S&P 500
