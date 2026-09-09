@@ -1,7 +1,7 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-09-09,waiting,AAPL,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-09-09,waiting,AMAT,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-09-09,waiting,AMD,General,,2026-09-09,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-09-09,waiting,AMD,ESG,E,2026-09-09,,,,,,False,Information Technology,stock,S&P 500
 AMZN|2026-09-09,waiting,AMZN,ESG,E,2026-09-09,,,,,,False,Consumer Discretionary,stock,S&P 500
 AVGO|2026-09-09,waiting,AVGO,ESG,E,2026-09-09,,,,,,False,Information Technology,stock,S&P 500
 BA|2026-09-09,waiting,BA,General,,2026-09-09,,,,,,,Industrials,stock,S&P 500
@@ -19,6 +19,7 @@ NVDA|2026-09-09,waiting,NVDA,General,,2026-09-09,,,,,,,Information Technology,st
 TSLA|2026-09-09,waiting,TSLA,General,,2026-09-09,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-09-09,waiting,UBER,General,,2026-09-09,,,,,,,Industrials,stock,S&P 500
 UNP|2026-09-09,waiting,UNP,ESG,S,2026-09-09,,,,,,True,Industrials,stock,S&P 500
+VRT|2026-09-09,waiting,VRT,ESG,E,2026-09-09,,,,,,True,Industrials,stock,S&P 500
 V|2026-09-09,waiting,V,General,,2026-09-09,,,,,,,Financials,stock,S&P 500
 WFC|2026-09-09,waiting,WFC,General,,2026-09-09,,,,,,,Financials,stock,S&P 500
 AAPL|2026-09-08,consolidating,AAPL,General,,2026-09-08,,,,,,,Information Technology,stock,S&P 500
