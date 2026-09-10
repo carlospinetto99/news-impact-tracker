@@ -23,13 +23,14 @@ INTC|2026-09-10,consolidating,INTC,General,,2026-09-10,,,,,,,Information Technol
 JPM|2026-09-10,consolidating,JPM,ESG,E,2026-09-10,,,,,,False,Financials,stock,S&P 500
 KMI|2026-09-10,consolidating,KMI,ESG,E,2026-09-10,,,,,,True,Energy,stock,S&P 500
 LRCX|2026-09-10,consolidating,LRCX,ESG,G,2026-09-10,,,,,,True,Information Technology,stock,S&P 500
-MA|2026-09-10,consolidating,MA,ESG,S,2026-09-10,,,,,,False,Financials,stock,S&P 500
+MA|2026-09-10,consolidating,MA,ESG,GS,2026-09-10,,,,,,True,Financials,stock,S&P 500
 META|2026-09-10,consolidating,META,General,,2026-09-10,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-09-10,consolidating,MPC,General,,2026-09-10,,,,,,,Energy,stock,S&P 500
 MSFT|2026-09-10,consolidating,MSFT,General,,2026-09-10,,,,,,,Information Technology,stock,S&P 500
 MS|2026-09-10,consolidating,MS,General,,2026-09-10,,,,,,,Financials,stock,S&P 500
+NEE|2026-09-10,consolidating,NEE,ESG,E,2026-09-10,,,,,,True,Utilities,stock,S&P 500
 NFLX|2026-09-10,consolidating,NFLX,General,,2026-09-10,,,,,,,Communication Services,stock,S&P 500
-NVDA|2026-09-10,consolidating,NVDA,ESG,G,2026-09-10,,,,,,True,Information Technology,stock,S&P 500
+NVDA|2026-09-10,consolidating,NVDA,ESG,EG,2026-09-10,,,,,,True,Information Technology,stock,S&P 500
 PSX|2026-09-10,consolidating,PSX,General,,2026-09-10,,,,,,,Energy,stock,S&P 500
 RTX|2026-09-10,consolidating,RTX,General,,2026-09-10,,,,,,,Industrials,stock,S&P 500
 TSLA|2026-09-10,consolidating,TSLA,ESG,E,2026-09-10,,,,,,False,Consumer Discretionary,stock,S&P 500
