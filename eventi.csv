@@ -5,8 +5,10 @@ AMZN|2026-09-10,waiting,AMZN,ESG,E,2026-09-10,,,,,,False,Consumer Discretionary,
 AXP|2026-09-10,waiting,AXP,General,,2026-09-10,,,,,,,Financials,stock,S&P 500
 BA|2026-09-10,waiting,BA,General,,2026-09-10,,,,,,,Industrials,stock,S&P 500
 CMCSA|2026-09-10,waiting,CMCSA,General,,2026-09-10,,,,,,,Communication Services,stock,S&P 500
+COP|2026-09-10,waiting,COP,General,,2026-09-10,,,,,,,Energy,stock,S&P 500
 CSCO|2026-09-10,waiting,CSCO,General,,2026-09-10,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-09-10,waiting,CVX,General,,2026-09-10,,,,,,,Energy,stock,S&P 500
+EOG|2026-09-10,waiting,EOG,ESG,E,2026-09-10,,,,,,True,Energy,stock,S&P 500
 ETN|2026-09-10,waiting,ETN,General,,2026-09-10,,,,,,,Industrials,stock,S&P 500
 GEV|2026-09-10,waiting,GEV,General,,2026-09-10,,,,,,,Industrials,stock,S&P 500
 GE|2026-09-10,waiting,GE,General,,2026-09-10,,,,,,,Industrials,stock,S&P 500
@@ -19,7 +21,8 @@ MA|2026-09-10,waiting,MA,General,,2026-09-10,,,,,,,Financials,stock,S&P 500
 META|2026-09-10,waiting,META,General,,2026-09-10,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-09-10,waiting,MSFT,General,,2026-09-10,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-09-10,waiting,NFLX,General,,2026-09-10,,,,,,,Communication Services,stock,S&P 500
-NVDA|2026-09-10,waiting,NVDA,General,,2026-09-10,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-09-10,waiting,NVDA,ESG,G,2026-09-10,,,,,,True,Information Technology,stock,S&P 500
+PSX|2026-09-10,waiting,PSX,General,,2026-09-10,,,,,,,Energy,stock,S&P 500
 TSLA|2026-09-10,waiting,TSLA,General,,2026-09-10,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-09-10,waiting,UBER,General,,2026-09-10,,,,,,,Industrials,stock,S&P 500
 VLO|2026-09-10,waiting,VLO,ESG,E,2026-09-10,,,,,,True,Energy,stock,S&P 500
