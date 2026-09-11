@@ -1,19 +1,27 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-09-11,waiting,AAPL,General,,2026-09-11,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-09-11,waiting,AMAT,General,,2026-09-11,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-09-11,waiting,AMZN,General,,2026-09-11,,,,,,,Consumer Discretionary,stock,S&P 500
+BAC|2026-09-11,waiting,BAC,General,,2026-09-11,,,,,,,Financials,stock,S&P 500
 CAT|2026-09-11,waiting,CAT,ESG,E,2026-09-11,,,,,,True,Industrials,stock,S&P 500
 CMCSA|2026-09-11,waiting,CMCSA,General,,2026-09-11,,,,,,,Communication Services,stock,S&P 500
+CSCO|2026-09-11,waiting,CSCO,General,,2026-09-11,,,,,,,Information Technology,stock,S&P 500
+C|2026-09-11,waiting,C,General,,2026-09-11,,,,,,,Financials,stock,S&P 500
 ETN|2026-09-11,waiting,ETN,General,,2026-09-11,,,,,,,Industrials,stock,S&P 500
 GS|2026-09-11,waiting,GS,General,,2026-09-11,,,,,,,Financials,stock,S&P 500
+MA|2026-09-11,waiting,MA,General,,2026-09-11,,,,,,,Financials,stock,S&P 500
 META|2026-09-11,waiting,META,General,,2026-09-11,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-09-11,waiting,MPC,General,,2026-09-11,,,,,,,Energy,stock,S&P 500
-MSFT|2026-09-11,waiting,MSFT,General,,2026-09-11,,,,,,,Information Technology,stock,S&P 500
+MSFT|2026-09-11,waiting,MSFT,ESG,E,2026-09-11,,,,,,False,Information Technology,stock,S&P 500
 MS|2026-09-11,waiting,MS,General,,2026-09-11,,,,,,,Financials,stock,S&P 500
 MU|2026-09-11,waiting,MU,General,,2026-09-11,,,,,,,Information Technology,stock,S&P 500
 NVDA|2026-09-11,waiting,NVDA,General,,2026-09-11,,,,,,,Information Technology,stock,S&P 500
 RTX|2026-09-11,waiting,RTX,General,,2026-09-11,,,,,,,Industrials,stock,S&P 500
 SLB|2026-09-11,waiting,SLB,General,,2026-09-11,,,,,,,Energy,stock,S&P 500
 TSLA|2026-09-11,waiting,TSLA,General,,2026-09-11,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-09-11,waiting,UBER,General,,2026-09-11,,,,,,,Industrials,stock,S&P 500
+VRT|2026-09-11,waiting,VRT,General,,2026-09-11,,,,,,,Industrials,stock,S&P 500
+WFC|2026-09-11,waiting,WFC,General,,2026-09-11,,,,,,,Financials,stock,S&P 500
 XOM|2026-09-11,waiting,XOM,General,,2026-09-11,,,,,,,Energy,stock,S&P 500
 AAPL|2026-09-10,consolidating,AAPL,ESG,E,2026-09-10,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-09-10,consolidating,AMAT,General,,2026-09-10,,,,,,,Information Technology,stock,S&P 500
