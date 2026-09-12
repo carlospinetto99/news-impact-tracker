@@ -1,19 +1,26 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
-AAPL|2026-09-12,waiting,AAPL,General,,2026-09-12,,,,,,,Information Technology,stock,S&P 500
+AAPL|2026-09-12,waiting,AAPL,ESG,E,2026-09-12,,,,,,False,Information Technology,stock,S&P 500
+AMD|2026-09-12,waiting,AMD,ESG,E,2026-09-12,,,,,,False,Information Technology,stock,S&P 500
 AMZN|2026-09-12,waiting,AMZN,General,,2026-09-12,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-09-12,waiting,AVGO,ESG,E,2026-09-12,,,,,,False,Information Technology,stock,S&P 500
 AXP|2026-09-12,waiting,AXP,General,,2026-09-12,,,,,,,Financials,stock,S&P 500
 BA|2026-09-12,waiting,BA,General,,2026-09-12,,,,,,,Industrials,stock,S&P 500
+BRK-B|2026-09-12,waiting,BRK-B,General,,2026-09-12,,,,,,,Financials,stock,S&P 500
+CMCSA|2026-09-12,waiting,CMCSA,General,,2026-09-12,,,,,,,Communication Services,stock,S&P 500
 CSCO|2026-09-12,waiting,CSCO,General,,2026-09-12,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-09-12,waiting,CVX,ESG,E,2026-09-12,,,,,,True,Energy,stock,S&P 500
 C|2026-09-12,waiting,C,General,,2026-09-12,,,,,,,Financials,stock,S&P 500
 GEV|2026-09-12,waiting,GEV,General,,2026-09-12,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-09-12,waiting,GOOGL,General,,2026-09-12,,,,,,,Communication Services,stock,S&P 500
 GOOG|2026-09-12,waiting,GOOG,General,,2026-09-12,,,,,,,Communication Services,stock,S&P 500
+INTC|2026-09-12,waiting,INTC,General,,2026-09-12,,,,,,,Information Technology,stock,S&P 500
 MA|2026-09-12,waiting,MA,General,,2026-09-12,,,,,,,Financials,stock,S&P 500
-META|2026-09-12,waiting,META,General,,2026-09-12,,,,,,,Communication Services,stock,S&P 500
+META|2026-09-12,waiting,META,ESG,E,2026-09-12,,,,,,False,Communication Services,stock,S&P 500
 MSFT|2026-09-12,waiting,MSFT,ESG,E,2026-09-12,,,,,,False,Information Technology,stock,S&P 500
 MS|2026-09-12,waiting,MS,General,,2026-09-12,,,,,,,Financials,stock,S&P 500
+MU|2026-09-12,waiting,MU,ESG,S,2026-09-12,,,,,,True,Information Technology,stock,S&P 500
 NVDA|2026-09-12,waiting,NVDA,General,,2026-09-12,,,,,,,Information Technology,stock,S&P 500
+RTX|2026-09-12,waiting,RTX,General,,2026-09-12,,,,,,,Industrials,stock,S&P 500
 TSLA|2026-09-12,waiting,TSLA,General,,2026-09-12,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-09-12,waiting,UBER,General,,2026-09-12,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-09-11,consolidating,AAPL,General,,2026-09-11,,,,,,,Information Technology,stock,S&P 500
