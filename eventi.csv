@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+MS|2026-09-13,waiting,MS,General,,2026-09-13,,,,,,,Financials,stock,S&P 500
 AAPL|2026-09-12,waiting,AAPL,ESG,E,2026-09-12,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-09-12,waiting,AMAT,General,,2026-09-12,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-12,waiting,AMD,ESG,E,2026-09-12,,,,,,False,Information Technology,stock,S&P 500
