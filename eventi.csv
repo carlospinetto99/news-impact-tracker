@@ -1,4 +1,17 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-09-14,waiting,AAPL,General,,2026-09-14,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-09-14,waiting,AMD,General,,2026-09-14,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-09-14,waiting,AMZN,General,,2026-09-14,,,,,,,Consumer Discretionary,stock,S&P 500
+GS|2026-09-14,waiting,GS,General,,2026-09-14,,,,,,,Financials,stock,S&P 500
+INTC|2026-09-14,waiting,INTC,General,,2026-09-14,,,,,,,Information Technology,stock,S&P 500
+MA|2026-09-14,waiting,MA,General,,2026-09-14,,,,,,,Financials,stock,S&P 500
+MS|2026-09-14,waiting,MS,General,,2026-09-14,,,,,,,Financials,stock,S&P 500
+MU|2026-09-14,waiting,MU,General,,2026-09-14,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-09-14,waiting,NVDA,General,,2026-09-14,,,,,,,Information Technology,stock,S&P 500
+TMUS|2026-09-14,waiting,TMUS,General,,2026-09-14,,,,,,,Communication Services,stock,S&P 500
+TSLA|2026-09-14,waiting,TSLA,General,,2026-09-14,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-09-14,waiting,UBER,General,,2026-09-14,,,,,,,Industrials,stock,S&P 500
+VRT|2026-09-14,waiting,VRT,General,,2026-09-14,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-09-13,waiting,AAPL,General,,2026-09-13,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-13,waiting,AMD,General,,2026-09-13,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-09-13,waiting,AMZN,General,,2026-09-13,,,,,,,Consumer Discretionary,stock,S&P 500
