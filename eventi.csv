@@ -16,6 +16,7 @@ KMI|2026-09-16,waiting,KMI,General,,2026-09-16,,,,,,,Energy,stock,S&P 500
 LRCX|2026-09-16,waiting,LRCX,General,,2026-09-16,,,,,,,Information Technology,stock,S&P 500
 META|2026-09-16,waiting,META,General,,2026-09-16,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-09-16,waiting,MSFT,General,,2026-09-16,,,,,,,Information Technology,stock,S&P 500
+MS|2026-09-16,waiting,MS,ESG,E,2026-09-16,,,,,,False,Financials,stock,S&P 500
 MU|2026-09-16,waiting,MU,General,,2026-09-16,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-09-16,waiting,NFLX,General,,2026-09-16,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-09-16,waiting,NVDA,General,,2026-09-16,,,,,,,Information Technology,stock,S&P 500
@@ -24,6 +25,7 @@ RTX|2026-09-16,waiting,RTX,ESG,E,2026-09-16,,,,,,True,Industrials,stock,S&P 500
 TSLA|2026-09-16,waiting,TSLA,General,,2026-09-16,,,,,,,Consumer Discretionary,stock,S&P 500
 TTWO|2026-09-16,waiting,TTWO,General,,2026-09-16,,,,,,,Communication Services,stock,S&P 500
 UBER|2026-09-16,waiting,UBER,General,,2026-09-16,,,,,,,Industrials,stock,S&P 500
+VLO|2026-09-16,waiting,VLO,ESG,E,2026-09-16,,,,,,True,Energy,stock,S&P 500
 VRT|2026-09-16,waiting,VRT,General,,2026-09-16,,,,,,,Industrials,stock,S&P 500
 WFC|2026-09-16,waiting,WFC,General,,2026-09-16,,,,,,,Financials,stock,S&P 500
 XOM|2026-09-16,waiting,XOM,General,,2026-09-16,,,,,,,Energy,stock,S&P 500
