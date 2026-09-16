@@ -10,14 +10,16 @@ BAC|2026-09-16,consolidating,BAC,General,,2026-09-16,,,,,,,Financials,stock,S&P 
 BA|2026-09-16,consolidating,BA,ESG,E,2026-09-16,,,,,,True,Industrials,stock,S&P 500
 CAT|2026-09-16,consolidating,CAT,General,,2026-09-16,,,,,,,Industrials,stock,S&P 500
 CMCSA|2026-09-16,consolidating,CMCSA,General,,2026-09-16,,,,,,,Communication Services,stock,S&P 500
+COP|2026-09-16,consolidating,COP,ESG,E,2026-09-16,,,,,,True,Energy,stock,S&P 500
 CSCO|2026-09-16,consolidating,CSCO,General,,2026-09-16,,,,,,,Information Technology,stock,S&P 500
 CVX|2026-09-16,consolidating,CVX,ESG,E,2026-09-16,,,,,,True,Energy,stock,S&P 500
 C|2026-09-16,consolidating,C,General,,2026-09-16,,,,,,,Financials,stock,S&P 500
 DE|2026-09-16,consolidating,DE,General,,2026-09-16,,,,,,,Industrials,stock,S&P 500
+EOG|2026-09-16,consolidating,EOG,ESG,E,2026-09-16,,,,,,True,Energy,stock,S&P 500
 ETN|2026-09-16,consolidating,ETN,General,,2026-09-16,,,,,,,Industrials,stock,S&P 500
 FDX|2026-09-16,consolidating,FDX,ESG,,2026-09-16,,,,,,,Industrials,stock,S&P 500
 GEV|2026-09-16,consolidating,GEV,ESG,E,2026-09-16,,,,,,True,Industrials,stock,S&P 500
-GE|2026-09-16,consolidating,GE,General,,2026-09-16,,,,,,,Industrials,stock,S&P 500
+GE|2026-09-16,consolidating,GE,ESG,G,2026-09-16,,,,,,True,Industrials,stock,S&P 500
 GOOGL|2026-09-16,consolidating,GOOGL,General,,2026-09-16,,,,,,,Communication Services,stock,S&P 500
 GS|2026-09-16,consolidating,GS,General,,2026-09-16,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-16,consolidating,INTC,General,,2026-09-16,,,,,,,Information Technology,stock,S&P 500
@@ -25,7 +27,7 @@ JPM|2026-09-16,consolidating,JPM,General,,2026-09-16,,,,,,,Financials,stock,S&P 
 KMI|2026-09-16,consolidating,KMI,General,,2026-09-16,,,,,,,Energy,stock,S&P 500
 LRCX|2026-09-16,consolidating,LRCX,General,,2026-09-16,,,,,,,Information Technology,stock,S&P 500
 MA|2026-09-16,consolidating,MA,General,,2026-09-16,,,,,,,Financials,stock,S&P 500
-META|2026-09-16,consolidating,META,General,,2026-09-16,,,,,,,Communication Services,stock,S&P 500
+META|2026-09-16,consolidating,META,ESG,E,2026-09-16,,,,,,False,Communication Services,stock,S&P 500
 MSFT|2026-09-16,consolidating,MSFT,General,,2026-09-16,,,,,,,Information Technology,stock,S&P 500
 MS|2026-09-16,consolidating,MS,ESG,E,2026-09-16,,,,,,False,Financials,stock,S&P 500
 MU|2026-09-16,consolidating,MU,General,,2026-09-16,,,,,,,Information Technology,stock,S&P 500
