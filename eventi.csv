@@ -8,6 +8,7 @@ BAC|2026-09-18,waiting,BAC,General,,2026-09-18,,,,,,,Financials,stock,S&P 500
 BA|2026-09-18,waiting,BA,General,,2026-09-18,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-09-18,waiting,BRK-B,General,,2026-09-18,,,,,,,Financials,stock,S&P 500
 CAT|2026-09-18,waiting,CAT,General,,2026-09-18,,,,,,,Industrials,stock,S&P 500
+GEV|2026-09-18,waiting,GEV,ESG,E,2026-09-18,,,,,,True,Industrials,stock,S&P 500
 GE|2026-09-18,waiting,GE,General,,2026-09-18,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-09-18,waiting,GOOGL,General,,2026-09-18,,,,,,,Communication Services,stock,S&P 500
 GOOG|2026-09-18,waiting,GOOG,General,,2026-09-18,,,,,,,Communication Services,stock,S&P 500
@@ -25,8 +26,10 @@ NVDA|2026-09-18,waiting,NVDA,ESG,E,2026-09-18,,,,,,False,Information Technology,
 RTX|2026-09-18,waiting,RTX,General,,2026-09-18,,,,,,,Industrials,stock,S&P 500
 TSLA|2026-09-18,waiting,TSLA,General,,2026-09-18,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-09-18,waiting,UBER,General,,2026-09-18,,,,,,,Industrials,stock,S&P 500
+UNP|2026-09-18,waiting,UNP,ESG,S,2026-09-18,,,,,,True,Industrials,stock,S&P 500
 VLO|2026-09-18,waiting,VLO,ESG,E,2026-09-18,,,,,,True,Energy,stock,S&P 500
 VRT|2026-09-18,waiting,VRT,General,,2026-09-18,,,,,,,Industrials,stock,S&P 500
+V|2026-09-18,waiting,V,General,,2026-09-18,,,,,,,Financials,stock,S&P 500
 WFC|2026-09-18,waiting,WFC,General,,2026-09-18,,,,,,,Financials,stock,S&P 500
 AAPL|2026-09-17,consolidating,AAPL,General,,2026-09-17,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-09-17,consolidating,AMAT,General,,2026-09-17,,,,,,,Information Technology,stock,S&P 500
