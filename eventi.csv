@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+TSLA|2026-09-20,waiting,TSLA,ESG,E,2026-09-20,,,,,,False,Consumer Discretionary,stock,S&P 500
 AAPL|2026-09-19,waiting,AAPL,General,,2026-09-19,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-19,waiting,AMD,General,,2026-09-19,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-09-19,waiting,AMZN,General,,2026-09-19,,,,,,,Consumer Discretionary,stock,S&P 500
@@ -17,6 +18,7 @@ GS|2026-09-19,waiting,GS,General,,2026-09-19,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-19,waiting,INTC,General,,2026-09-19,,,,,,,Information Technology,stock,S&P 500
 META|2026-09-19,waiting,META,General,,2026-09-19,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-09-19,waiting,MPC,General,,2026-09-19,,,,,,,Energy,stock,S&P 500
+MSFT|2026-09-19,waiting,MSFT,General,,2026-09-19,,,,,,,Information Technology,stock,S&P 500
 MS|2026-09-19,waiting,MS,General,,2026-09-19,,,,,,,Financials,stock,S&P 500
 MU|2026-09-19,waiting,MU,General,,2026-09-19,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-09-19,waiting,NFLX,General,,2026-09-19,,,,,,,Communication Services,stock,S&P 500
