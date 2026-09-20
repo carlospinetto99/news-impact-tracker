@@ -1,11 +1,13 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-09-20,waiting,AAPL,General,,2026-09-20,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-20,waiting,AMD,General,,2026-09-20,,,,,,,Information Technology,stock,S&P 500
-EOG|2026-09-20,waiting,EOG,General,,2026-09-20,,,,,,,Energy,stock,S&P 500
+EOG|2026-09-20,waiting,EOG,ESG,E,2026-09-20,,,,,,True,Energy,stock,S&P 500
+GE|2026-09-20,waiting,GE,ESG,E,2026-09-20,,,,,,True,Industrials,stock,S&P 500
 GS|2026-09-20,waiting,GS,General,,2026-09-20,,,,,,,Financials,stock,S&P 500
 MSFT|2026-09-20,waiting,MSFT,General,,2026-09-20,,,,,,,Information Technology,stock,S&P 500
 NVDA|2026-09-20,waiting,NVDA,ESG,E,2026-09-20,,,,,,False,Information Technology,stock,S&P 500
 TSLA|2026-09-20,waiting,TSLA,ESG,E,2026-09-20,,,,,,False,Consumer Discretionary,stock,S&P 500
+VLO|2026-09-20,waiting,VLO,ESG,EG,2026-09-20,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-09-19,waiting,AAPL,General,,2026-09-19,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-19,waiting,AMD,General,,2026-09-19,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-09-19,waiting,AMZN,General,,2026-09-19,,,,,,,Consumer Discretionary,stock,S&P 500
@@ -33,6 +35,7 @@ RTX|2026-09-19,waiting,RTX,General,,2026-09-19,,,,,,,Industrials,stock,S&P 500
 SLB|2026-09-19,waiting,SLB,General,,2026-09-19,,,,,,,Energy,stock,S&P 500
 TSLA|2026-09-19,waiting,TSLA,ESG,E,2026-09-19,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-09-19,waiting,UBER,General,,2026-09-19,,,,,,,Industrials,stock,S&P 500
+V|2026-09-19,waiting,V,General,,2026-09-19,,,,,,,Financials,stock,S&P 500
 WBD|2026-09-19,waiting,WBD,General,,2026-09-19,,,,,,,Communication Services,stock,S&P 500
 WFC|2026-09-19,waiting,WFC,General,,2026-09-19,,,,,,,Financials,stock,S&P 500
 AAPL|2026-09-18,consolidating,AAPL,ESG,S,2026-09-18,,,,,,True,Information Technology,stock,S&P 500
