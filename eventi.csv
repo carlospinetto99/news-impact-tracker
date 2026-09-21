@@ -2,12 +2,18 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-09-21,waiting,AAPL,General,,2026-09-21,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-21,waiting,AMD,General,,2026-09-21,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-09-21,waiting,AMZN,ESG,S,2026-09-21,,,,,,True,Consumer Discretionary,stock,S&P 500
+BAC|2026-09-21,waiting,BAC,General,,2026-09-21,,,,,,,Financials,stock,S&P 500
 BA|2026-09-21,waiting,BA,ESG,E,2026-09-21,,,,,,True,Industrials,stock,S&P 500
+GEV|2026-09-21,waiting,GEV,General,,2026-09-21,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-09-21,waiting,GOOGL,ESG,E,2026-09-21,,,,,,False,Communication Services,stock,S&P 500
+GS|2026-09-21,waiting,GS,General,,2026-09-21,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-21,waiting,INTC,General,,2026-09-21,,,,,,,Information Technology,stock,S&P 500
+META|2026-09-21,waiting,META,General,,2026-09-21,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-09-21,waiting,MSFT,General,,2026-09-21,,,,,,,Information Technology,stock,S&P 500
 MU|2026-09-21,waiting,MU,General,,2026-09-21,,,,,,,Information Technology,stock,S&P 500
 NVDA|2026-09-21,waiting,NVDA,General,,2026-09-21,,,,,,,Information Technology,stock,S&P 500
 TSLA|2026-09-21,waiting,TSLA,General,,2026-09-21,,,,,,,Consumer Discretionary,stock,S&P 500
+UNP|2026-09-21,waiting,UNP,ESG,GS,2026-09-21,,,,,,True,Industrials,stock,S&P 500
 WBD|2026-09-21,waiting,WBD,General,,2026-09-21,,,,,,,Communication Services,stock,S&P 500
 AAPL|2026-09-20,waiting,AAPL,General,,2026-09-20,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-20,waiting,AMD,General,,2026-09-20,,,,,,,Information Technology,stock,S&P 500
