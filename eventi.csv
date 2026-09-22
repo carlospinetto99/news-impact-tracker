@@ -3,8 +3,12 @@ AAPL|2026-09-22,waiting,AAPL,General,,2026-09-22,,,,,,,Information Technology,st
 AMAT|2026-09-22,waiting,AMAT,General,,2026-09-22,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-22,waiting,AMD,ESG,E,2026-09-22,,,,,,False,Information Technology,stock,S&P 500
 AMZN|2026-09-22,waiting,AMZN,General,,2026-09-22,,,,,,,Consumer Discretionary,stock,S&P 500
+BAC|2026-09-22,waiting,BAC,General,,2026-09-22,,,,,,,Financials,stock,S&P 500
+BA|2026-09-22,waiting,BA,General,,2026-09-22,,,,,,,Industrials,stock,S&P 500
+CAT|2026-09-22,waiting,CAT,General,,2026-09-22,,,,,,,Industrials,stock,S&P 500
 CVX|2026-09-22,waiting,CVX,General,,2026-09-22,,,,,,,Energy,stock,S&P 500
 C|2026-09-22,waiting,C,General,,2026-09-22,,,,,,,Financials,stock,S&P 500
+GEV|2026-09-22,waiting,GEV,General,,2026-09-22,,,,,,,Industrials,stock,S&P 500
 GS|2026-09-22,waiting,GS,General,,2026-09-22,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-22,waiting,INTC,ESG,E,2026-09-22,,,,,,False,Information Technology,stock,S&P 500
 META|2026-09-22,waiting,META,General,,2026-09-22,,,,,,,Communication Services,stock,S&P 500
@@ -16,7 +20,9 @@ NVDA|2026-09-22,waiting,NVDA,ESG,E,2026-09-22,,,,,,False,Information Technology,
 PSX|2026-09-22,waiting,PSX,General,,2026-09-22,,,,,,,Energy,stock,S&P 500
 TSLA|2026-09-22,waiting,TSLA,ESG,G,2026-09-22,,,,,,True,Consumer Discretionary,stock,S&P 500
 TTWO|2026-09-22,waiting,TTWO,General,,2026-09-22,,,,,,,Communication Services,stock,S&P 500
+UNP|2026-09-22,waiting,UNP,ESG,S,2026-09-22,,,,,,True,Industrials,stock,S&P 500
 VRT|2026-09-22,waiting,VRT,General,,2026-09-22,,,,,,,Industrials,stock,S&P 500
+WBD|2026-09-22,waiting,WBD,General,,2026-09-22,,,,,,,Communication Services,stock,S&P 500
 XOM|2026-09-22,waiting,XOM,General,,2026-09-22,,,,,,,Energy,stock,S&P 500
 AAPL|2026-09-21,consolidating,AAPL,General,,2026-09-21,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-09-21,consolidating,AMAT,General,,2026-09-21,,,,,,,Information Technology,stock,S&P 500
