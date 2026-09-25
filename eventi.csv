@@ -4,13 +4,16 @@ AMD|2026-09-25,waiting,AMD,General,,2026-09-25,,,,,,,Information Technology,stoc
 AMZN|2026-09-25,waiting,AMZN,General,,2026-09-25,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-09-25,waiting,AVGO,General,,2026-09-25,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-09-25,waiting,AXP,General,,2026-09-25,,,,,,,Financials,stock,S&P 500
+BAC|2026-09-25,waiting,BAC,General,,2026-09-25,,,,,,,Financials,stock,S&P 500
 BA|2026-09-25,waiting,BA,General,,2026-09-25,,,,,,,Industrials,stock,S&P 500
 CMCSA|2026-09-25,waiting,CMCSA,General,,2026-09-25,,,,,,,Communication Services,stock,S&P 500
 CSCO|2026-09-25,waiting,CSCO,ESG,E,2026-09-25,,,,,,False,Information Technology,stock,S&P 500
 DIS|2026-09-25,waiting,DIS,General,,2026-09-25,,,,,,,Communication Services,stock,S&P 500
 ETN|2026-09-25,waiting,ETN,ESG,E,2026-09-25,,,,,,True,Industrials,stock,S&P 500
 GEV|2026-09-25,waiting,GEV,General,,2026-09-25,,,,,,,Industrials,stock,S&P 500
+GOOGL|2026-09-25,waiting,GOOGL,General,,2026-09-25,,,,,,,Communication Services,stock,S&P 500
 GS|2026-09-25,waiting,GS,ESG,E,2026-09-25,,,,,,False,Financials,stock,S&P 500
+LRCX|2026-09-25,waiting,LRCX,General,,2026-09-25,,,,,,,Information Technology,stock,S&P 500
 MA|2026-09-25,waiting,MA,General,,2026-09-25,,,,,,,Financials,stock,S&P 500
 META|2026-09-25,waiting,META,ESG,E,2026-09-25,,,,,,False,Communication Services,stock,S&P 500
 MSFT|2026-09-25,waiting,MSFT,General,,2026-09-25,,,,,,,Information Technology,stock,S&P 500
@@ -18,7 +21,7 @@ MU|2026-09-25,waiting,MU,General,,2026-09-25,,,,,,,Information Technology,stock,
 RTX|2026-09-25,waiting,RTX,General,,2026-09-25,,,,,,,Industrials,stock,S&P 500
 TSLA|2026-09-25,waiting,TSLA,ESG,E,2026-09-25,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-09-25,waiting,UBER,ESG,E,2026-09-25,,,,,,True,Industrials,stock,S&P 500
-VRT|2026-09-25,waiting,VRT,General,,2026-09-25,,,,,,,Industrials,stock,S&P 500
+VRT|2026-09-25,waiting,VRT,ESG,E,2026-09-25,,,,,,True,Industrials,stock,S&P 500
 V|2026-09-25,waiting,V,General,,2026-09-25,,,,,,,Financials,stock,S&P 500
 XOM|2026-09-25,waiting,XOM,General,,2026-09-25,,,,,,,Energy,stock,S&P 500
 AAPL|2026-09-24,consolidating,AAPL,ESG,E,2026-09-24,,,,,,False,Information Technology,stock,S&P 500
