@@ -1,7 +1,7 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-09-26,waiting,AAPL,ESG,ES,2026-09-26,,,,,,True,Information Technology,stock,S&P 500
 AMD|2026-09-26,waiting,AMD,General,,2026-09-26,,,,,,,Information Technology,stock,S&P 500
-AMZN|2026-09-26,waiting,AMZN,General,,2026-09-26,,,,,,,Consumer Discretionary,stock,S&P 500
+AMZN|2026-09-26,waiting,AMZN,ESG,S,2026-09-26,,,,,,True,Consumer Discretionary,stock,S&P 500
 AVGO|2026-09-26,waiting,AVGO,General,,2026-09-26,,,,,,,Information Technology,stock,S&P 500
 BAC|2026-09-26,waiting,BAC,General,,2026-09-26,,,,,,,Financials,stock,S&P 500
 BA|2026-09-26,waiting,BA,ESG,S,2026-09-26,,,,,,True,Industrials,stock,S&P 500
@@ -25,11 +25,13 @@ MSFT|2026-09-26,waiting,MSFT,ESG,E,2026-09-26,,,,,,False,Information Technology,
 MS|2026-09-26,waiting,MS,General,,2026-09-26,,,,,,,Financials,stock,S&P 500
 MU|2026-09-26,waiting,MU,General,,2026-09-26,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-09-26,waiting,NFLX,General,,2026-09-26,,,,,,,Communication Services,stock,S&P 500
+TMUS|2026-09-26,waiting,TMUS,ESG,E,2026-09-26,,,,,,False,Communication Services,stock,S&P 500
 TSLA|2026-09-26,waiting,TSLA,ESG,EG,2026-09-26,,,,,,True,Consumer Discretionary,stock,S&P 500
 UBER|2026-09-26,waiting,UBER,General,,2026-09-26,,,,,,,Industrials,stock,S&P 500
-VLO|2026-09-26,waiting,VLO,General,,2026-09-26,,,,,,,Energy,stock,S&P 500
+UNP|2026-09-26,waiting,UNP,ESG,S,2026-09-26,,,,,,True,Industrials,stock,S&P 500
+VLO|2026-09-26,waiting,VLO,ESG,E,2026-09-26,,,,,,True,Energy,stock,S&P 500
 V|2026-09-26,waiting,V,General,,2026-09-26,,,,,,,Financials,stock,S&P 500
-XOM|2026-09-26,waiting,XOM,General,,2026-09-26,,,,,,,Energy,stock,S&P 500
+XOM|2026-09-26,waiting,XOM,ESG,E,2026-09-26,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-09-25,consolidating,AAPL,ESG,S,2026-09-25,,,,,,True,Information Technology,stock,S&P 500
 AMAT|2026-09-25,consolidating,AMAT,General,,2026-09-25,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-25,consolidating,AMD,General,,2026-09-25,,,,,,,Information Technology,stock,S&P 500
