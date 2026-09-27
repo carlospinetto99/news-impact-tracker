@@ -1,6 +1,10 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-09-27,waiting,AAPL,General,,2026-09-27,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-09-27,waiting,AMD,General,,2026-09-27,,,,,,,Information Technology,stock,S&P 500
 BA|2026-09-27,waiting,BA,General,,2026-09-27,,,,,,,Industrials,stock,S&P 500
 META|2026-09-27,waiting,META,ESG,E,2026-09-27,,,,,,False,Communication Services,stock,S&P 500
+MSFT|2026-09-27,waiting,MSFT,General,,2026-09-27,,,,,,,Information Technology,stock,S&P 500
+MU|2026-09-27,waiting,MU,General,,2026-09-27,,,,,,,Information Technology,stock,S&P 500
 TSLA|2026-09-27,waiting,TSLA,ESG,E,2026-09-27,,,,,,False,Consumer Discretionary,stock,S&P 500
 AAPL|2026-09-26,waiting,AAPL,ESG,ES,2026-09-26,,,,,,True,Information Technology,stock,S&P 500
 AMD|2026-09-26,waiting,AMD,General,,2026-09-26,,,,,,,Information Technology,stock,S&P 500
