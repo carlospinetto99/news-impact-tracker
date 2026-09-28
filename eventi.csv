@@ -1,22 +1,30 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-09-28,waiting,AAPL,ESG,G,2026-09-28,,,,,,True,Information Technology,stock,S&P 500
-AMD|2026-09-28,waiting,AMD,General,,2026-09-28,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-09-28,waiting,AMD,ESG,E,2026-09-28,,,,,,False,Information Technology,stock,S&P 500
 AMZN|2026-09-28,waiting,AMZN,ESG,E,2026-09-28,,,,,,False,Consumer Discretionary,stock,S&P 500
+AVGO|2026-09-28,waiting,AVGO,ESG,E,2026-09-28,,,,,,False,Information Technology,stock,S&P 500
 BA|2026-09-28,waiting,BA,General,,2026-09-28,,,,,,,Industrials,stock,S&P 500
 CVX|2026-09-28,waiting,CVX,General,,2026-09-28,,,,,,,Energy,stock,S&P 500
 C|2026-09-28,waiting,C,General,,2026-09-28,,,,,,,Financials,stock,S&P 500
+ETN|2026-09-28,waiting,ETN,General,,2026-09-28,,,,,,,Industrials,stock,S&P 500
 GE|2026-09-28,waiting,GE,ESG,E,2026-09-28,,,,,,True,Industrials,stock,S&P 500
 GOOGL|2026-09-28,waiting,GOOGL,General,,2026-09-28,,,,,,,Communication Services,stock,S&P 500
 GS|2026-09-28,waiting,GS,General,,2026-09-28,,,,,,,Financials,stock,S&P 500
 INTC|2026-09-28,waiting,INTC,ESG,E,2026-09-28,,,,,,False,Information Technology,stock,S&P 500
 META|2026-09-28,waiting,META,General,,2026-09-28,,,,,,,Communication Services,stock,S&P 500
+MPC|2026-09-28,waiting,MPC,General,,2026-09-28,,,,,,,Energy,stock,S&P 500
 MSFT|2026-09-28,waiting,MSFT,General,,2026-09-28,,,,,,,Information Technology,stock,S&P 500
 MS|2026-09-28,waiting,MS,General,,2026-09-28,,,,,,,Financials,stock,S&P 500
+MU|2026-09-28,waiting,MU,ESG,E,2026-09-28,,,,,,False,Information Technology,stock,S&P 500
 NFLX|2026-09-28,waiting,NFLX,General,,2026-09-28,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-09-28,waiting,NVDA,General,,2026-09-28,,,,,,,Information Technology,stock,S&P 500
+PSX|2026-09-28,waiting,PSX,General,,2026-09-28,,,,,,,Energy,stock,S&P 500
 TSLA|2026-09-28,waiting,TSLA,ESG,E,2026-09-28,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-09-28,waiting,UBER,General,,2026-09-28,,,,,,,Industrials,stock,S&P 500
+VLO|2026-09-28,waiting,VLO,General,,2026-09-28,,,,,,,Energy,stock,S&P 500
+V|2026-09-28,waiting,V,ESG,E,2026-09-28,,,,,,False,Financials,stock,S&P 500
 WBD|2026-09-28,waiting,WBD,General,,2026-09-28,,,,,,,Communication Services,stock,S&P 500
+XOM|2026-09-28,waiting,XOM,General,,2026-09-28,,,,,,,Energy,stock,S&P 500
 AAPL|2026-09-27,waiting,AAPL,General,,2026-09-27,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-27,waiting,AMD,General,,2026-09-27,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-09-27,waiting,AMZN,ESG,S,2026-09-27,,,,,,True,Consumer Discretionary,stock,S&P 500
