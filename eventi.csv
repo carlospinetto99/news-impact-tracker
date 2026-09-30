@@ -1,16 +1,37 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-10-01,waiting,AAPL,General,,2026-10-01,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-10-01,waiting,AMD,ESG,S,2026-10-01,,,,,,True,Information Technology,stock,S&P 500
+AVGO|2026-10-01,waiting,AVGO,General,,2026-10-01,,,,,,,Information Technology,stock,S&P 500
+BA|2026-10-01,waiting,BA,General,,2026-10-01,,,,,,,Industrials,stock,S&P 500
+CVX|2026-10-01,waiting,CVX,General,,2026-10-01,,,,,,,Energy,stock,S&P 500
+GEV|2026-10-01,waiting,GEV,General,,2026-10-01,,,,,,,Industrials,stock,S&P 500
+GS|2026-10-01,waiting,GS,General,,2026-10-01,,,,,,,Financials,stock,S&P 500
+MA|2026-10-01,waiting,MA,General,,2026-10-01,,,,,,,Financials,stock,S&P 500
+META|2026-10-01,waiting,META,General,,2026-10-01,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-10-01,waiting,MSFT,General,,2026-10-01,,,,,,,Information Technology,stock,S&P 500
+MS|2026-10-01,waiting,MS,General,,2026-10-01,,,,,,,Financials,stock,S&P 500
+MU|2026-10-01,waiting,MU,General,,2026-10-01,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-10-01,waiting,NVDA,ESG,S,2026-10-01,,,,,,True,Information Technology,stock,S&P 500
+PSX|2026-10-01,waiting,PSX,General,,2026-10-01,,,,,,,Energy,stock,S&P 500
+TSLA|2026-10-01,waiting,TSLA,General,,2026-10-01,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-10-01,waiting,UBER,General,,2026-10-01,,,,,,,Industrials,stock,S&P 500
+V|2026-10-01,waiting,V,General,,2026-10-01,,,,,,,Financials,stock,S&P 500
+XOM|2026-10-01,waiting,XOM,General,,2026-10-01,,,,,,,Energy,stock,S&P 500
 AAPL|2026-09-30,consolidating,AAPL,ESG,E,2026-09-30,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-09-30,consolidating,AMAT,General,,2026-09-30,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-09-30,consolidating,AMD,ESG,E,2026-09-30,,,,,,False,Information Technology,stock,S&P 500
 AMZN|2026-09-30,consolidating,AMZN,General,,2026-09-30,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-09-30,consolidating,AVGO,General,,2026-09-30,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-09-30,consolidating,AXP,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
+BAC|2026-09-30,consolidating,BAC,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
 BA|2026-09-30,consolidating,BA,ESG,S,2026-09-30,,,,,,True,Industrials,stock,S&P 500
+BRK-B|2026-09-30,consolidating,BRK-B,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
 CAT|2026-09-30,consolidating,CAT,ESG,E,2026-09-30,,,,,,True,Industrials,stock,S&P 500
 CRM|2026-09-30,consolidating,CRM,ESG,E,2026-09-30,,,,,,False,Information Technology,stock,S&P 500
 CSCO|2026-09-30,consolidating,CSCO,General,,2026-09-30,,,,,,,Information Technology,stock,S&P 500
-CVX|2026-09-30,consolidating,CVX,General,,2026-09-30,,,,,,,Energy,stock,S&P 500
+CVX|2026-09-30,consolidating,CVX,ESG,E,2026-09-30,,,,,,True,Energy,stock,S&P 500
 DIS|2026-09-30,consolidating,DIS,ESG,S,2026-09-30,,,,,,True,Communication Services,stock,S&P 500
+ETN|2026-09-30,consolidating,ETN,General,,2026-09-30,,,,,,,Industrials,stock,S&P 500
 GEV|2026-09-30,consolidating,GEV,ESG,E,2026-09-30,,,,,,True,Industrials,stock,S&P 500
 GE|2026-09-30,consolidating,GE,ESG,E,2026-09-30,,,,,,True,Industrials,stock,S&P 500
 GS|2026-09-30,consolidating,GS,ESG,G,2026-09-30,,,,,,True,Financials,stock,S&P 500
