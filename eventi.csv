@@ -125,7 +125,6 @@ CSCO|2026-09-28,closed,CSCO,General,,2026-09-28,2.06,10.13,True,1.0,2.31,,Inform
 CVX|2026-09-28,closed,CVX,ESG,E,2026-09-28,-1.38,6.24,True,-0.96,1.42,True,Energy,stock,S&P 500
 C|2026-09-28,closed,C,General,,2026-09-28,-3.55,6.38,True,1.16,1.45,,Financials,stock,S&P 500
 DIS|2026-09-28,closed,DIS,General,,2026-09-28,-3.11,6.95,True,0.7,1.58,,Communication Services,stock,S&P 500
-EA|2026-09-28,waiting,EA,General,,2026-09-28,,,,,,,Communication Services,stock,S&P 500
 ETN|2026-09-28,closed,ETN,General,,2026-09-28,0.99,10.55,True,1.87,2.41,,Industrials,stock,S&P 500
 GEV|2026-09-28,closed,GEV,General,,2026-09-28,5.14,12.86,True,2.03,2.93,,Industrials,stock,S&P 500
 GE|2026-09-28,closed,GE,ESG,E,2026-09-28,-1.65,8.74,True,1.26,1.99,True,Industrials,stock,S&P 500
@@ -151,6 +150,7 @@ V|2026-09-28,closed,V,ESG,E,2026-09-28,-2.62,6.24,True,0.08,1.42,False,Financial
 WBD|2026-09-28,closed,WBD,General,,2026-09-28,0.8,4.18,True,0.3,0.95,,Communication Services,stock,S&P 500
 WFC|2026-09-28,closed,WFC,General,,2026-09-28,-2.33,6.71,True,0.37,1.53,,Financials,stock,S&P 500
 XOM|2026-09-28,closed,XOM,General,,2026-09-28,-0.94,7.06,True,-1.05,1.61,,Energy,stock,S&P 500
+EA|2026-09-28,waiting,EA,General,,2026-09-28,,,,,,,Communication Services,stock,S&P 500
 AAPL|2026-09-27,closed,AAPL,General,,2026-09-27,-3.31,8.18,True,0.58,1.87,,Information Technology,stock,S&P 500
 AMD|2026-09-27,closed,AMD,General,,2026-09-27,-0.86,17.1,True,3.45,3.9,,Information Technology,stock,S&P 500
 AMZN|2026-09-27,closed,AMZN,ESG,S,2026-09-27,1.18,8.54,True,1.42,1.95,True,Consumer Discretionary,stock,S&P 500
