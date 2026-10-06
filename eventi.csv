@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AMZN|2026-10-05,consolidating,AMZN,ESG,E,2026-10-05,,,,,,False,Consumer Discretionary,stock,S&P 500
 FDX|2026-10-02,consolidating,FDX,ESG,E,2026-10-02,,,,,,True,Industrials,stock,S&P 500
 AAPL|2026-10-01,consolidating,AAPL,General,,2026-10-01,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-10-01,consolidating,AMAT,General,,2026-10-01,,,,,,,Information Technology,stock,S&P 500
@@ -36,46 +37,46 @@ VRT|2026-10-01,consolidating,VRT,General,,2026-10-01,,,,,,,Industrials,stock,S&P
 V|2026-10-01,consolidating,V,General,,2026-10-01,,,,,,,Financials,stock,S&P 500
 WFC|2026-10-01,consolidating,WFC,General,,2026-10-01,,,,,,,Financials,stock,S&P 500
 XOM|2026-10-01,consolidating,XOM,General,,2026-10-01,,,,,,,Energy,stock,S&P 500
-AAPL|2026-09-30,consolidating,AAPL,ESG,E,2026-09-30,,,,,,False,Information Technology,stock,S&P 500
-AMAT|2026-09-30,consolidating,AMAT,General,,2026-09-30,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-09-30,consolidating,AMD,ESG,E,2026-09-30,,,,,,False,Information Technology,stock,S&P 500
-AMZN|2026-09-30,consolidating,AMZN,General,,2026-09-30,,,,,,,Consumer Discretionary,stock,S&P 500
-AVGO|2026-09-30,consolidating,AVGO,General,,2026-09-30,,,,,,,Information Technology,stock,S&P 500
-AXP|2026-09-30,consolidating,AXP,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
-BAC|2026-09-30,consolidating,BAC,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
-BA|2026-09-30,consolidating,BA,ESG,S,2026-09-30,,,,,,True,Industrials,stock,S&P 500
-BRK-B|2026-09-30,consolidating,BRK-B,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
-CAT|2026-09-30,consolidating,CAT,ESG,E,2026-09-30,,,,,,True,Industrials,stock,S&P 500
-CRM|2026-09-30,consolidating,CRM,ESG,E,2026-09-30,,,,,,False,Information Technology,stock,S&P 500
-CSCO|2026-09-30,consolidating,CSCO,General,,2026-09-30,,,,,,,Information Technology,stock,S&P 500
-CVX|2026-09-30,consolidating,CVX,ESG,E,2026-09-30,,,,,,True,Energy,stock,S&P 500
-DIS|2026-09-30,consolidating,DIS,ESG,S,2026-09-30,,,,,,True,Communication Services,stock,S&P 500
-ETN|2026-09-30,consolidating,ETN,General,,2026-09-30,,,,,,,Industrials,stock,S&P 500
-GEV|2026-09-30,consolidating,GEV,ESG,E,2026-09-30,,,,,,True,Industrials,stock,S&P 500
-GE|2026-09-30,consolidating,GE,ESG,E,2026-09-30,,,,,,True,Industrials,stock,S&P 500
-GS|2026-09-30,consolidating,GS,ESG,G,2026-09-30,,,,,,True,Financials,stock,S&P 500
-INTC|2026-09-30,consolidating,INTC,ESG,E,2026-09-30,,,,,,False,Information Technology,stock,S&P 500
-JPM|2026-09-30,consolidating,JPM,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
-KMI|2026-09-30,consolidating,KMI,ESG,E,2026-09-30,,,,,,True,Energy,stock,S&P 500
-MA|2026-09-30,consolidating,MA,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
-META|2026-09-30,consolidating,META,General,,2026-09-30,,,,,,,Communication Services,stock,S&P 500
-MPC|2026-09-30,consolidating,MPC,ESG,E,2026-09-30,,,,,,True,Energy,stock,S&P 500
-MSFT|2026-09-30,consolidating,MSFT,General,,2026-09-30,,,,,,,Information Technology,stock,S&P 500
-MS|2026-09-30,consolidating,MS,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
-MU|2026-09-30,consolidating,MU,General,,2026-09-30,,,,,,,Information Technology,stock,S&P 500
-NFLX|2026-09-30,consolidating,NFLX,General,,2026-09-30,,,,,,,Communication Services,stock,S&P 500
-NVDA|2026-09-30,consolidating,NVDA,General,,2026-09-30,,,,,,,Information Technology,stock,S&P 500
-PSX|2026-09-30,consolidating,PSX,General,,2026-09-30,,,,,,,Energy,stock,S&P 500
-RTX|2026-09-30,consolidating,RTX,ESG,E,2026-09-30,,,,,,True,Industrials,stock,S&P 500
-SLB|2026-09-30,consolidating,SLB,General,,2026-09-30,,,,,,,Energy,stock,S&P 500
-TMUS|2026-09-30,consolidating,TMUS,General,,2026-09-30,,,,,,,Communication Services,stock,S&P 500
-TSLA|2026-09-30,consolidating,TSLA,ESG,E,2026-09-30,,,,,,False,Consumer Discretionary,stock,S&P 500
-TTWO|2026-09-30,consolidating,TTWO,ESG,G,2026-09-30,,,,,,True,Communication Services,stock,S&P 500
-VRT|2026-09-30,consolidating,VRT,ESG,E,2026-09-30,,,,,,True,Industrials,stock,S&P 500
-V|2026-09-30,consolidating,V,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
-WBD|2026-09-30,consolidating,WBD,General,,2026-09-30,,,,,,,Communication Services,stock,S&P 500
-WFC|2026-09-30,consolidating,WFC,General,,2026-09-30,,,,,,,Financials,stock,S&P 500
-XOM|2026-09-30,consolidating,XOM,ESG,E,2026-09-30,,,,,,True,Energy,stock,S&P 500
+AAPL|2026-09-30,closed,AAPL,ESG,E,2026-09-30,-3.27,8.19,True,0.58,1.87,False,Information Technology,stock,S&P 500
+AMAT|2026-09-30,closed,AMAT,General,,2026-09-30,9.02,16.57,True,2.83,3.78,,Information Technology,stock,S&P 500
+AMD|2026-09-30,closed,AMD,ESG,E,2026-09-30,-1.85,17.12,True,3.49,3.91,False,Information Technology,stock,S&P 500
+AMZN|2026-09-30,closed,AMZN,General,,2026-09-30,0.69,8.55,True,1.42,1.95,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-09-30,closed,AVGO,General,,2026-09-30,2.03,11.44,True,2.05,2.61,,Information Technology,stock,S&P 500
+AXP|2026-09-30,closed,AXP,General,,2026-09-30,-1.27,6.14,True,0.77,1.4,,Financials,stock,S&P 500
+BAC|2026-09-30,closed,BAC,General,,2026-09-30,-3.92,5.25,True,0.58,1.2,,Financials,stock,S&P 500
+BA|2026-09-30,closed,BA,ESG,S,2026-09-30,2.94,8.07,True,1.58,1.84,True,Industrials,stock,S&P 500
+BRK-B|2026-09-30,closed,BRK-B,General,,2026-09-30,-0.14,3.77,True,0.04,0.86,,Financials,stock,S&P 500
+CAT|2026-09-30,closed,CAT,ESG,E,2026-09-30,2.0,10.27,True,1.91,2.34,True,Industrials,stock,S&P 500
+CRM|2026-09-30,closed,CRM,ESG,E,2026-09-30,-1.48,15.71,True,0.26,3.59,False,Information Technology,stock,S&P 500
+CSCO|2026-09-30,closed,CSCO,General,,2026-09-30,3.58,10.06,True,1.02,2.3,,Information Technology,stock,S&P 500
+CVX|2026-09-30,closed,CVX,ESG,E,2026-09-30,0.26,6.16,True,-0.99,1.41,True,Energy,stock,S&P 500
+DIS|2026-09-30,closed,DIS,ESG,S,2026-09-30,-2.13,6.95,True,0.72,1.59,True,Communication Services,stock,S&P 500
+ETN|2026-09-30,closed,ETN,General,,2026-09-30,-0.69,10.67,True,1.95,2.44,,Industrials,stock,S&P 500
+GEV|2026-09-30,closed,GEV,ESG,E,2026-09-30,2.96,13.11,True,2.05,2.99,True,Industrials,stock,S&P 500
+GE|2026-09-30,closed,GE,ESG,E,2026-09-30,-4.33,8.78,True,1.29,2.0,True,Industrials,stock,S&P 500
+GS|2026-09-30,closed,GS,ESG,G,2026-09-30,-3.99,7.26,True,1.64,1.66,True,Financials,stock,S&P 500
+INTC|2026-09-30,closed,INTC,ESG,E,2026-09-30,-5.04,20.67,True,3.48,4.72,False,Information Technology,stock,S&P 500
+JPM|2026-09-30,closed,JPM,General,,2026-09-30,-2.35,5.4,True,0.59,1.23,,Financials,stock,S&P 500
+KMI|2026-09-30,closed,KMI,ESG,E,2026-09-30,2.95,5.64,True,-0.34,1.29,True,Energy,stock,S&P 500
+MA|2026-09-30,closed,MA,General,,2026-09-30,-1.18,6.23,True,0.02,1.42,,Financials,stock,S&P 500
+META|2026-09-30,closed,META,General,,2026-09-30,1.8,11.53,True,1.49,2.63,,Communication Services,stock,S&P 500
+MPC|2026-09-30,closed,MPC,ESG,E,2026-09-30,8.55,9.42,True,-0.7,2.15,True,Energy,stock,S&P 500
+MSFT|2026-09-30,closed,MSFT,General,,2026-09-30,1.1,10.15,True,0.94,2.32,,Information Technology,stock,S&P 500
+MS|2026-09-30,closed,MS,General,,2026-09-30,-3.23,6.13,True,1.35,1.4,,Financials,stock,S&P 500
+MU|2026-09-30,closed,MU,General,,2026-09-30,-4.88,22.52,True,3.38,5.14,,Information Technology,stock,S&P 500
+NFLX|2026-09-30,closed,NFLX,General,,2026-09-30,-1.93,9.81,True,0.23,2.24,,Communication Services,stock,S&P 500
+NVDA|2026-09-30,closed,NVDA,General,,2026-09-30,2.02,8.6,True,1.96,1.96,,Information Technology,stock,S&P 500
+PSX|2026-09-30,closed,PSX,General,,2026-09-30,4.95,8.32,True,-0.77,1.9,,Energy,stock,S&P 500
+RTX|2026-09-30,closed,RTX,ESG,E,2026-09-30,-1.84,7.43,True,0.25,1.7,True,Industrials,stock,S&P 500
+SLB|2026-09-30,closed,SLB,General,,2026-09-30,-2.98,9.32,True,0.52,2.13,,Energy,stock,S&P 500
+TMUS|2026-09-30,closed,TMUS,General,,2026-09-30,-0.67,9.03,True,-0.2,2.06,,Communication Services,stock,S&P 500
+TSLA|2026-09-30,closed,TSLA,ESG,E,2026-09-30,4.85,11.74,True,2.29,2.68,False,Consumer Discretionary,stock,S&P 500
+TTWO|2026-09-30,closed,TTWO,ESG,G,2026-09-30,0.27,9.46,True,0.54,2.16,True,Communication Services,stock,S&P 500
+VRT|2026-09-30,closed,VRT,ESG,E,2026-09-30,2.56,16.18,True,2.84,3.69,True,Industrials,stock,S&P 500
+V|2026-09-30,closed,V,General,,2026-09-30,-0.81,6.27,True,0.07,1.43,,Financials,stock,S&P 500
+WBD|2026-09-30,closed,WBD,General,,2026-09-30,0.04,4.19,True,0.31,0.96,,Communication Services,stock,S&P 500
+WFC|2026-09-30,closed,WFC,General,,2026-09-30,-0.16,6.77,True,0.38,1.54,,Financials,stock,S&P 500
+XOM|2026-09-30,closed,XOM,ESG,E,2026-09-30,1.44,6.99,True,-1.07,1.59,True,Energy,stock,S&P 500
 AMAT|2026-09-29,closed,AMAT,General,,2026-09-29,11.99,16.67,True,2.8,3.8,,Information Technology,stock,S&P 500
 AMD|2026-09-29,closed,AMD,General,,2026-09-29,-0.95,17.07,True,3.52,3.89,,Information Technology,stock,S&P 500
 AMZN|2026-09-29,closed,AMZN,General,,2026-09-29,0.81,8.54,True,1.41,1.95,,Consumer Discretionary,stock,S&P 500
