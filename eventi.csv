@@ -1,6 +1,6 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 VST|2026-10-07,consolidating,VST,ESG,E,2026-10-07,,,,,,True,Utilities,stock,S&P 500
-AMZN|2026-10-06,consolidating,AMZN,ESG,E,2026-10-06,,,,,,False,Consumer Discretionary,stock,S&P 500
+AMZN|2026-10-06,closed,AMZN,ESG,E,2026-10-06,2.12,8.51,True,1.38,1.94,False,Consumer Discretionary,stock,S&P 500
 AMZN|2026-10-05,closed,AMZN,ESG,E,2026-10-05,2.02,8.53,True,1.38,1.95,False,Consumer Discretionary,stock,S&P 500
 FDX|2026-10-02,closed,FDX,ESG,E,2026-10-02,0.44,7.81,True,1.02,1.78,True,Industrials,stock,S&P 500
 AAPL|2026-10-01,closed,AAPL,General,,2026-10-01,-1.45,8.2,True,0.59,1.87,,Information Technology,stock,S&P 500
