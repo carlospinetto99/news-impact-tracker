@@ -1,5 +1,6 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
-TGT|2026-10-12,consolidating,TGT,ESG,,2026-10-12,,,,,,,Consumer Staples,stock,S&P 500
+BBY|2026-10-15,consolidating,BBY,ESG,E,2026-10-15,,,,,,False,Consumer Discretionary,stock,S&P 500
+TGT|2026-10-12,closed,TGT,ESG,,2026-10-12,0.96,8.87,True,0.28,2.02,,Consumer Staples,stock,S&P 500
 VST|2026-10-07,closed,VST,ESG,E,2026-10-07,9.79,11.59,True,1.22,2.64,True,Utilities,stock,S&P 500
 AMZN|2026-10-06,closed,AMZN,ESG,E,2026-10-06,2.12,8.51,True,1.38,1.94,False,Consumer Discretionary,stock,S&P 500
 AMZN|2026-10-05,closed,AMZN,ESG,E,2026-10-05,2.02,8.53,True,1.38,1.95,False,Consumer Discretionary,stock,S&P 500
