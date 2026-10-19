@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+BX|2026-10-20,waiting,BX,ESG,E,2026-10-20,,,,,,False,Financials,stock,S&P 500
 AEP|2026-10-16,consolidating,AEP,ESG,E,2026-10-16,,,,,,True,Utilities,stock,S&P 500
 XYZ|2026-10-16,consolidating,XYZ,ESG,,2026-10-16,,,,,,,Financials,stock,S&P 500
 BBY|2026-10-15,consolidating,BBY,ESG,E,2026-10-15,,,,,,False,Consumer Discretionary,stock,S&P 500
