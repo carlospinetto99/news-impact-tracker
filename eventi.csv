@@ -1,8 +1,9 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
-BX|2026-10-20,waiting,BX,ESG,E,2026-10-20,,,,,,False,Financials,stock,S&P 500
+AMZN|2026-10-20,consolidating,AMZN,ESG,E,2026-10-20,,,,,,False,Consumer Discretionary,stock,S&P 500
+BX|2026-10-20,consolidating,BX,ESG,E,2026-10-20,,,,,,False,Financials,stock,S&P 500
 AEP|2026-10-16,consolidating,AEP,ESG,E,2026-10-16,,,,,,True,Utilities,stock,S&P 500
 XYZ|2026-10-16,consolidating,XYZ,ESG,,2026-10-16,,,,,,,Financials,stock,S&P 500
-BBY|2026-10-15,consolidating,BBY,ESG,E,2026-10-15,,,,,,False,Consumer Discretionary,stock,S&P 500
+BBY|2026-10-15,closed,BBY,ESG,E,2026-10-15,5.09,11.5,True,0.56,2.62,False,Consumer Discretionary,stock,S&P 500
 TGT|2026-10-12,closed,TGT,ESG,,2026-10-12,0.96,8.87,True,0.28,2.02,,Consumer Staples,stock,S&P 500
 VST|2026-10-07,closed,VST,ESG,E,2026-10-07,9.79,11.59,True,1.22,2.64,True,Utilities,stock,S&P 500
 AMZN|2026-10-06,closed,AMZN,ESG,E,2026-10-06,2.12,8.51,True,1.38,1.94,False,Consumer Discretionary,stock,S&P 500
