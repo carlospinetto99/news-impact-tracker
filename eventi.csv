@@ -1,7 +1,7 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 PEP|2026-10-21,consolidating,PEP,ESG,E,2026-10-21,,,,,,True,Consumer Staples,stock,S&P 500
-AMZN|2026-10-20,consolidating,AMZN,ESG,E,2026-10-20,,,,,,False,Consumer Discretionary,stock,S&P 500
-BX|2026-10-20,consolidating,BX,ESG,E,2026-10-20,,,,,,False,Financials,stock,S&P 500
+AMZN|2026-10-20,closed,AMZN,ESG,E,2026-10-20,0.03,8.24,True,1.36,1.88,False,Consumer Discretionary,stock,S&P 500
+BX|2026-10-20,closed,BX,ESG,E,2026-10-20,9.58,8.88,False,1.38,2.03,False,Financials,stock,S&P 500
 AEP|2026-10-16,closed,AEP,ESG,E,2026-10-16,1.87,5.42,True,-0.13,1.24,True,Utilities,stock,S&P 500
 XYZ|2026-10-16,closed,XYZ,ESG,,2026-10-16,4.44,9.05,True,1.66,2.06,,Financials,stock,S&P 500
 BBY|2026-10-15,closed,BBY,ESG,E,2026-10-15,5.09,11.5,True,0.56,2.62,False,Consumer Discretionary,stock,S&P 500
