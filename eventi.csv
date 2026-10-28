@@ -1,4 +1,6 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+MSFT|2026-10-28,consolidating,MSFT,ESG,E,2026-10-28,,,,,,False,Information Technology,stock,S&P 500
+MS|2026-10-28,consolidating,MS,ESG,E,2026-10-28,,,,,,False,Financials,stock,S&P 500
 BLK|2026-10-26,consolidating,BLK,ESG,E,2026-10-26,,,,,,False,Financials,stock,S&P 500
 MS|2026-10-26,consolidating,MS,ESG,E,2026-10-26,,,,,,False,Financials,stock,S&P 500
 PEP|2026-10-21,closed,PEP,ESG,E,2026-10-21,2.03,5.81,True,-0.29,1.33,True,Consumer Staples,stock,S&P 500
