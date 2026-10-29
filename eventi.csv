@@ -1,8 +1,10 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+CRM|2026-10-29,consolidating,CRM,ESG,E,2026-10-29,,,,,,False,Information Technology,stock,S&P 500
+DD|2026-10-29,consolidating,DD,ESG,E,2026-10-29,,,,,,True,Materials,stock,S&P 500
 MSFT|2026-10-28,consolidating,MSFT,ESG,E,2026-10-28,,,,,,False,Information Technology,stock,S&P 500
 MS|2026-10-28,consolidating,MS,ESG,E,2026-10-28,,,,,,False,Financials,stock,S&P 500
-BLK|2026-10-26,consolidating,BLK,ESG,E,2026-10-26,,,,,,False,Financials,stock,S&P 500
-MS|2026-10-26,consolidating,MS,ESG,E,2026-10-26,,,,,,False,Financials,stock,S&P 500
+BLK|2026-10-26,closed,BLK,ESG,E,2026-10-26,2.04,6.1,True,0.98,1.39,False,Financials,stock,S&P 500
+MS|2026-10-26,closed,MS,ESG,E,2026-10-26,4.4,6.21,True,1.31,1.42,False,Financials,stock,S&P 500
 PEP|2026-10-21,closed,PEP,ESG,E,2026-10-21,2.03,5.81,True,-0.29,1.33,True,Consumer Staples,stock,S&P 500
 AMZN|2026-10-20,closed,AMZN,ESG,E,2026-10-20,0.03,8.24,True,1.36,1.88,False,Consumer Discretionary,stock,S&P 500
 BX|2026-10-20,closed,BX,ESG,E,2026-10-20,9.58,8.88,False,1.38,2.03,False,Financials,stock,S&P 500
