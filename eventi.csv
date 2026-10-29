@@ -1,6 +1,7 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 CRM|2026-10-29,consolidating,CRM,ESG,E,2026-10-29,,,,,,False,Information Technology,stock,S&P 500
 DD|2026-10-29,consolidating,DD,ESG,E,2026-10-29,,,,,,True,Materials,stock,S&P 500
+MS|2026-10-29,consolidating,MS,ESG,,2026-10-29,,,,,,,Financials,stock,S&P 500
 MSFT|2026-10-28,consolidating,MSFT,ESG,E,2026-10-28,,,,,,False,Information Technology,stock,S&P 500
 MS|2026-10-28,consolidating,MS,ESG,E,2026-10-28,,,,,,False,Financials,stock,S&P 500
 BLK|2026-10-26,closed,BLK,ESG,E,2026-10-26,2.04,6.1,True,0.98,1.39,False,Financials,stock,S&P 500
