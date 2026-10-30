@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+TGT|2026-10-30,consolidating,TGT,ESG,E,2026-10-30,,,,,,True,Consumer Staples,stock,S&P 500
 CRM|2026-10-29,consolidating,CRM,ESG,E,2026-10-29,,,,,,False,Information Technology,stock,S&P 500
 DD|2026-10-29,consolidating,DD,ESG,E,2026-10-29,,,,,,True,Materials,stock,S&P 500
 MS|2026-10-29,consolidating,MS,ESG,,2026-10-29,,,,,,,Financials,stock,S&P 500
