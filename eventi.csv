@@ -1,4 +1,5 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+WMT|2026-11-03,waiting,WMT,ESG,E,2026-11-03,,,,,,True,Consumer Staples,stock,S&P 500
 AMZN|2026-11-02,consolidating,AMZN,ESG,,2026-11-02,,,,,,,Consumer Discretionary,stock,S&P 500
 BAC|2026-11-02,consolidating,BAC,ESG,E,2026-11-02,,,,,,False,Financials,stock,S&P 500
 PM|2026-11-02,consolidating,PM,ESG,,2026-11-02,,,,,,,Consumer Staples,stock,S&P 500
