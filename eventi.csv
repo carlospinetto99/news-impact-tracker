@@ -1,15 +1,36 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
-AMD|2026-11-04,waiting,AMD,ESG,G,2026-11-04,,,,,,True,Information Technology,stock,S&P 500
+AAPL|2026-11-04,waiting,AAPL,General,,2026-11-04,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-11-04,waiting,AMAT,General,,2026-11-04,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-11-04,waiting,AMD,General,,2026-11-04,,,,,,,Information Technology,stock,S&P 500
+AVGO|2026-11-04,waiting,AVGO,General,,2026-11-04,,,,,,,Information Technology,stock,S&P 500
+AXP|2026-11-04,waiting,AXP,General,,2026-11-04,,,,,,,Financials,stock,S&P 500
+BA|2026-11-04,waiting,BA,ESG,E,2026-11-04,,,,,,True,Industrials,stock,S&P 500
+BLK|2026-11-04,waiting,BLK,ESG,,2026-11-04,,,,,,,Financials,stock,S&P 500
+CAT|2026-11-04,waiting,CAT,General,,2026-11-04,,,,,,,Industrials,stock,S&P 500
 CMCSA|2026-11-04,waiting,CMCSA,ESG,S,2026-11-04,,,,,,True,Communication Services,stock,S&P 500
+CSCO|2026-11-04,waiting,CSCO,ESG,E,2026-11-04,,,,,,False,Information Technology,stock,S&P 500
 DIS|2026-11-04,waiting,DIS,General,,2026-11-04,,,,,,,Communication Services,stock,S&P 500
+ETN|2026-11-04,waiting,ETN,General,,2026-11-04,,,,,,,Industrials,stock,S&P 500
+GEV|2026-11-04,waiting,GEV,General,,2026-11-04,,,,,,,Industrials,stock,S&P 500
+GE|2026-11-04,waiting,GE,General,,2026-11-04,,,,,,,Industrials,stock,S&P 500
 INTC|2026-11-04,waiting,INTC,General,,2026-11-04,,,,,,,Information Technology,stock,S&P 500
+KMI|2026-11-04,waiting,KMI,General,,2026-11-04,,,,,,,Energy,stock,S&P 500
+LRCX|2026-11-04,waiting,LRCX,General,,2026-11-04,,,,,,,Information Technology,stock,S&P 500
+MA|2026-11-04,waiting,MA,General,,2026-11-04,,,,,,,Financials,stock,S&P 500
 META|2026-11-04,waiting,META,General,,2026-11-04,,,,,,,Communication Services,stock,S&P 500
 MPC|2026-11-04,waiting,MPC,General,,2026-11-04,,,,,,,Energy,stock,S&P 500
+MSFT|2026-11-04,waiting,MSFT,General,,2026-11-04,,,,,,,Information Technology,stock,S&P 500
+MU|2026-11-04,waiting,MU,General,,2026-11-04,,,,,,,Information Technology,stock,S&P 500
 NFLX|2026-11-04,waiting,NFLX,General,,2026-11-04,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-11-04,waiting,NVDA,General,,2026-11-04,,,,,,,Information Technology,stock,S&P 500
+PSX|2026-11-04,waiting,PSX,ESG,E,2026-11-04,,,,,,True,Energy,stock,S&P 500
+TMUS|2026-11-04,waiting,TMUS,General,,2026-11-04,,,,,,,Communication Services,stock,S&P 500
 TSLA|2026-11-04,waiting,TSLA,General,,2026-11-04,,,,,,,Consumer Discretionary,stock,S&P 500
 UBER|2026-11-04,waiting,UBER,General,,2026-11-04,,,,,,,Industrials,stock,S&P 500
+VLO|2026-11-04,waiting,VLO,ESG,E,2026-11-04,,,,,,True,Energy,stock,S&P 500
+V|2026-11-04,waiting,V,General,,2026-11-04,,,,,,,Financials,stock,S&P 500
 WFC|2026-11-04,waiting,WFC,General,,2026-11-04,,,,,,,Financials,stock,S&P 500
+WMB|2026-11-04,waiting,WMB,General,,2026-11-04,,,,,,,Energy,stock,S&P 500
 AAPL|2026-11-03,consolidating,AAPL,ESG,E,2026-11-03,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-11-03,consolidating,AMAT,General,,2026-11-03,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-03,consolidating,AMD,General,,2026-11-03,,,,,,,Information Technology,stock,S&P 500
@@ -30,6 +51,7 @@ ETN|2026-11-03,consolidating,ETN,ESG,E,2026-11-03,,,,,,True,Industrials,stock,S&
 GEV|2026-11-03,consolidating,GEV,ESG,E,2026-11-03,,,,,,True,Industrials,stock,S&P 500
 GE|2026-11-03,consolidating,GE,General,,2026-11-03,,,,,,,Industrials,stock,S&P 500
 GS|2026-11-03,consolidating,GS,General,,2026-11-03,,,,,,,Financials,stock,S&P 500
+JPM|2026-11-03,consolidating,JPM,General,,2026-11-03,,,,,,,Financials,stock,S&P 500
 LRCX|2026-11-03,consolidating,LRCX,ESG,G,2026-11-03,,,,,,True,Information Technology,stock,S&P 500
 MA|2026-11-03,consolidating,MA,General,,2026-11-03,,,,,,,Financials,stock,S&P 500
 META|2026-11-03,consolidating,META,General,,2026-11-03,,,,,,,Communication Services,stock,S&P 500
