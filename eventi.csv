@@ -1,8 +1,10 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-11-07,waiting,AAPL,General,,2026-11-07,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-07,waiting,AMD,General,,2026-11-07,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-11-07,waiting,AMZN,General,,2026-11-07,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-11-07,waiting,AVGO,General,,2026-11-07,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-11-07,waiting,AXP,General,,2026-11-07,,,,,,,Financials,stock,S&P 500
-BAC|2026-11-07,waiting,BAC,General,,2026-11-07,,,,,,,Financials,stock,S&P 500
+BAC|2026-11-07,waiting,BAC,ESG,E,2026-11-07,,,,,,False,Financials,stock,S&P 500
 BA|2026-11-07,waiting,BA,General,,2026-11-07,,,,,,,Industrials,stock,S&P 500
 BRK-B|2026-11-07,waiting,BRK-B,ESG,E,2026-11-07,,,,,,False,Financials,stock,S&P 500
 CAT|2026-11-07,waiting,CAT,General,,2026-11-07,,,,,,,Industrials,stock,S&P 500
@@ -12,6 +14,7 @@ CVX|2026-11-07,waiting,CVX,General,,2026-11-07,,,,,,,Energy,stock,S&P 500
 DE|2026-11-07,waiting,DE,ESG,G,2026-11-07,,,,,,True,Industrials,stock,S&P 500
 EOG|2026-11-07,waiting,EOG,General,,2026-11-07,,,,,,,Energy,stock,S&P 500
 ETN|2026-11-07,waiting,ETN,General,,2026-11-07,,,,,,,Industrials,stock,S&P 500
+GOOGL|2026-11-07,waiting,GOOGL,General,,2026-11-07,,,,,,,Communication Services,stock,S&P 500
 GS|2026-11-07,waiting,GS,General,,2026-11-07,,,,,,,Financials,stock,S&P 500
 INTC|2026-11-07,waiting,INTC,General,,2026-11-07,,,,,,,Information Technology,stock,S&P 500
 LRCX|2026-11-07,waiting,LRCX,General,,2026-11-07,,,,,,,Information Technology,stock,S&P 500
