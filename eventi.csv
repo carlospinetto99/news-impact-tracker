@@ -1,10 +1,23 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-11-08,waiting,AAPL,General,,2026-11-08,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-11-08,waiting,AMAT,General,,2026-11-08,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-11-08,waiting,AMD,General,,2026-11-08,,,,,,,Information Technology,stock,S&P 500
+AVGO|2026-11-08,waiting,AVGO,General,,2026-11-08,,,,,,,Information Technology,stock,S&P 500
+BAC|2026-11-08,waiting,BAC,General,,2026-11-08,,,,,,,Financials,stock,S&P 500
 BRK-B|2026-11-08,waiting,BRK-B,General,,2026-11-08,,,,,,,Financials,stock,S&P 500
+CAT|2026-11-08,waiting,CAT,General,,2026-11-08,,,,,,,Industrials,stock,S&P 500
+CMCSA|2026-11-08,waiting,CMCSA,General,,2026-11-08,,,,,,,Communication Services,stock,S&P 500
+CSCO|2026-11-08,waiting,CSCO,General,,2026-11-08,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-11-08,waiting,CVX,General,,2026-11-08,,,,,,,Energy,stock,S&P 500
 EOG|2026-11-08,waiting,EOG,General,,2026-11-08,,,,,,,Energy,stock,S&P 500
 GEV|2026-11-08,waiting,GEV,General,,2026-11-08,,,,,,,Industrials,stock,S&P 500
 JPM|2026-11-08,waiting,JPM,General,,2026-11-08,,,,,,,Financials,stock,S&P 500
 MSFT|2026-11-08,waiting,MSFT,General,,2026-11-08,,,,,,,Information Technology,stock,S&P 500
+MS|2026-11-08,waiting,MS,ESG,ES,2026-11-08,,,,,,False,Financials,stock,S&P 500
+TSLA|2026-11-08,waiting,TSLA,General,,2026-11-08,,,,,,,Consumer Discretionary,stock,S&P 500
+UNP|2026-11-08,waiting,UNP,ESG,S,2026-11-08,,,,,,True,Industrials,stock,S&P 500
 VRT|2026-11-08,waiting,VRT,General,,2026-11-08,,,,,,,Industrials,stock,S&P 500
+XOM|2026-11-08,waiting,XOM,General,,2026-11-08,,,,,,,Energy,stock,S&P 500
 AAPL|2026-11-07,waiting,AAPL,General,,2026-11-07,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-07,waiting,AMD,General,,2026-11-07,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-11-07,waiting,AMZN,General,,2026-11-07,,,,,,,Consumer Discretionary,stock,S&P 500
