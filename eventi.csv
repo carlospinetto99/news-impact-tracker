@@ -1,10 +1,23 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AMD|2026-11-11,waiting,AMD,General,,2026-11-11,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-11-11,waiting,AMZN,General,,2026-11-11,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-11-11,waiting,AVGO,General,,2026-11-11,,,,,,,Information Technology,stock,S&P 500
+CAT|2026-11-11,waiting,CAT,General,,2026-11-11,,,,,,,Industrials,stock,S&P 500
+C|2026-11-11,waiting,C,General,,2026-11-11,,,,,,,Financials,stock,S&P 500
+DE|2026-11-11,waiting,DE,General,,2026-11-11,,,,,,,Industrials,stock,S&P 500
+ETN|2026-11-11,waiting,ETN,General,,2026-11-11,,,,,,,Industrials,stock,S&P 500
 GEV|2026-11-11,waiting,GEV,General,,2026-11-11,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-11-11,waiting,GOOGL,General,,2026-11-11,,,,,,,Communication Services,stock,S&P 500
+JPM|2026-11-11,waiting,JPM,General,,2026-11-11,,,,,,,Financials,stock,S&P 500
 META|2026-11-11,waiting,META,General,,2026-11-11,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-11-11,waiting,MSFT,General,,2026-11-11,,,,,,,Information Technology,stock,S&P 500
+MS|2026-11-11,waiting,MS,ESG,E,2026-11-11,,,,,,False,Financials,stock,S&P 500
+NFLX|2026-11-11,waiting,NFLX,General,,2026-11-11,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-11-11,waiting,NVDA,General,,2026-11-11,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-11-11,waiting,TSLA,ESG,E,2026-11-11,,,,,,False,Consumer Discretionary,stock,S&P 500
+TTWO|2026-11-11,waiting,TTWO,General,,2026-11-11,,,,,,,Communication Services,stock,S&P 500
+UBER|2026-11-11,waiting,UBER,General,,2026-11-11,,,,,,,Industrials,stock,S&P 500
+VLO|2026-11-11,waiting,VLO,ESG,E,2026-11-11,,,,,,True,Energy,stock,S&P 500
 VRT|2026-11-11,waiting,VRT,General,,2026-11-11,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-11-10,consolidating,AAPL,General,,2026-11-10,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-11-10,consolidating,AMAT,General,,2026-11-10,,,,,,,Information Technology,stock,S&P 500
