@@ -1,7 +1,11 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AMZN|2026-11-15,waiting,AMZN,ESG,S,2026-11-15,,,,,,True,Consumer Discretionary,stock,S&P 500
+INTC|2026-11-15,waiting,INTC,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
+MU|2026-11-15,waiting,MU,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-11-15,waiting,NVDA,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
 AAPL|2026-11-14,waiting,AAPL,ESG,E,2026-11-14,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-11-14,waiting,AMAT,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-11-14,waiting,AMD,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-11-14,waiting,AMD,ESG,E,2026-11-14,,,,,,False,Information Technology,stock,S&P 500
 AMZN|2026-11-14,waiting,AMZN,General,,2026-11-14,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-11-14,waiting,AVGO,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
 AXP|2026-11-14,waiting,AXP,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
@@ -17,6 +21,7 @@ META|2026-11-14,waiting,META,ESG,S,2026-11-14,,,,,,True,Communication Services,s
 MSFT|2026-11-14,waiting,MSFT,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
 MS|2026-11-14,waiting,MS,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
 MU|2026-11-14,waiting,MU,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-11-14,waiting,NFLX,General,,2026-11-14,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-11-14,waiting,NVDA,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
 TSLA|2026-11-14,waiting,TSLA,ESG,E,2026-11-14,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-11-14,waiting,UBER,ESG,E,2026-11-14,,,,,,True,Industrials,stock,S&P 500
