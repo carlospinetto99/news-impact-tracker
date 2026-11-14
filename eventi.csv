@@ -2,17 +2,27 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-11-14,waiting,AAPL,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-11-14,waiting,AMAT,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-14,waiting,AMD,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-11-14,waiting,AMZN,General,,2026-11-14,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-11-14,waiting,AVGO,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+AXP|2026-11-14,waiting,AXP,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
+BAC|2026-11-14,waiting,BAC,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
 BA|2026-11-14,waiting,BA,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
 CAT|2026-11-14,waiting,CAT,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
 CSCO|2026-11-14,waiting,CSCO,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
 GOOGL|2026-11-14,waiting,GOOGL,General,,2026-11-14,,,,,,,Communication Services,stock,S&P 500
 INTC|2026-11-14,waiting,INTC,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+JPM|2026-11-14,waiting,JPM,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
+META|2026-11-14,waiting,META,General,,2026-11-14,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-11-14,waiting,MSFT,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+MS|2026-11-14,waiting,MS,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
 MU|2026-11-14,waiting,MU,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
-TSLA|2026-11-14,waiting,TSLA,General,,2026-11-14,,,,,,,Consumer Discretionary,stock,S&P 500
+NVDA|2026-11-14,waiting,NVDA,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-11-14,waiting,TSLA,ESG,E,2026-11-14,,,,,,False,Consumer Discretionary,stock,S&P 500
 UBER|2026-11-14,waiting,UBER,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
+VLO|2026-11-14,waiting,VLO,General,,2026-11-14,,,,,,,Energy,stock,S&P 500
 VRT|2026-11-14,waiting,VRT,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
+V|2026-11-14,waiting,V,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
+XOM|2026-11-14,waiting,XOM,General,,2026-11-14,,,,,,,Energy,stock,S&P 500
 AAPL|2026-11-13,consolidating,AAPL,ESG,E,2026-11-13,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-11-13,consolidating,AMAT,General,,2026-11-13,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-13,consolidating,AMD,General,,2026-11-13,,,,,,,Information Technology,stock,S&P 500
