@@ -1,4 +1,18 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-11-14,waiting,AAPL,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-11-14,waiting,AMAT,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-11-14,waiting,AMD,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+AVGO|2026-11-14,waiting,AVGO,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+BA|2026-11-14,waiting,BA,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
+CAT|2026-11-14,waiting,CAT,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
+CSCO|2026-11-14,waiting,CSCO,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+GOOGL|2026-11-14,waiting,GOOGL,General,,2026-11-14,,,,,,,Communication Services,stock,S&P 500
+INTC|2026-11-14,waiting,INTC,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+MSFT|2026-11-14,waiting,MSFT,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+MU|2026-11-14,waiting,MU,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-11-14,waiting,TSLA,General,,2026-11-14,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-11-14,waiting,UBER,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
+VRT|2026-11-14,waiting,VRT,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-11-13,consolidating,AAPL,ESG,E,2026-11-13,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-11-13,consolidating,AMAT,General,,2026-11-13,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-13,consolidating,AMD,General,,2026-11-13,,,,,,,Information Technology,stock,S&P 500
@@ -24,7 +38,7 @@ JPM|2026-11-13,consolidating,JPM,ESG,S,2026-11-13,,,,,,False,Financials,stock,S&
 KMI|2026-11-13,consolidating,KMI,ESG,EG,2026-11-13,,,,,,True,Energy,stock,S&P 500
 LRCX|2026-11-13,consolidating,LRCX,General,,2026-11-13,,,,,,,Information Technology,stock,S&P 500
 MA|2026-11-13,consolidating,MA,General,,2026-11-13,,,,,,,Financials,stock,S&P 500
-META|2026-11-13,consolidating,META,General,,2026-11-13,,,,,,,Communication Services,stock,S&P 500
+META|2026-11-13,consolidating,META,ESG,S,2026-11-13,,,,,,True,Communication Services,stock,S&P 500
 MSFT|2026-11-13,consolidating,MSFT,ESG,ES,2026-11-13,,,,,,True,Information Technology,stock,S&P 500
 MS|2026-11-13,consolidating,MS,ESG,S,2026-11-13,,,,,,False,Financials,stock,S&P 500
 MU|2026-11-13,consolidating,MU,General,,2026-11-13,,,,,,,Information Technology,stock,S&P 500
@@ -32,7 +46,7 @@ NFLX|2026-11-13,consolidating,NFLX,General,,2026-11-13,,,,,,,Communication Servi
 NVDA|2026-11-13,consolidating,NVDA,General,,2026-11-13,,,,,,,Information Technology,stock,S&P 500
 RTX|2026-11-13,consolidating,RTX,General,,2026-11-13,,,,,,,Industrials,stock,S&P 500
 TMUS|2026-11-13,consolidating,TMUS,General,,2026-11-13,,,,,,,Communication Services,stock,S&P 500
-TSLA|2026-11-13,consolidating,TSLA,ESG,E,2026-11-13,,,,,,False,Consumer Discretionary,stock,S&P 500
+TSLA|2026-11-13,consolidating,TSLA,ESG,EG,2026-11-13,,,,,,True,Consumer Discretionary,stock,S&P 500
 UBER|2026-11-13,consolidating,UBER,General,,2026-11-13,,,,,,,Industrials,stock,S&P 500
 VRT|2026-11-13,consolidating,VRT,ESG,E,2026-11-13,,,,,,True,Industrials,stock,S&P 500
 V|2026-11-13,consolidating,V,General,,2026-11-13,,,,,,,Financials,stock,S&P 500
