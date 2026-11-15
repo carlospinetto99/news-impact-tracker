@@ -1,11 +1,16 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-11-15,waiting,AAPL,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-11-15,waiting,AMD,ESG,E,2026-11-15,,,,,,False,Information Technology,stock,S&P 500
 AMZN|2026-11-15,waiting,AMZN,ESG,S,2026-11-15,,,,,,True,Consumer Discretionary,stock,S&P 500
 BAC|2026-11-15,waiting,BAC,General,,2026-11-15,,,,,,,Financials,stock,S&P 500
+CSCO|2026-11-15,waiting,CSCO,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
 INTC|2026-11-15,waiting,INTC,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
+META|2026-11-15,waiting,META,General,,2026-11-15,,,,,,,Communication Services,stock,S&P 500
 MU|2026-11-15,waiting,MU,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
 NVDA|2026-11-15,waiting,NVDA,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
+RTX|2026-11-15,waiting,RTX,General,,2026-11-15,,,,,,,Industrials,stock,S&P 500
 TSLA|2026-11-15,waiting,TSLA,General,,2026-11-15,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-11-15,waiting,UBER,General,,2026-11-15,,,,,,,Industrials,stock,S&P 500
 AAPL|2026-11-14,waiting,AAPL,ESG,E,2026-11-14,,,,,,False,Information Technology,stock,S&P 500
 AMAT|2026-11-14,waiting,AMAT,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-14,waiting,AMD,ESG,E,2026-11-14,,,,,,False,Information Technology,stock,S&P 500
@@ -14,7 +19,7 @@ AVGO|2026-11-14,waiting,AVGO,General,,2026-11-14,,,,,,,Information Technology,st
 AXP|2026-11-14,waiting,AXP,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
 BAC|2026-11-14,waiting,BAC,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
 BA|2026-11-14,waiting,BA,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
-CAT|2026-11-14,waiting,CAT,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
+CAT|2026-11-14,waiting,CAT,ESG,G,2026-11-14,,,,,,True,Industrials,stock,S&P 500
 CSCO|2026-11-14,waiting,CSCO,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
 ETN|2026-11-14,waiting,ETN,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
 GOOGL|2026-11-14,waiting,GOOGL,General,,2026-11-14,,,,,,,Communication Services,stock,S&P 500
