@@ -1,14 +1,22 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
 AAPL|2026-11-18,waiting,AAPL,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-11-18,waiting,AMAT,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-18,waiting,AMD,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-11-18,waiting,AMZN,General,,2026-11-18,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-11-18,waiting,AVGO,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
+BAC|2026-11-18,waiting,BAC,General,,2026-11-18,,,,,,,Financials,stock,S&P 500
 BRK-B|2026-11-18,waiting,BRK-B,General,,2026-11-18,,,,,,,Financials,stock,S&P 500
 CSCO|2026-11-18,waiting,CSCO,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-11-18,waiting,CVX,ESG,E,2026-11-18,,,,,,True,Energy,stock,S&P 500
 DIS|2026-11-18,waiting,DIS,General,,2026-11-18,,,,,,,Communication Services,stock,S&P 500
+ETN|2026-11-18,waiting,ETN,General,,2026-11-18,,,,,,,Industrials,stock,S&P 500
 INTC|2026-11-18,waiting,INTC,ESG,G,2026-11-18,,,,,,True,Information Technology,stock,S&P 500
+MU|2026-11-18,waiting,MU,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-11-18,waiting,NFLX,General,,2026-11-18,,,,,,,Communication Services,stock,S&P 500
 NVDA|2026-11-18,waiting,NVDA,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
-TSLA|2026-11-18,waiting,TSLA,General,,2026-11-18,,,,,,,Consumer Discretionary,stock,S&P 500
+RTX|2026-11-18,waiting,RTX,General,,2026-11-18,,,,,,,Industrials,stock,S&P 500
+TSLA|2026-11-18,waiting,TSLA,ESG,E,2026-11-18,,,,,,False,Consumer Discretionary,stock,S&P 500
+UBER|2026-11-18,waiting,UBER,ESG,E,2026-11-18,,,,,,True,Industrials,stock,S&P 500
 AAPL|2026-11-17,consolidating,AAPL,General,,2026-11-17,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-11-17,consolidating,AMAT,General,,2026-11-17,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-17,consolidating,AMD,General,,2026-11-17,,,,,,,Information Technology,stock,S&P 500
