@@ -1,36 +1,61 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
-AAPL|2026-11-19,waiting,AAPL,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
-AMAT|2026-11-19,waiting,AMAT,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-11-19,waiting,AMD,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
-AVGO|2026-11-19,waiting,AVGO,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
-BAC|2026-11-19,waiting,BAC,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
-BA|2026-11-19,waiting,BA,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
-BRK-B|2026-11-19,waiting,BRK-B,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
-CAT|2026-11-19,waiting,CAT,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
-CMCSA|2026-11-19,waiting,CMCSA,General,,2026-11-19,,,,,,,Communication Services,stock,S&P 500
-CSCO|2026-11-19,waiting,CSCO,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
-CVX|2026-11-19,waiting,CVX,General,,2026-11-19,,,,,,,Energy,stock,S&P 500
-DIS|2026-11-19,waiting,DIS,General,,2026-11-19,,,,,,,Communication Services,stock,S&P 500
-GEV|2026-11-19,waiting,GEV,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
-GE|2026-11-19,waiting,GE,ESG,E,2026-11-19,,,,,,True,Industrials,stock,S&P 500
-GS|2026-11-19,waiting,GS,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
-INTC|2026-11-19,waiting,INTC,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
-JPM|2026-11-19,waiting,JPM,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
-MA|2026-11-19,waiting,MA,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
-META|2026-11-19,waiting,META,General,,2026-11-19,,,,,,,Communication Services,stock,S&P 500
-MSFT|2026-11-19,waiting,MSFT,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
-MS|2026-11-19,waiting,MS,ESG,E,2026-11-19,,,,,,False,Financials,stock,S&P 500
-NFLX|2026-11-19,waiting,NFLX,General,,2026-11-19,,,,,,,Communication Services,stock,S&P 500
-NVDA|2026-11-19,waiting,NVDA,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
-RTX|2026-11-19,waiting,RTX,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
-TSLA|2026-11-19,waiting,TSLA,General,,2026-11-19,,,,,,,Consumer Discretionary,stock,S&P 500
-TTWO|2026-11-19,waiting,TTWO,General,,2026-11-19,,,,,,,Communication Services,stock,S&P 500
-UBER|2026-11-19,waiting,UBER,ESG,S,2026-11-19,,,,,,True,Industrials,stock,S&P 500
-UNP|2026-11-19,waiting,UNP,ESG,S,2026-11-19,,,,,,True,Industrials,stock,S&P 500
-VRT|2026-11-19,waiting,VRT,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
-V|2026-11-19,waiting,V,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
-WMB|2026-11-19,waiting,WMB,ESG,E,2026-11-19,,,,,,True,Energy,stock,S&P 500
-XOM|2026-11-19,waiting,XOM,General,,2026-11-19,,,,,,,Energy,stock,S&P 500
+AAPL|2026-11-20,waiting,AAPL,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-11-20,waiting,AMD,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-11-20,waiting,AMZN,General,,2026-11-20,,,,,,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-11-20,waiting,AVGO,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
+CSCO|2026-11-20,waiting,CSCO,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
+DE|2026-11-20,waiting,DE,General,,2026-11-20,,,,,,,Industrials,stock,S&P 500
+INTC|2026-11-20,waiting,INTC,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
+META|2026-11-20,waiting,META,General,,2026-11-20,,,,,,,Communication Services,stock,S&P 500
+MSFT|2026-11-20,waiting,MSFT,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
+MS|2026-11-20,waiting,MS,General,,2026-11-20,,,,,,,Financials,stock,S&P 500
+MU|2026-11-20,waiting,MU,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-11-20,waiting,NVDA,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-11-20,waiting,TSLA,General,,2026-11-20,,,,,,,Consumer Discretionary,stock,S&P 500
+UBER|2026-11-20,waiting,UBER,General,,2026-11-20,,,,,,,Industrials,stock,S&P 500
+V|2026-11-20,waiting,V,General,,2026-11-20,,,,,,,Financials,stock,S&P 500
+WFC|2026-11-20,waiting,WFC,General,,2026-11-20,,,,,,,Financials,stock,S&P 500
+XOM|2026-11-20,waiting,XOM,General,,2026-11-20,,,,,,,Energy,stock,S&P 500
+AAPL|2026-11-19,consolidating,AAPL,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
+AMAT|2026-11-19,consolidating,AMAT,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
+AMD|2026-11-19,consolidating,AMD,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-11-19,consolidating,AMZN,ESG,E,2026-11-19,,,,,,False,Consumer Discretionary,stock,S&P 500
+AVGO|2026-11-19,consolidating,AVGO,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
+BAC|2026-11-19,consolidating,BAC,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
+BA|2026-11-19,consolidating,BA,ESG,G,2026-11-19,,,,,,True,Industrials,stock,S&P 500
+BRK-B|2026-11-19,consolidating,BRK-B,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
+CAT|2026-11-19,consolidating,CAT,ESG,GS,2026-11-19,,,,,,True,Industrials,stock,S&P 500
+CMCSA|2026-11-19,consolidating,CMCSA,General,,2026-11-19,,,,,,,Communication Services,stock,S&P 500
+CSCO|2026-11-19,consolidating,CSCO,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-11-19,consolidating,CVX,ESG,E,2026-11-19,,,,,,True,Energy,stock,S&P 500
+C|2026-11-19,consolidating,C,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
+DE|2026-11-19,consolidating,DE,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
+DIS|2026-11-19,consolidating,DIS,General,,2026-11-19,,,,,,,Communication Services,stock,S&P 500
+ETN|2026-11-19,consolidating,ETN,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
+GEV|2026-11-19,consolidating,GEV,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
+GE|2026-11-19,consolidating,GE,ESG,E,2026-11-19,,,,,,True,Industrials,stock,S&P 500
+GS|2026-11-19,consolidating,GS,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
+INTC|2026-11-19,consolidating,INTC,ESG,G,2026-11-19,,,,,,True,Information Technology,stock,S&P 500
+JPM|2026-11-19,consolidating,JPM,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
+KMI|2026-11-19,consolidating,KMI,General,,2026-11-19,,,,,,,Energy,stock,S&P 500
+MA|2026-11-19,consolidating,MA,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
+META|2026-11-19,consolidating,META,ESG,G,2026-11-19,,,,,,True,Communication Services,stock,S&P 500
+MPC|2026-11-19,consolidating,MPC,General,,2026-11-19,,,,,,,Energy,stock,S&P 500
+MSFT|2026-11-19,consolidating,MSFT,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
+MS|2026-11-19,consolidating,MS,ESG,E,2026-11-19,,,,,,False,Financials,stock,S&P 500
+NFLX|2026-11-19,consolidating,NFLX,General,,2026-11-19,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-11-19,consolidating,NVDA,General,,2026-11-19,,,,,,,Information Technology,stock,S&P 500
+PSX|2026-11-19,consolidating,PSX,ESG,E,2026-11-19,,,,,,True,Energy,stock,S&P 500
+RTX|2026-11-19,consolidating,RTX,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
+TSLA|2026-11-19,consolidating,TSLA,General,,2026-11-19,,,,,,,Consumer Discretionary,stock,S&P 500
+TTWO|2026-11-19,consolidating,TTWO,General,,2026-11-19,,,,,,,Communication Services,stock,S&P 500
+UBER|2026-11-19,consolidating,UBER,ESG,S,2026-11-19,,,,,,True,Industrials,stock,S&P 500
+UNP|2026-11-19,consolidating,UNP,ESG,S,2026-11-19,,,,,,True,Industrials,stock,S&P 500
+VLO|2026-11-19,consolidating,VLO,ESG,E,2026-11-19,,,,,,True,Energy,stock,S&P 500
+VRT|2026-11-19,consolidating,VRT,General,,2026-11-19,,,,,,,Industrials,stock,S&P 500
+V|2026-11-19,consolidating,V,General,,2026-11-19,,,,,,,Financials,stock,S&P 500
+WMB|2026-11-19,consolidating,WMB,ESG,E,2026-11-19,,,,,,True,Energy,stock,S&P 500
+XOM|2026-11-19,consolidating,XOM,General,,2026-11-19,,,,,,,Energy,stock,S&P 500
 AAPL|2026-11-18,consolidating,AAPL,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-11-18,consolidating,AMAT,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-18,consolidating,AMD,General,,2026-11-18,,,,,,,Information Technology,stock,S&P 500
@@ -110,90 +135,90 @@ VRT|2026-11-17,consolidating,VRT,ESG,E,2026-11-17,,,,,,True,Industrials,stock,S&
 V|2026-11-17,consolidating,V,General,,2026-11-17,,,,,,,Financials,stock,S&P 500
 WFC|2026-11-17,consolidating,WFC,General,,2026-11-17,,,,,,,Financials,stock,S&P 500
 XOM|2026-11-17,consolidating,XOM,ESG,EG,2026-11-17,,,,,,True,Energy,stock,S&P 500
-AAPL|2026-11-16,consolidating,AAPL,General,,2026-11-16,,,,,,,Information Technology,stock,S&P 500
-AMAT|2026-11-16,consolidating,AMAT,General,,2026-11-16,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-11-16,consolidating,AMD,General,,2026-11-16,,,,,,,Information Technology,stock,S&P 500
-AVGO|2026-11-16,consolidating,AVGO,ESG,E,2026-11-16,,,,,,False,Information Technology,stock,S&P 500
-BAC|2026-11-16,consolidating,BAC,General,,2026-11-16,,,,,,,Financials,stock,S&P 500
-BA|2026-11-16,consolidating,BA,General,,2026-11-16,,,,,,,Industrials,stock,S&P 500
-BRK-B|2026-11-16,consolidating,BRK-B,General,,2026-11-16,,,,,,,Financials,stock,S&P 500
-CAT|2026-11-16,consolidating,CAT,General,,2026-11-16,,,,,,,Industrials,stock,S&P 500
-CMCSA|2026-11-16,consolidating,CMCSA,General,,2026-11-16,,,,,,,Communication Services,stock,S&P 500
-COP|2026-11-16,consolidating,COP,General,,2026-11-16,,,,,,,Energy,stock,S&P 500
-CSCO|2026-11-16,consolidating,CSCO,General,,2026-11-16,,,,,,,Information Technology,stock,S&P 500
-CVX|2026-11-16,consolidating,CVX,ESG,E,2026-11-16,,,,,,True,Energy,stock,S&P 500
-C|2026-11-16,consolidating,C,General,,2026-11-16,,,,,,,Financials,stock,S&P 500
-DE|2026-11-16,consolidating,DE,General,,2026-11-16,,,,,,,Industrials,stock,S&P 500
-EOG|2026-11-16,consolidating,EOG,General,,2026-11-16,,,,,,,Energy,stock,S&P 500
-ETN|2026-11-16,consolidating,ETN,General,,2026-11-16,,,,,,,Industrials,stock,S&P 500
-GEV|2026-11-16,consolidating,GEV,ESG,E,2026-11-16,,,,,,True,Industrials,stock,S&P 500
-GE|2026-11-16,consolidating,GE,General,,2026-11-16,,,,,,,Industrials,stock,S&P 500
-GS|2026-11-16,consolidating,GS,ESG,E,2026-11-16,,,,,,False,Financials,stock,S&P 500
-INTC|2026-11-16,consolidating,INTC,ESG,G,2026-11-16,,,,,,True,Information Technology,stock,S&P 500
-JPM|2026-11-16,consolidating,JPM,General,,2026-11-16,,,,,,,Financials,stock,S&P 500
-LRCX|2026-11-16,consolidating,LRCX,General,,2026-11-16,,,,,,,Information Technology,stock,S&P 500
-MA|2026-11-16,consolidating,MA,General,,2026-11-16,,,,,,,Financials,stock,S&P 500
-META|2026-11-16,consolidating,META,ESG,EG,2026-11-16,,,,,,True,Communication Services,stock,S&P 500
-MPC|2026-11-16,consolidating,MPC,General,,2026-11-16,,,,,,,Energy,stock,S&P 500
-MSFT|2026-11-16,consolidating,MSFT,General,,2026-11-16,,,,,,,Information Technology,stock,S&P 500
-MS|2026-11-16,consolidating,MS,General,,2026-11-16,,,,,,,Financials,stock,S&P 500
-NFLX|2026-11-16,consolidating,NFLX,General,,2026-11-16,,,,,,,Communication Services,stock,S&P 500
-NVDA|2026-11-16,consolidating,NVDA,General,,2026-11-16,,,,,,,Information Technology,stock,S&P 500
-RTX|2026-11-16,consolidating,RTX,ESG,S,2026-11-16,,,,,,True,Industrials,stock,S&P 500
-SLB|2026-11-16,consolidating,SLB,General,,2026-11-16,,,,,,,Energy,stock,S&P 500
-TMUS|2026-11-16,consolidating,TMUS,General,,2026-11-16,,,,,,,Communication Services,stock,S&P 500
-TSLA|2026-11-16,consolidating,TSLA,General,,2026-11-16,,,,,,,Consumer Discretionary,stock,S&P 500
-TTWO|2026-11-16,consolidating,TTWO,General,,2026-11-16,,,,,,,Communication Services,stock,S&P 500
-UBER|2026-11-16,consolidating,UBER,ESG,E,2026-11-16,,,,,,True,Industrials,stock,S&P 500
-UNP|2026-11-16,consolidating,UNP,ESG,S,2026-11-16,,,,,,True,Industrials,stock,S&P 500
-VLO|2026-11-16,consolidating,VLO,ESG,E,2026-11-16,,,,,,True,Energy,stock,S&P 500
-VRT|2026-11-16,consolidating,VRT,ESG,E,2026-11-16,,,,,,True,Industrials,stock,S&P 500
-WFC|2026-11-16,consolidating,WFC,General,,2026-11-16,,,,,,,Financials,stock,S&P 500
-XOM|2026-11-16,consolidating,XOM,General,,2026-11-16,,,,,,,Energy,stock,S&P 500
-AAPL|2026-11-15,consolidating,AAPL,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-11-15,consolidating,AMD,ESG,E,2026-11-15,,,,,,False,Information Technology,stock,S&P 500
-AMZN|2026-11-15,consolidating,AMZN,ESG,S,2026-11-15,,,,,,True,Consumer Discretionary,stock,S&P 500
-AVGO|2026-11-15,consolidating,AVGO,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
-BAC|2026-11-15,consolidating,BAC,General,,2026-11-15,,,,,,,Financials,stock,S&P 500
-CSCO|2026-11-15,consolidating,CSCO,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
-GS|2026-11-15,consolidating,GS,General,,2026-11-15,,,,,,,Financials,stock,S&P 500
-INTC|2026-11-15,consolidating,INTC,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
-META|2026-11-15,consolidating,META,General,,2026-11-15,,,,,,,Communication Services,stock,S&P 500
-MSFT|2026-11-15,consolidating,MSFT,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
-MS|2026-11-15,consolidating,MS,General,,2026-11-15,,,,,,,Financials,stock,S&P 500
-MU|2026-11-15,consolidating,MU,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
-NFLX|2026-11-15,consolidating,NFLX,General,,2026-11-15,,,,,,,Communication Services,stock,S&P 500
-NVDA|2026-11-15,consolidating,NVDA,General,,2026-11-15,,,,,,,Information Technology,stock,S&P 500
-RTX|2026-11-15,consolidating,RTX,General,,2026-11-15,,,,,,,Industrials,stock,S&P 500
-TSLA|2026-11-15,consolidating,TSLA,General,,2026-11-15,,,,,,,Consumer Discretionary,stock,S&P 500
-UBER|2026-11-15,consolidating,UBER,General,,2026-11-15,,,,,,,Industrials,stock,S&P 500
-AAPL|2026-11-14,consolidating,AAPL,ESG,E,2026-11-14,,,,,,False,Information Technology,stock,S&P 500
-AMAT|2026-11-14,consolidating,AMAT,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
-AMD|2026-11-14,consolidating,AMD,ESG,E,2026-11-14,,,,,,False,Information Technology,stock,S&P 500
-AMZN|2026-11-14,consolidating,AMZN,General,,2026-11-14,,,,,,,Consumer Discretionary,stock,S&P 500
-AVGO|2026-11-14,consolidating,AVGO,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
-AXP|2026-11-14,consolidating,AXP,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
-BAC|2026-11-14,consolidating,BAC,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
-BA|2026-11-14,consolidating,BA,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
-CAT|2026-11-14,consolidating,CAT,ESG,G,2026-11-14,,,,,,True,Industrials,stock,S&P 500
-CSCO|2026-11-14,consolidating,CSCO,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
-ETN|2026-11-14,consolidating,ETN,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
-GEV|2026-11-14,consolidating,GEV,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
-GOOGL|2026-11-14,consolidating,GOOGL,General,,2026-11-14,,,,,,,Communication Services,stock,S&P 500
-INTC|2026-11-14,consolidating,INTC,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
-JPM|2026-11-14,consolidating,JPM,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
-META|2026-11-14,consolidating,META,ESG,S,2026-11-14,,,,,,True,Communication Services,stock,S&P 500
-MSFT|2026-11-14,consolidating,MSFT,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
-MS|2026-11-14,consolidating,MS,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
-MU|2026-11-14,consolidating,MU,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
-NFLX|2026-11-14,consolidating,NFLX,General,,2026-11-14,,,,,,,Communication Services,stock,S&P 500
-NVDA|2026-11-14,consolidating,NVDA,General,,2026-11-14,,,,,,,Information Technology,stock,S&P 500
-TSLA|2026-11-14,consolidating,TSLA,ESG,E,2026-11-14,,,,,,False,Consumer Discretionary,stock,S&P 500
-UBER|2026-11-14,consolidating,UBER,ESG,E,2026-11-14,,,,,,True,Industrials,stock,S&P 500
-VLO|2026-11-14,consolidating,VLO,General,,2026-11-14,,,,,,,Energy,stock,S&P 500
-VRT|2026-11-14,consolidating,VRT,General,,2026-11-14,,,,,,,Industrials,stock,S&P 500
-V|2026-11-14,consolidating,V,General,,2026-11-14,,,,,,,Financials,stock,S&P 500
-XOM|2026-11-14,consolidating,XOM,General,,2026-11-14,,,,,,,Energy,stock,S&P 500
+AAPL|2026-11-16,closed,AAPL,General,,2026-11-16,-0.86,7.93,True,0.39,1.81,,Information Technology,stock,S&P 500
+AMAT|2026-11-16,closed,AMAT,General,,2026-11-16,3.46,16.92,True,2.91,3.86,,Information Technology,stock,S&P 500
+AMD|2026-11-16,closed,AMD,General,,2026-11-16,4.98,14.54,True,3.79,3.32,,Information Technology,stock,S&P 500
+AVGO|2026-11-16,closed,AVGO,ESG,E,2026-11-16,8.39,10.94,True,2.07,2.5,False,Information Technology,stock,S&P 500
+BAC|2026-11-16,closed,BAC,General,,2026-11-16,-1.01,5.88,True,0.53,1.34,,Financials,stock,S&P 500
+BA|2026-11-16,closed,BA,General,,2026-11-16,0.85,9.79,True,1.26,2.23,,Industrials,stock,S&P 500
+BRK-B|2026-11-16,closed,BRK-B,General,,2026-11-16,-3.93,3.77,False,0.0,0.86,,Financials,stock,S&P 500
+CAT|2026-11-16,closed,CAT,General,,2026-11-16,1.19,10.04,True,1.98,2.29,,Industrials,stock,S&P 500
+CMCSA|2026-11-16,closed,CMCSA,General,,2026-11-16,-0.34,8.63,True,0.14,1.97,,Communication Services,stock,S&P 500
+COP|2026-11-16,closed,COP,General,,2026-11-16,-11.19,7.16,False,-1.08,1.63,,Energy,stock,S&P 500
+CSCO|2026-11-16,closed,CSCO,General,,2026-11-16,0.67,10.03,True,1.26,2.29,,Information Technology,stock,S&P 500
+CVX|2026-11-16,closed,CVX,ESG,E,2026-11-16,-11.11,5.84,False,-0.92,1.33,True,Energy,stock,S&P 500
+C|2026-11-16,closed,C,General,,2026-11-16,-0.87,6.7,True,1.1,1.53,,Financials,stock,S&P 500
+DE|2026-11-16,closed,DE,General,,2026-11-16,-9.23,8.9,False,0.27,2.03,,Industrials,stock,S&P 500
+EOG|2026-11-16,closed,EOG,General,,2026-11-16,-11.13,7.37,False,-0.99,1.68,,Energy,stock,S&P 500
+ETN|2026-11-16,closed,ETN,General,,2026-11-16,5.86,10.09,True,2.29,2.3,,Industrials,stock,S&P 500
+GEV|2026-11-16,closed,GEV,ESG,E,2026-11-16,4.84,12.73,True,2.17,2.91,True,Industrials,stock,S&P 500
+GE|2026-11-16,closed,GE,General,,2026-11-16,0.7,7.95,True,1.04,1.81,,Industrials,stock,S&P 500
+GS|2026-11-16,closed,GS,ESG,E,2026-11-16,2.12,7.4,True,1.71,1.69,False,Financials,stock,S&P 500
+INTC|2026-11-16,closed,INTC,ESG,G,2026-11-16,15.65,19.63,True,3.88,4.48,True,Information Technology,stock,S&P 500
+JPM|2026-11-16,closed,JPM,General,,2026-11-16,-5.03,5.4,True,0.43,1.23,,Financials,stock,S&P 500
+LRCX|2026-11-16,closed,LRCX,General,,2026-11-16,6.93,17.24,True,3.43,3.93,,Information Technology,stock,S&P 500
+MA|2026-11-16,closed,MA,General,,2026-11-16,-7.27,5.75,False,-0.16,1.31,,Financials,stock,S&P 500
+META|2026-11-16,closed,META,ESG,EG,2026-11-16,4.75,11.74,True,1.56,2.68,True,Communication Services,stock,S&P 500
+MPC|2026-11-16,closed,MPC,General,,2026-11-16,-16.72,9.57,False,-0.46,2.18,,Energy,stock,S&P 500
+MSFT|2026-11-16,closed,MSFT,General,,2026-11-16,-0.25,9.64,True,1.07,2.2,,Information Technology,stock,S&P 500
+MS|2026-11-16,closed,MS,General,,2026-11-16,-0.09,6.56,True,1.37,1.5,,Financials,stock,S&P 500
+NFLX|2026-11-16,closed,NFLX,General,,2026-11-16,-6.48,9.94,True,0.12,2.27,,Communication Services,stock,S&P 500
+NVDA|2026-11-16,closed,NVDA,General,,2026-11-16,1.77,7.78,True,2.16,1.77,,Information Technology,stock,S&P 500
+RTX|2026-11-16,closed,RTX,ESG,S,2026-11-16,-3.98,7.15,True,-0.04,1.63,True,Industrials,stock,S&P 500
+SLB|2026-11-16,closed,SLB,General,,2026-11-16,-1.98,9.65,True,0.61,2.2,,Energy,stock,S&P 500
+TMUS|2026-11-16,closed,TMUS,General,,2026-11-16,-6.12,9.86,True,-0.15,2.25,,Communication Services,stock,S&P 500
+TSLA|2026-11-16,closed,TSLA,General,,2026-11-16,12.47,11.17,False,2.68,2.55,,Consumer Discretionary,stock,S&P 500
+TTWO|2026-11-16,closed,TTWO,General,,2026-11-16,-3.32,9.36,True,0.52,2.14,,Communication Services,stock,S&P 500
+UBER|2026-11-16,closed,UBER,ESG,E,2026-11-16,-1.37,9.18,True,0.66,2.09,True,Industrials,stock,S&P 500
+UNP|2026-11-16,closed,UNP,ESG,S,2026-11-16,-6.95,6.04,False,-0.23,1.38,True,Industrials,stock,S&P 500
+VLO|2026-11-16,closed,VLO,ESG,E,2026-11-16,-16.04,9.78,False,-0.6,2.23,True,Energy,stock,S&P 500
+VRT|2026-11-16,closed,VRT,ESG,E,2026-11-16,6.38,16.44,True,2.91,3.75,True,Industrials,stock,S&P 500
+WFC|2026-11-16,closed,WFC,General,,2026-11-16,-4.74,6.37,True,0.39,1.45,,Financials,stock,S&P 500
+XOM|2026-11-16,closed,XOM,General,,2026-11-16,-12.83,6.49,False,-0.96,1.48,,Energy,stock,S&P 500
+AAPL|2026-11-15,closed,AAPL,General,,2026-11-15,-0.86,7.93,True,0.39,1.81,,Information Technology,stock,S&P 500
+AMD|2026-11-15,closed,AMD,ESG,E,2026-11-15,4.98,14.54,True,3.79,3.32,False,Information Technology,stock,S&P 500
+AMZN|2026-11-15,closed,AMZN,ESG,S,2026-11-15,5.26,8.3,True,1.51,1.89,True,Consumer Discretionary,stock,S&P 500
+AVGO|2026-11-15,closed,AVGO,General,,2026-11-15,8.39,10.94,True,2.07,2.5,,Information Technology,stock,S&P 500
+BAC|2026-11-15,closed,BAC,General,,2026-11-15,-1.01,5.88,True,0.53,1.34,,Financials,stock,S&P 500
+CSCO|2026-11-15,closed,CSCO,General,,2026-11-15,0.67,10.03,True,1.26,2.29,,Information Technology,stock,S&P 500
+GS|2026-11-15,closed,GS,General,,2026-11-15,2.12,7.4,True,1.71,1.69,,Financials,stock,S&P 500
+INTC|2026-11-15,closed,INTC,General,,2026-11-15,15.65,19.63,True,3.88,4.48,,Information Technology,stock,S&P 500
+META|2026-11-15,closed,META,General,,2026-11-15,4.75,11.74,True,1.56,2.68,,Communication Services,stock,S&P 500
+MSFT|2026-11-15,closed,MSFT,General,,2026-11-15,-0.25,9.64,True,1.07,2.2,,Information Technology,stock,S&P 500
+MS|2026-11-15,closed,MS,General,,2026-11-15,-0.09,6.56,True,1.37,1.5,,Financials,stock,S&P 500
+MU|2026-11-15,closed,MU,General,,2026-11-15,6.67,20.72,True,3.38,4.73,,Information Technology,stock,S&P 500
+NFLX|2026-11-15,closed,NFLX,General,,2026-11-15,-6.48,9.94,True,0.12,2.27,,Communication Services,stock,S&P 500
+NVDA|2026-11-15,closed,NVDA,General,,2026-11-15,1.77,7.78,True,2.16,1.77,,Information Technology,stock,S&P 500
+RTX|2026-11-15,closed,RTX,General,,2026-11-15,-3.98,7.15,True,-0.04,1.63,,Industrials,stock,S&P 500
+TSLA|2026-11-15,closed,TSLA,General,,2026-11-15,12.47,11.17,False,2.68,2.55,,Consumer Discretionary,stock,S&P 500
+UBER|2026-11-15,closed,UBER,General,,2026-11-15,-1.37,9.18,True,0.66,2.09,,Industrials,stock,S&P 500
+AAPL|2026-11-14,closed,AAPL,ESG,E,2026-11-14,-0.86,7.93,True,0.39,1.81,False,Information Technology,stock,S&P 500
+AMAT|2026-11-14,closed,AMAT,General,,2026-11-14,3.46,16.92,True,2.91,3.86,,Information Technology,stock,S&P 500
+AMD|2026-11-14,closed,AMD,ESG,E,2026-11-14,4.98,14.54,True,3.79,3.32,False,Information Technology,stock,S&P 500
+AMZN|2026-11-14,closed,AMZN,General,,2026-11-14,5.26,8.3,True,1.51,1.89,,Consumer Discretionary,stock,S&P 500
+AVGO|2026-11-14,closed,AVGO,General,,2026-11-14,8.39,10.94,True,2.07,2.5,,Information Technology,stock,S&P 500
+AXP|2026-11-14,closed,AXP,General,,2026-11-14,1.1,6.08,True,0.72,1.39,,Financials,stock,S&P 500
+BAC|2026-11-14,closed,BAC,General,,2026-11-14,-1.01,5.88,True,0.53,1.34,,Financials,stock,S&P 500
+BA|2026-11-14,closed,BA,General,,2026-11-14,0.85,9.79,True,1.26,2.23,,Industrials,stock,S&P 500
+CAT|2026-11-14,closed,CAT,ESG,G,2026-11-14,1.19,10.04,True,1.98,2.29,True,Industrials,stock,S&P 500
+CSCO|2026-11-14,closed,CSCO,General,,2026-11-14,0.67,10.03,True,1.26,2.29,,Information Technology,stock,S&P 500
+ETN|2026-11-14,closed,ETN,General,,2026-11-14,5.86,10.09,True,2.29,2.3,,Industrials,stock,S&P 500
+GEV|2026-11-14,closed,GEV,General,,2026-11-14,4.84,12.73,True,2.17,2.91,,Industrials,stock,S&P 500
+GOOGL|2026-11-14,closed,GOOGL,General,,2026-11-14,2.26,8.75,True,1.58,2.0,,Communication Services,stock,S&P 500
+INTC|2026-11-14,closed,INTC,General,,2026-11-14,15.65,19.63,True,3.88,4.48,,Information Technology,stock,S&P 500
+JPM|2026-11-14,closed,JPM,General,,2026-11-14,-5.03,5.4,True,0.43,1.23,,Financials,stock,S&P 500
+META|2026-11-14,closed,META,ESG,S,2026-11-14,4.75,11.74,True,1.56,2.68,True,Communication Services,stock,S&P 500
+MSFT|2026-11-14,closed,MSFT,General,,2026-11-14,-0.25,9.64,True,1.07,2.2,,Information Technology,stock,S&P 500
+MS|2026-11-14,closed,MS,General,,2026-11-14,-0.09,6.56,True,1.37,1.5,,Financials,stock,S&P 500
+MU|2026-11-14,closed,MU,General,,2026-11-14,6.67,20.72,True,3.38,4.73,,Information Technology,stock,S&P 500
+NFLX|2026-11-14,closed,NFLX,General,,2026-11-14,-6.48,9.94,True,0.12,2.27,,Communication Services,stock,S&P 500
+NVDA|2026-11-14,closed,NVDA,General,,2026-11-14,1.77,7.78,True,2.16,1.77,,Information Technology,stock,S&P 500
+TSLA|2026-11-14,closed,TSLA,ESG,E,2026-11-14,12.47,11.17,False,2.68,2.55,False,Consumer Discretionary,stock,S&P 500
+UBER|2026-11-14,closed,UBER,ESG,E,2026-11-14,-1.37,9.18,True,0.66,2.09,True,Industrials,stock,S&P 500
+VLO|2026-11-14,closed,VLO,General,,2026-11-14,-16.04,9.78,False,-0.6,2.23,,Energy,stock,S&P 500
+VRT|2026-11-14,closed,VRT,General,,2026-11-14,6.38,16.44,True,2.91,3.75,,Industrials,stock,S&P 500
+V|2026-11-14,closed,V,General,,2026-11-14,-7.73,5.26,False,-0.15,1.2,,Financials,stock,S&P 500
+XOM|2026-11-14,closed,XOM,General,,2026-11-14,-12.83,6.49,False,-0.96,1.48,,Energy,stock,S&P 500
 AAPL|2026-11-13,closed,AAPL,ESG,E,2026-11-13,0.45,7.93,True,0.39,1.81,False,Information Technology,stock,S&P 500
 AMAT|2026-11-13,closed,AMAT,General,,2026-11-13,-0.45,16.92,True,2.88,3.86,,Information Technology,stock,S&P 500
 AMD|2026-11-13,closed,AMD,General,,2026-11-13,7.26,14.41,True,3.7,3.29,,Information Technology,stock,S&P 500
