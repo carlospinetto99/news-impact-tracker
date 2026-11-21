@@ -2,7 +2,12 @@ evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,set
 AAPL|2026-11-21,waiting,AAPL,General,,2026-11-21,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-21,waiting,AMD,General,,2026-11-21,,,,,,,Information Technology,stock,S&P 500
 AVGO|2026-11-21,waiting,AVGO,General,,2026-11-21,,,,,,,Information Technology,stock,S&P 500
+CAT|2026-11-21,waiting,CAT,General,,2026-11-21,,,,,,,Industrials,stock,S&P 500
+COP|2026-11-21,waiting,COP,General,,2026-11-21,,,,,,,Energy,stock,S&P 500
+CSCO|2026-11-21,waiting,CSCO,General,,2026-11-21,,,,,,,Information Technology,stock,S&P 500
+CVX|2026-11-21,waiting,CVX,General,,2026-11-21,,,,,,,Energy,stock,S&P 500
 C|2026-11-21,waiting,C,General,,2026-11-21,,,,,,,Financials,stock,S&P 500
+DE|2026-11-21,waiting,DE,General,,2026-11-21,,,,,,,Industrials,stock,S&P 500
 DIS|2026-11-21,waiting,DIS,General,,2026-11-21,,,,,,,Communication Services,stock,S&P 500
 GS|2026-11-21,waiting,GS,General,,2026-11-21,,,,,,,Financials,stock,S&P 500
 INTC|2026-11-21,waiting,INTC,General,,2026-11-21,,,,,,,Information Technology,stock,S&P 500
@@ -13,6 +18,7 @@ NFLX|2026-11-21,waiting,NFLX,General,,2026-11-21,,,,,,,Communication Services,st
 NVDA|2026-11-21,waiting,NVDA,ESG,E,2026-11-21,,,,,,False,Information Technology,stock,S&P 500
 TSLA|2026-11-21,waiting,TSLA,General,,2026-11-21,,,,,,,Consumer Discretionary,stock,S&P 500
 TTWO|2026-11-21,waiting,TTWO,General,,2026-11-21,,,,,,,Communication Services,stock,S&P 500
+UNP|2026-11-21,waiting,UNP,ESG,S,2026-11-21,,,,,,True,Industrials,stock,S&P 500
 WFC|2026-11-21,waiting,WFC,General,,2026-11-21,,,,,,,Financials,stock,S&P 500
 AAPL|2026-11-20,consolidating,AAPL,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-11-20,consolidating,AMAT,General,,2026-11-20,,,,,,,Information Technology,stock,S&P 500
