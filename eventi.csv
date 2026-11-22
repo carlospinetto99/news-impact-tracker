@@ -1,9 +1,15 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+CSCO|2026-11-22,waiting,CSCO,General,,2026-11-22,,,,,,,Information Technology,stock,S&P 500
+NVDA|2026-11-22,waiting,NVDA,General,,2026-11-22,,,,,,,Information Technology,stock,S&P 500
+PSX|2026-11-22,waiting,PSX,General,,2026-11-22,,,,,,,Energy,stock,S&P 500
+TSLA|2026-11-22,waiting,TSLA,General,,2026-11-22,,,,,,,Consumer Discretionary,stock,S&P 500
+WMB|2026-11-22,waiting,WMB,General,,2026-11-22,,,,,,,Energy,stock,S&P 500
 AAPL|2026-11-21,waiting,AAPL,General,,2026-11-21,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-21,waiting,AMD,General,,2026-11-21,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-11-21,waiting,AMZN,General,,2026-11-21,,,,,,,Consumer Discretionary,stock,S&P 500
 AVGO|2026-11-21,waiting,AVGO,General,,2026-11-21,,,,,,,Information Technology,stock,S&P 500
 BAC|2026-11-21,waiting,BAC,General,,2026-11-21,,,,,,,Financials,stock,S&P 500
+BA|2026-11-21,waiting,BA,General,,2026-11-21,,,,,,,Industrials,stock,S&P 500
 CAT|2026-11-21,waiting,CAT,General,,2026-11-21,,,,,,,Industrials,stock,S&P 500
 COP|2026-11-21,waiting,COP,General,,2026-11-21,,,,,,,Energy,stock,S&P 500
 CSCO|2026-11-21,waiting,CSCO,General,,2026-11-21,,,,,,,Information Technology,stock,S&P 500
