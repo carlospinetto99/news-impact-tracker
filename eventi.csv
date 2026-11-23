@@ -1,6 +1,16 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AMD|2026-11-23,waiting,AMD,General,,2026-11-23,,,,,,,Information Technology,stock,S&P 500
+AMZN|2026-11-23,waiting,AMZN,General,,2026-11-23,,,,,,,Consumer Discretionary,stock,S&P 500
+GS|2026-11-23,waiting,GS,General,,2026-11-23,,,,,,,Financials,stock,S&P 500
+INTC|2026-11-23,waiting,INTC,General,,2026-11-23,,,,,,,Information Technology,stock,S&P 500
+KMI|2026-11-23,waiting,KMI,General,,2026-11-23,,,,,,,Energy,stock,S&P 500
+META|2026-11-23,waiting,META,General,,2026-11-23,,,,,,,Communication Services,stock,S&P 500
 MSFT|2026-11-23,waiting,MSFT,General,,2026-11-23,,,,,,,Information Technology,stock,S&P 500
-NVDA|2026-11-23,waiting,NVDA,General,,2026-11-23,,,,,,,Information Technology,stock,S&P 500
+MU|2026-11-23,waiting,MU,General,,2026-11-23,,,,,,,Information Technology,stock,S&P 500
+NFLX|2026-11-23,waiting,NFLX,General,,2026-11-23,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-11-23,waiting,NVDA,ESG,G,2026-11-23,,,,,,True,Information Technology,stock,S&P 500
+TSLA|2026-11-23,waiting,TSLA,General,,2026-11-23,,,,,,,Consumer Discretionary,stock,S&P 500
+TTWO|2026-11-23,waiting,TTWO,General,,2026-11-23,,,,,,,Communication Services,stock,S&P 500
 AAPL|2026-11-22,waiting,AAPL,General,,2026-11-22,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-22,waiting,AMD,General,,2026-11-22,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-11-22,waiting,AMZN,General,,2026-11-22,,,,,,,Consumer Discretionary,stock,S&P 500
