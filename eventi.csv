@@ -1,5 +1,7 @@
 evento,stato,ticker,mondo,tag,giorno0,car,soglia,rumore,beta,sigma,materiale,settore,tipo,bench
+AAPL|2026-11-28,waiting,AAPL,General,,2026-11-28,,,,,,,Information Technology,stock,S&P 500
 AMZN|2026-11-28,waiting,AMZN,ESG,G,2026-11-28,,,,,,True,Consumer Discretionary,stock,S&P 500
+CSCO|2026-11-28,waiting,CSCO,General,,2026-11-28,,,,,,,Information Technology,stock,S&P 500
 C|2026-11-28,waiting,C,General,,2026-11-28,,,,,,,Financials,stock,S&P 500
 GS|2026-11-28,waiting,GS,General,,2026-11-28,,,,,,,Financials,stock,S&P 500
 JPM|2026-11-28,waiting,JPM,General,,2026-11-28,,,,,,,Financials,stock,S&P 500
@@ -8,6 +10,8 @@ MA|2026-11-28,waiting,MA,General,,2026-11-28,,,,,,,Financials,stock,S&P 500
 META|2026-11-28,waiting,META,General,,2026-11-28,,,,,,,Communication Services,stock,S&P 500
 MS|2026-11-28,waiting,MS,General,,2026-11-28,,,,,,,Financials,stock,S&P 500
 NFLX|2026-11-28,waiting,NFLX,General,,2026-11-28,,,,,,,Communication Services,stock,S&P 500
+NVDA|2026-11-28,waiting,NVDA,General,,2026-11-28,,,,,,,Information Technology,stock,S&P 500
+TSLA|2026-11-28,waiting,TSLA,General,,2026-11-28,,,,,,,Consumer Discretionary,stock,S&P 500
 WFC|2026-11-28,waiting,WFC,General,,2026-11-28,,,,,,,Financials,stock,S&P 500
 AAPL|2026-11-27,consolidating,AAPL,General,,2026-11-27,,,,,,,Information Technology,stock,S&P 500
 AMAT|2026-11-27,consolidating,AMAT,General,,2026-11-27,,,,,,,Information Technology,stock,S&P 500
@@ -46,7 +50,7 @@ UNP|2026-11-27,consolidating,UNP,General,,2026-11-27,,,,,,,Industrials,stock,S&P
 VRT|2026-11-27,consolidating,VRT,General,,2026-11-27,,,,,,,Industrials,stock,S&P 500
 V|2026-11-27,consolidating,V,General,,2026-11-27,,,,,,,Financials,stock,S&P 500
 WFC|2026-11-27,consolidating,WFC,General,,2026-11-27,,,,,,,Financials,stock,S&P 500
-XOM|2026-11-27,consolidating,XOM,General,,2026-11-27,,,,,,,Energy,stock,S&P 500
+XOM|2026-11-27,consolidating,XOM,ESG,E,2026-11-27,,,,,,True,Energy,stock,S&P 500
 AAPL|2026-11-26,consolidating,AAPL,ESG,G,2026-11-26,,,,,,True,Information Technology,stock,S&P 500
 AMAT|2026-11-26,consolidating,AMAT,General,,2026-11-26,,,,,,,Information Technology,stock,S&P 500
 AMD|2026-11-26,consolidating,AMD,General,,2026-11-26,,,,,,,Information Technology,stock,S&P 500
@@ -148,6 +152,7 @@ GEV|2026-11-24,consolidating,GEV,ESG,E,2026-11-24,,,,,,True,Industrials,stock,S&
 GE|2026-11-24,consolidating,GE,General,,2026-11-24,,,,,,,Industrials,stock,S&P 500
 GS|2026-11-24,consolidating,GS,General,,2026-11-24,,,,,,,Financials,stock,S&P 500
 INTC|2026-11-24,consolidating,INTC,General,,2026-11-24,,,,,,,Information Technology,stock,S&P 500
+KMI|2026-11-24,consolidating,KMI,General,,2026-11-24,,,,,,,Energy,stock,S&P 500
 LRCX|2026-11-24,consolidating,LRCX,General,,2026-11-24,,,,,,,Information Technology,stock,S&P 500
 MA|2026-11-24,consolidating,MA,General,,2026-11-24,,,,,,,Financials,stock,S&P 500
 META|2026-11-24,consolidating,META,General,,2026-11-24,,,,,,,Communication Services,stock,S&P 500
